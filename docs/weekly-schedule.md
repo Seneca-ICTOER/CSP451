@@ -1,6 +1,6 @@
 ---
 id: intro
-title: Table of contents
+title: Weekly Schedule
 sidebar_position: 1
 slug: /
 description: Contents of (course notes title here)
