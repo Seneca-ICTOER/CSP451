@@ -14,11 +14,11 @@ description: Contents of (course notes title here)
 - [Topic 2](A-Introduction/topic-file-2.md)
 - [Topic 3](A-Introduction/topic-file-3.md)
 
-## Tutorial
+## Tutorials
 
-- [Topic 1](B-Tutorial/topic-file-1.md)
-- [Topic 2](B-Tutorial/topic-file-2.md)
-- [Topic 3](B-Tutorial/topic-file-3.md)
+- [Topic 1](B-Tutorials/topic-file-1.md)
+- [Topic 2](B-Tutorials/topic-file-2.md)
+- [Topic 3](B-Tutorials/topic-file-3.md)
 
 ## Assignments
 
