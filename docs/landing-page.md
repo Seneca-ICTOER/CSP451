@@ -8,10 +8,6 @@ description: Landing Page for the CSP451 Course
 
 ## Welcome to CSP451-Computer Systems Project
 
-### Quick Links
-
-| [Weekly Schedule](./weekly-schedule.md) | [MySeneca (Blackboard)](https://my.senecacollege.ca/) | [Course Outline](https://apps.senecapolytechnic.ca/ssos/findOutline.do?termCode=08424&subjectCode=CSP451&schoolCode=ITAS) | [Course Policies](/B-ExtraResources/course-policies.md) |
-| :--- | :--- | :--- | :--- |
 
 ### What This Course is About
 
@@ -31,37 +27,6 @@ After successfully logging into Matrix from the college computers, there are sev
 
 **In case of problems with:**
 
-  - logging into your Matrix account
-  - not seeing your home directory in your Matrix Account
-  - any other Matrix issue
-
-If you require technical assistance with the issues above, please click on the following link: [IT Service Desk](https://students.senecacollege.ca/spaces/190/support/wiki/view/1473/contact-its).
-
-Phoning may resolve the issue sooner. Be ready to specify the exact error message you received.
-
-You could also e-mail the ITS  Service Desk at: servicedesk@senecacollege.ca
-
-It's extremely helpful to take a full-desktop screenshot of your screen with the error message you received. Attach the image to your message when you contact the Service Desk through your MySeneca email.
-
-### Course Resources
-
-#### Free Applications for Remote Access
-
-- [Secure Shell SSH/SFTP](https://www.sfsu.edu/ftp/win/ssh/SSHSecureShellClient-3.2.9.exe)
-- [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
-- [Bitvise SSH Client](https://www.bitvise.com/ssh-client-download)
-- [Moba Xterm](https://mobaxterm.mobatek.net/download-home-edition.html)
-
-#### The Learning Centre
-
-[The Learning Centre](http://inside.senecacollege.ca/learningcentres/supported-learning-groups.html) is a resource to assist students that additional course help, english reading / writing support and improving study skills.
-
-#### Supported Learning Groups (SLGs)
-
-[Supported Learning Groups](https://library.senecacollege.ca/learningcentre/slg) are peer-facilitated study sessions targeted to help students review course material for difficult courses. It is a student-driven, informal study group offered regularly where students can discuss course content, develop learning strategies, predict test items, compare notes and develop organizational tools while learning how to integrate course content and study skills together.
-
-Benefits of Supported Learning Groups include:
-  - Make efficient and effective use of study time
-  - Build learning strategies that integrate course content with study techniques
-  - Meet classmates as you improve teamwork ability and leadership skills
-  - Stay on top, feel confident and be prepared for lectures, weekly tutorials, review tutorials, tests, etc.
+- logging into your Matrix account
+- not seeing your home directory in your Matrix Account
+- any other Matrix issue
