@@ -29,19 +29,3 @@ description: Weekly Schedule CSP451
 To learn more check Seneca's Integrity in Action module. Go through the Integrity in Action learning module and earn a badge. Capture a screenshot of your badge and submit the screenshot on Seneca@Learn (Blackboard) for a 1% bonus mark!
 
 ## Introduction <a id="part-a-introduction"></a>
-
-- [Test Page](A-Introduction/testfile.md)
-- [Topic 2](A-Introduction/topic-file-2.md)
-- [Topic 3](A-Introduction/topic-file-3.md)
-
-## Tutorials
-
-- [Topic 1](B-Tutorials/topic-file-1.md)
-- [Topic 2](B-Tutorials/topic-file-2.md)
-- [Topic 3](B-Tutorials/topic-file-3.md)
-
-## Assignments
-
-- [Topic 1](C-Assignments/topic-file-1.md)
-- [Topic 2](C-Assignments/topic-file-2.md)
-- [Topic 3](C-Assignments/topic-file-3.md)
