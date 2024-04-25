@@ -36,7 +36,7 @@ In this Checkpoint we will accomplish the following objectives:
 
 Work from local VS Code. Make sure you are working in the folder specific to this assignment. In your `CSP451-Azure-Projectfolder` run command `ls -la` and make sure you can see the `.git` hidden folder that contains all the git workflow information. Make a directory `Checkpoint3`. In this directory create a file `README.me`. Add `# Checkpoint3 Submission` header to `README.md`
 
-- In your `Checkpoint3` folder create a subfolder called `conflict-resolution` and copy all files from [conflict-resolution](./conflict-resolution/) into your folder
+- In your `Checkpoint3` folder create a subfolder called `conflict-resolution` and copy all files from conflict-resolution into your folder
 - Navigate through the files and understand what it does, you will need to modify the content later on in this assignment. Install `HTML Preview` package form VSCode marketplace to preview the `index.html` file.
 - Push your changes to remote: `add`, `commit`, `push` your work with comment _"adds conflict-resolution folder"_
 - You need to modify your remote GitHub repo at this step. From your browser go to your repo and find the file `conflict-resolution/index.html` and find below line in it:
@@ -175,7 +175,7 @@ nothing to commit, working tree clean
 
 - Create a branch `feat-learn-markdown` and checkout to it, using `git checkout -b feat-learn-markdown`.
 - Working in this branch create a directory called `learn-markdown`.
-- Copy [./learn-markdown/README.md](./learn-markdown/README.md) into your folder. Study this file and learn how to collapse a block in markdown
+- Copy learn-markdown/README.md into your folder. Study this file and learn how to collapse a block in markdown
 - Push your changes to remote: `add`, `commit`, `push` your work with comment _"adds learn-markdown/README.md"_.
 - You will need to create the upstream using `git push --set-upstream origin feat-learn-markdown`.
 - Check your remote in browser.
@@ -259,7 +259,7 @@ In your 'pdf' file include below information:
 
 - Your report file format and naming must follow above instruction, **no marks** will be given to submissions that do not follow the above instructions.
 - Do not copy anything from the course notes or references in your submission. What you submit must be your authentic work, even if it is brief. A zero mark will be given to works that are copied from other people's work, and you will be reported to academic misconduct committee for further actions.
-- [Seneca’s Copyright Policy](#seneca’s-copyright-policy) applies to all the content you create and all the material provided to you throughout the course.
+- Seneca’s Copyright Policy ??? applies to all the content you create and all the material provided to you throughout the course.
 
 ---
 
@@ -273,12 +273,3 @@ In your 'pdf' file include below information:
 
 The course content and assignment instructions keep changing and evolving. Mistakes are inevitable. There would be a bonus mark for finding errors in any form in the instructions. Also a bonus mark for suggestions about how to improve the instructions to make them more clear and easier to follow.
 
----
-
-### Seneca’s Copyright Policy
-
-> Most of the materials posted in this course are protected by copyright. It is a violation of Canada's Copyright Act and [Seneca's Copyright Policy](https://www.senecacollege.ca/about/policies/copyright-policy.html) to share, post, and/or upload course material in part or in whole without the permission of the copyright owner. This includes posting materials to third-party file-sharing sites such as assignment-sharing or homework help sites. Course material includes teaching material, assignment questions, tests, and presentations created by faculty, other members of the Seneca community, or other copyright owners.
-
-> It is also prohibited to reproduce or post to a third-party commercial website work that is either your own work or the work of someone else, including (but not limited to) assignments, tests, exams, group work projects, etc. This explicit or implied intent to help others may constitute a violation of [Seneca’s Academic Integrity Policy](https://www.senecacollege.ca/about/policies/academic-integrity-policy.html) and potentially involve such violations as cheating, plagiarism, contract cheating, etc.  
-
-> These prohibitions remain in effect both during a student’s enrollment at the college as well as withdrawal or graduation from Seneca.
