@@ -145,26 +145,18 @@ git pull origin feat-body-text -v > <path-to-logs>/logs/part3-pull-conflict.log 
 - **You can only do this once, if you try to repeat this step it will not produce same results!** Submit the log file in GitHub in `<path-to-logs>/logs` folder. Embed the content of this file as part of your submission, as well.
 - Open the `index.html` file in VSCode, if it is not open and check it. If you have the correct VSCode settings, the editor will show the conflict. It would look somewhat like below image:
 
-<img src="./images/conflict-merge.jpg"
-     alt="conflict Merge"
-     title="Conflict Merge"
-     style="float: left; margin-right: 10px;" />
+
 
 - Click on `Resolve in Merge Editor` and again if your VSCode extensions are properly installed, it should open a merge editor page that looks somewhat like below:
 
-<img src="./images/conflict-merge-diff.jpg"
-     alt="conflict Merge Diff"
-     title="Conflict Merge Editor"
-     style="float: left; margin-right: 10px;" />
+
 
 - In the top left find `Accept Incoming` and click on it and then find `Accept Current` and click on it, both are shown in red circles in above image.
 - Once you have accepted both the changes, click the `Complete Merge` button. This will merge both incoming and local changes into your file. You could choose to ignore both or first accept local and then incoming. Remember that you will always control how this workflow will be implemented.
 - Run a `git status` command. If you have followed all steps correctly it will indicate that you have changes to be committed. Redirect the output to a file using `git status > <path-to-logs>/logs/part3-status.log`. Then `commit` your changes in `main` branch with comment _"commits merged index.html to local repo"_.
 - ⚠️ Follow by a `git push` to `main` branch. Then go to remote and make sure you will see both the paragraphs in the `index.html`. It should like below. Add a screenshot in your submission.
 
-<img src="./images/conflict-merge-final.jpg"
-     alt="conflict Merge Final"
-     style="float: left; margin-right: 10px;" />
+
 
 ---
 
