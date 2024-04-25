@@ -10,6 +10,14 @@ description: Weekly Schedule CSP451
 ## What you need to know
 ![What you need to know](/img/misc/WYNTK_wide.jpg)
 
+
+<figure>
+    <img src="/img/misc/WYNTK_wide.jpg"
+         alt="What you need to know">
+    <figcaption>A single track trail outside of Albuquerque, New Mexico.</figcaption>
+</figure>
+
+
 ### Cheating and Plagiarism
 
 - Don’t copy another person’s work (answers for tests, labs or assignments)
