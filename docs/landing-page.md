@@ -29,6 +29,7 @@ Course GitHub Material codes and scripts are continuously updated, it is a good 
 - add how to update id and profile name
 
 ### Class Demo - Bonus Marks
+
 Throughout the semester, you will have multiple opportunities to present a topic that interests all students for a bonus mark. I would sometimes suggest the topic, but I am also open to your suggestions. The idea is to help you improve your presentation skills while helping us all learn new and useful topics.
 
 ### Presentation & Demo Guidelines

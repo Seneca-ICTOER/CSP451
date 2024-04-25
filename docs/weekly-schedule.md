@@ -24,8 +24,5 @@ description: Weekly Schedule CSP451
 - If it is suspected that you have committed academic integrity, it will be reported to the college following the procedure explained in the above link.
 - In simple words, if you copy the answers of your fellow students, or your answers match each other or your answers are not unique/copied from the internet, I can safely assume that you cheated
 
-## Academic Integrity Badge
-
-To learn more check Seneca's Integrity in Action module. Go through the Integrity in Action learning module and earn a badge. Capture a screenshot of your badge and submit the screenshot on Seneca@Learn (Blackboard) for a 1% bonus mark!
 
 ## Introduction <a id="part-a-introduction"></a>
