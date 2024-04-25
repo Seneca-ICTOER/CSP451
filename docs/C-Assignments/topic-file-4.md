@@ -1,7 +1,7 @@
 ---
 id: topic-file-4
 title: Checkpoint3
-sidebar_position: 2
+sidebar_position: 5
 description: TBD
 ---
 
