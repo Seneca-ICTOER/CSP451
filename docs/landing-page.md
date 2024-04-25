@@ -21,7 +21,7 @@ You will need a **Matrix** account to complete and submit the CSP451 Weekly Tuto
 
 #### Logging into Matrix Linux Account
 
-After successfully logging into Matrix from the college computers, there are several other ways you can login to Matrix depending on your operating system of choice. Please see the following [tutorial](/A-Tutorials/tutorial1.md#method-1-connecting-to-your-matrix-account-from-your-home-computer) for detailed instructions.
+
 
 #### Requesting Support - Matrix Account Access
 
