@@ -1,13 +1,15 @@
 ---
 id: collaboration
-title: Collaboration using GitHub Discussions
+title: Course Collaboration
 sidebar_position: 4
-description: This course uses GitHub Discussions for collaboration, issue resolution and technical resolutins.
+description: Course Collaboration CSP451
 ---
 
-# Collaboration using GitHub Discussions
+# GitHub Discussions
 
 We will be using GitHub Discussions in the course repository: Azure-Project-Winter2024 from course organization: CSP451-ComputerSystemsProject. Always create discussion topics with meaningful titles that other students can use in their searches. Add proper tags, and include all details in the discussion body. A well-created, clear and concise topic will always get better attention. You can find the discussions page here: Azure-Project-Winter2024/discussions
+
+This course uses GitHub Discussions for collaboration, issue resolution and technical resolutins.
 
 GitHub Community Guidelines
 https://docs.github.com/en/site-policy/github-terms/github-community-guidelines

@@ -45,18 +45,18 @@ You are also expected to be proficient in remotely creating, administering and d
 2. Basic knowledge of computer networking concepts, including IP addressing, subnetting, and routing.
 3. Familiarity with cloud computing fundamentals and Azure services is recommended but not mandatory.
 
-### Accessing GitHub Organization
+### How to Ace this course
 
-![github-organization](/img/about/github_icon.png)
+By meeting these success criteria, students will have the necessary skills and knowledge to design, deploy, and manage cloud network infrastructures effectively, preparing them for success in careers related to cloud computing and networking.
 
-You will need a GitHub account to complete and submit the CSP451 Weekly Assignments. The GitHub account you use in this course must be linked to your _@myseneca.ca_ email. You cannot use personal or work GitHub for this course.
-
-If you have not created a GitHub account using your Seneca email, you can wait until the first day of the class to set it up. If you already have created the GitHub account, make sure to follow instructions in ??? to update user-id and profile name as per course requirements.
-
-Course GitHub Material codes and scripts are continuously updated, it is a good idea to add a watch on the repo and keep monitoring its updates.
-
-add how to create a watch here
-add how to update id and profile name
+Understanding of Cloud Networking Concepts: Students should demonstrate a solid understanding of fundamental cloud networking concepts, including virtual networks, subnets, IP addressing, routing, and network security principles.
+Proficiency in Cloud Platform Navigation: Students should be able to navigate and utilize cloud platforms such as Azure or AWS to deploy, configure, and manage network infrastructure components effectively.
+Design and Implementation Skills: Students should be capable of designing and implementing network architectures in the cloud, considering factors such as scalability, availability, performance, and security.
+Troubleshooting and Problem-Solving Abilities: Students should demonstrate the ability to diagnose and troubleshoot network issues in a cloud environment using appropriate tools and techniques.
+Security Compliance and Best Practices: Students should understand security best practices for cloud networking and be able to implement security measures such as encryption, access control, and network segmentation to protect data and resources.
+Scalability and Performance Optimization: Students should be able to design network infrastructures that can scale dynamically to accommodate changing workloads while maintaining optimal performance and efficiency.
+Effective Communication and Collaboration: Students should demonstrate effective communication and collaboration skills by working collaboratively on group projects, presenting findings clearly, and participating actively in discussions and peer reviews.
+Adaptability and Continuous Learning: Students should demonstrate adaptability to new technologies and methodologies in cloud networking and show a willingness to engage in continuous learning and professional development in the field.
 
 
  Keep failing, if you are not failing, it means you are not trying novel things

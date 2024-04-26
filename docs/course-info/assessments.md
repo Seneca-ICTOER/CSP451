@@ -15,13 +15,13 @@ description: Course Assessments CSP451
 
 For details of mark breakdown, refer to the Blackboard Portal. The link to the portal can be found in [Quick Links](#quick-links) section. This page serves as a general overview providing an outline of the assessment types and criteria for the course. For more detailed information on specific assessments, including weightings, rubrics, and submission due dates refer to the Blackboard Portal. For assessment details including instructions, and submission requirements refer to CSP451 GitHub and Assignment Instructions in [Quick Links](#quick-links) section.
 
-Learning journey is structured around **Checkpoints**, **Milestones**, and **Final Evaluation Project**, each designed to progressively build your skills and knowledge in the subject matter. Together, these components form a cohesive and structured learning experience, empowering you to achieve your learning objectives and emerge with tangible skills and accomplishments in the subject area.
+Learning journey is structured around **Checkpoints**, **Milestones**, and **Final Evaluation**, each designed to progressively build your skills and knowledge in the subject matter. Together, these components form a cohesive and structured learning experience, empowering you to achieve your learning objectives and emerge with tangible skills and accomplishments in the subject area.
 
 The checkpoints serve as pivotal deliverables where you'll delve into specific topics, mastering essential concepts and techniques targeted in that checkpoint. All checkpoints are hands-on exercises, that requires you to complete the practical sections and answer questions that assess your learning.
 
 Additionally, the milestones represent significant achievements throughout the course, marking key junctures where you'll showcase your proficiency and apply your newfound expertise to real-world scenarios or projects.
 
-Finally, your learning is assessed through the Final Evaluation Project, where you'll synthesize and demonstrate your skills by tackling a complex challenge or developing a comprehensive solution that integrates the knowledge and techniques acquired throughout the course.
+Finally, your learning is assessed through the Final Evaluation, where you'll synthesize and demonstrate your skills by tackling a complex challenge or developing a comprehensive solution that integrates the knowledge and techniques acquired throughout the course.
 
 ## Assessment Policies Overview
 
@@ -56,21 +56,30 @@ In order to successfully pass this course, you need to comply with below:
 3. Milestones that are submitted after due dates, will receive a penalty of 30% per every day of late submission for a maximum of 3 days.
 4. **No marks** will be given to Milestones or Checkpoints submitted 3 days or later than the due date​.
 5. If you have missed the Checkpoint due date by more than three days, you must still submit your work completely, course promotion policies require you to submit **ALL** your coursework to avoid failing the course.
-6. Final Evaluation Project that are submitted after due date receive no marks, Special Course Promotion Policy will be in effect​, that is you will **FAIL** the course.
+6. Final Evaluation that are submitted after due date receive no marks, Special Course Promotion Policy will be in effect​, that is you will **FAIL** the course.
 
-### Assessment Criteria
+## Assessment Criteria
 
 - [Quick Links](#quick-links)
 - [Summary](#summary)
 - [Assessment Policies Overview](#assessment-policies-overview)
 - [Special Course Promotion Policies](#special-course-promotion-policies)
 - [Late Submission Policies](#late-submission-policies)
-  - [Assessment Criteria](#assessment-criteria)
+- [Assessment Criteria](#assessment-criteria)
   - [Checkpoints](#checkpoints)
   - [Milestones](#milestones)
   - [Final Evaluation](#final-evaluation)
   - [Adherence to Cloud Resource Management](#adherence-to-cloud-resource-management)
   - [Bonus Marks](#bonus-marks)
+
+Checkpoints
+Milestones
+Case-Study
+Class 
+Final Evaluation
+Budget Management
+
+
 
 ### Checkpoints
 
@@ -113,17 +122,15 @@ and submit your work after the instructions are posted
 
 ### Adherence to Cloud Resource Management
 
- You need to demonstrate that you are able to skillfully manage your cloud resources and work
-within allocated budget to your Azure subscription for this course
- At the end of semester, your professor will assess your adherence to Cloud Resource
-Management and decide on granting the 10% of your total mark allocating to this assessment
- This is a binary assessment, which means you either get a full mark or zero
- Follow below to receive a full mark:
- Do not use the environment assigned to you for this course for any other course or any other purposes
- Safeguard your 2FA device, loss of your device will result in losing your 10%
- Complete all Cloud related course work within the $100 credit given to you, you will need to constantly
-monitor your cost analysis and follow policy settings
- Do not delete or modify the default setting
+1. You need to demonstrate that you are able to skillfully manage your cloud resources and work within allocated budget to your Azure subscription for this course.
+2. At the end of semester, your professor will assess your adherence to Cloud Resource
+3. Management and decide on granting the 10% of your total mark allocating to this assessment.
+4. This is a binary assessment, which means you either get a full mark or zero.
+5. Follow below to receive a full mark:
+   - Do not use the environment assigned to you for this course for any other course or any other purposes
+   - Safeguard your 2FA device, loss of your device will result in losing your 10%
+   - Complete all Cloud related course work within the $100 credit given to you, you will need to constantly monitor your cost analysis and follow policy settings
+   - Do not delete or modify the default setting
 
 ### Bonus Marks
 
@@ -131,3 +138,76 @@ monitor your cost analysis and follow policy settings
 
 Volunteers to participate in class and demo, will be entitled to a bonus mark of up
 to 2 marks in total, throughout the course
+
+Class Demo - Bonus Marks
+Throughout the semester, you will have multiple opportunities to present a topic that interests all students for a bonus mark. I would sometimes suggest the topic, but I am also open to your suggestions. The idea is to help you improve your presentation skills while helping us all learn new and useful topics.
+
+Presentation & Demo Guidelines
+As we proceed with this practice, I will add more guidelines here, for now, I can think of:
+
+Topics must be related to the course content and go beyond and above the class teaching.
+If you like to contribute, directly message me in MS-Team and I will add your presentation and demo information here. 
+Once committed to a date, try not to change it. Even though this is for a Bonus Mark only, and I will not deduct marks if you miss, reschedule, or your work does not meet expectations, once you commit, take it seriously.
+I will only be involved in the selection of topics and overall content, you have the freedom to choose how to create slides/demos to be effective
+I suggest you have a couple of presentation slides to review the concept followed by a real-time demo or recorded demo. The work must be your authentic work, you can't use someone else's demo
+Keep it short, I suggest targeting 15-20 minutes, beyond that you will lose interest and it is usually the time given to you to present your work in real-world scenarios. Learn to be concise.
+
+Topic
+
+ Date
+
+ Student Name
+
+ Description
+
+Useful Links
+
+Documents
+
+Semantic Pull Request
+
+Wednesday, Feruary 7, 2024
+
+
+
+What is a semantic Pull Request?
+
+How to ensure your PRs are semantically correct?
+
+GitHub Apps Semantic Pull Requests
+
+
+
+Using Templates for GitHub Issues
+
+Wednesday, February 7, 2024 
+
+
+
+How to use yaml and md templates for issues or collaborations?
+
+Configuring issue templates for your repository
+
+
+
+Using GitHub collaboration channel & issues effectively
+
+Wednesday, January 31, 2024 (tentative)
+
+
+
+How to use course collaboration space more effectively so all students can benefit?
+
+The Ultimate Github Collaboration Guide
+
+
+
+Using GitHub Pages to host a simple static website
+
+Wednesday, March 6, 2024 (tentative)
+
+
+
+How to build a simple static website for your GitHub Profile?
+
+GitHub Pages Websites
