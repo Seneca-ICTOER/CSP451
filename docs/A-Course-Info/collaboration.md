@@ -1,5 +1,5 @@
 ---
-id: introduction1
+id: collaboration
 title: Collaboration using GitHub Discussions
 sidebar_position: 2
 description: This course uses GitHub Discussions for collaboration, issue resolution and technical resolutins.
