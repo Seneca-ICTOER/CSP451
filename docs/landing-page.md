@@ -32,9 +32,9 @@ This is a project-based course that provides an opportunity for you to apply the
 - Design, provision and troubleshoot scalable, portable, and resilient solutions and containerized applications.
 - Optimize costs by effectively managing cloud resources and understanding pricing models.
 
-## Course Key Components
+## Course Outline
 
-This course has three main components:
+This course is divided to three parts:
 
 - Part One - Version Control Systems
 - Part Two - Azure Computer Networking
@@ -102,22 +102,23 @@ Docker fundamentals: images, containers, and registries
 Creating Docker images for microservices components
 
 1. Introduction to Containerization with Docker:
-        - Docker fundamentals: images, containers, and registries.
-        - Docker ecosystem and differences between VMs and Containers.
+    - Docker fundamentals: images, containers, and registries.
+    - Docker ecosystem and differences between VMs and Containers.
 2. Introduction to Multi-Tenancy and Docker:
-        - Understanding multi-tenancy design patterns.
-        - Deployment of a Multi-tenant application with Docker Engine.
+    - Understanding multi-tenancy design patterns.
+    - Deployment of a Multi-tenant application with Docker Engine.
 3. Introduction to Docker Compose:
-        - Using Docker Compose for container orchestration.
-        - Key features, benefits of Docker Compose and where to use it.
+    - Using Docker Compose for container orchestration.
+    - Key features, benefits of Docker Compose and where to use it.
 4. Introduction to Orchestration with Kubernetes
-        - Understanding Kubernetes and container orchestration
-        - Kubernetes features and cluster management
+    - Understanding Kubernetes and container orchestration
+    - Kubernetes features and cluster management
 5. Networking and Service Discovery in Kubernetes
-        - Kubernetes networking concepts
-        - Service types and load balancing
+    - Kubernetes networking concepts
+    - Service types and load balancing
 6. Multi-Tenant Application Deployment
-        - Deploy a multi-tenant application using Kind/Minikube
-        - Deploy a multi-tenant application in Azure Kubernetes Services (AKS)
+    - Deploy a multi-tenant application using Kind/Minikube
+    - Deploy a multi-tenant application in Azure Kubernetes Services (AKS)
 
-Got back to [Top](#top)
+
+Go back to [Top](#top)

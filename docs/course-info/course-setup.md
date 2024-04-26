@@ -24,3 +24,31 @@ Course GitHub Material codes and scripts are continuously updated, it is a good 
 
 add how to create a watch here
 add how to update id and profile name
+
+
+## Setup for Course Key Components
+
+This course has three main components:
+
+- Part One - Version Control Systems
+- Part Two - Azure Computer Networking
+- Part Three - Scalable, Portable, Resilient Design Patterns
+
+
+### Part One - Getting Started 
+
+Install Git Bash Command Line​
+
+Install Git on Mac OS (Usually pre-installed)​
+
+Install Git on Windows: https://git-scm.com/downloads​
+
+Install Git on Linux (Usually included in Kernel)​
+
+Install Visual Studio IDE VS-Code: https://code.visualstudio.com/download​
+
+Install GitHub for Desktop: https://desktop.github.com/​
+
+​
+
+Open command line and check your git installation:

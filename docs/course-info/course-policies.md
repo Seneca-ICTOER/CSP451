@@ -14,36 +14,62 @@ description: Course Policies CSP451
 
 ![what-you-need-to-know](/img/about/wynk_icon.jpg)
 
-This is a project-based course that is designed to prepare you for your future careers by offering a dynamic and immersive learning experience. This course provides you with opportunities to apply theoretical knowledge gained throughout your academic journey to real-world scenarios, fostering critical thinking, problem-solving skills, and creativity. By working on authentic projects, you gain hands-on experience in navigating complexities, collaborating with other students to solve problems, and managing project timelines—skills highly sought after by employers in various industries. 
+This is a project-based course that is designed to prepare you for your future careers by offering a dynamic and immersive learning experience. This course provides you with opportunities to apply theoretical knowledge gained throughout your academic journey to real-world scenarios, fostering critical thinking, problem-solving skills, and creativity. By working on authentic projects, you gain hands-on experience in navigating complexities, collaborating with other students to solve problems, and managing project timelines—skills highly sought after by employers in various industries.
 
-This course does not follow the regimented course-work addendum where you are frequently tested by quizzes, tests and exams, instead, you will be assigned challenging assignments that you need to research, analyze, and complete often requiring innovative solutions to unforeseeable challenges, thus enhancing your ability to adapt to the dynamics of the continuously evolving cloud computing industry. You will learn to stay abreast of emerging trends. The culmination of project-based assignments, throughout the course, will ultimately equip you with the confidence, competence, and practical expertise necessary to excel in your chosen career paths beyond the classroom.
+This course does **NOT** follow the regimented course-work addendum where you are frequently tested by quizzes, tests and exams, instead, you will be assigned challenging assignments that you need to research, analyze, and complete often requiring innovative solutions to unforeseeable challenges, thus enhancing your ability to adapt to the dynamics of the continuously evolving cloud computing industry. You will learn to stay abreast of emerging trends. The culmination of project-based assignments, throughout the course, will ultimately equip you with the confidence, competence, and practical expertise necessary to excel in your chosen career paths beyond the classroom.
 
-There are no **formal teaching** sessions in this course. You are expected to explore and learn by completing assignments and coursework. During tutorials and classes, you will receive some hands-on examples of the challenging topics, however, be prepared to address the challenges yourself. You will be expected to complete most of the work individually, but at times for more complex projects you might be asked to work in a team, so be prepared to collaborate with your fellow students. 
+There are **no formal teaching** sessions in this course. You are expected to explore and learn by completing assignments and coursework. During tutorials and classes, you will receive some hands-on examples of the challenging topics, however, be prepared to address the challenges yourself. You will be expected to complete most of the work individually, but at times for more complex projects you might be asked to work in a team, so be prepared to collaborate with your fellow students.
 
 ## Who should **NOT** take this course?
 
 ![who-should-not-take-this-course](/img/about/not_icon.jpg)
 
-If you are ready to take on the challenges of real-world projects, it may be advisable for you not to enroll in this course. Real-world projects demand a high level of commitment, problem-solving skills, and the ability to work effectively under pressure. Without these essential attributes, you may struggle to meet the course requirements and derive meaningful learning outcomes.
+This course is ideal for students pursuing a career in computer science, information technology, or cloud computing. It is also beneficial if you are looking to enhance your expertise in cloud networking with focus on Azure technologies. Through this course, you can enhance your skills in cloud computing and Azure services and prepare yourself for Associate or Professional level certifications. However, you will have to learn by doing and problem-solving in multiple practical real-world projects.
 
-Moreover, participating in a course with project-based assignments requires you to actively engage in hands-on activities, collaborate with peers, and demonstrate initiative in tackling complex tasks. If you feel unprepared or lack the necessary skills and mindset to thrive in such an environment, it might be more beneficial for them to focus on building foundational knowledge and practical skills through prerequisite courses or additional training before attempting a course with real-world project components. Ultimately, taking on challenges beyond one's current capabilities can lead to frustration and may impede overall academic and personal development. Therefore, it's important for students to assess their readiness and choose courses that align with their current skill level and learning objectives.
+If you are **NOT** ready to take on the challenges of practical projects, it may be advisable for you not to enroll in this course. Real-world projects demand a high level of commitment, critical thinking skills, and the ability to work effectively under pressure. Without these essential attributes, you may struggle to meet the course requirements and derive meaningful learning outcomes.
 
-Whenever there is publicly available learning material for your better understanding, it will be posted in Class Recording & Material. Keep monitoring it for updates.
+Moreover, participating in a course with project-based assignments requires you to actively engage in hands-on activities, collaborate with peers, and demonstrate initiative in tackling complex tasks. If you feel unprepared or lack the necessary skills and mindset to thrive in such an environment, it might be more beneficial for you to focus on building foundational knowledge and practical skills through prerequisite courses or additional training before attempting a course with real-world project components. Ultimately, taking on challenges beyond your current capabilities can lead to frustration and may impede overall academic and personal development. Therefore, it's important for you to assess their readiness and choose courses that align with your current skill level and learning objectives.
 
 ### Prerequisites
 
 ![pre-requisites](/img/about/pre_icon.png)
 
-This course is ideal for students pursuing a career in computer science, information technology, or cloud computing. It is also beneficial if you are looking to enhance your expertise in cloud networking and Azure technologies. Through this course, you can enhance your skills in cloud computing and Azure services and prepare yourself for Associate and Professional level certifications. However, you must basic cloud compcomputing utign and linux knowledge to excel in this course.
+You are expected to have a **preliminary understanding** of IaaS, PaaS, SaaS and have at least completed one basic project in a cloud environment. If you have never created a virtual machine before or are not comfortable with working with Linux commands, you need to do extra work to catch up. You are expected to be familiar with remotely creating, administering and diagnosing an interconnected multi-server environment.
 
-You are expected to have a preliminary understanding of IaaS, PaaS, SaaS and have at least completed one basic project in a cloud environment. If you have never created a virtual machine before or are not comfortable with working with Linux commands, you need to do extra work to catch up.
+This course also heavily uses Bash scripting for automating resource provisioning, configuration, and management. You must have a strong **foundation in Linux CLI** and Linux system administration. This course uses multiple Linux distribution, namely Red Hat Enterprise and Ubuntu Servers. You must have completed at least one course in configuring, securing, and maintaining Linux servers and workstations.
 
-
-You are also expected to be proficient in remotely creating, administering and diagnosing an interconnected multi-server environment. 
+In summary, even though the pre-requisites will not be enforced at the time of registering for this course, in order to succeed in this course you must have: 
 
 1. Basic knowledge of computer systems and networking.
 2. Basic knowledge of computer networking concepts, including IP addressing, subnetting, and routing.
-3. Familiarity with cloud computing fundamentals and Azure services is recommended but not mandatory.
+3. Proficiency in Linux command-line interface (CLI), executing commands, and working with Linux File Systems.
+4. Familiarity with cloud computing fundamentals and Azure services is recommended but not mandatory.
+
+### What are online classes?
+
+This is a project-based course so there are no formal teachings or curriculum for this course. You are expected to explore and learn by completing assigned coursework, however, as and when there is a new topic, I will be creating recordings for your reference. It will also help you better understand the expectations and highlights of each checkpoint. These recordings will not have a fixed cadence, expect them only when there is challenging coursework or a novel concept for your assignments. 
+
+Whenever there is publicly available learning material for your better understanding, it will be posted in Class Recording & Material. Keep monitoring it for updates.
+
+Online Class Schedule:
+Wednesdays 5:10 PM - 6:55 PM (or until the class finishes). The important dates that you should not miss classes are:
+
+Wednesday, January 10: Class Orientation & GitHub Configuration
+Wednesday. January 31: Azure Environment Setup & Configuration
+Wednesday, February 14: Azure Scripting & Milestone1 Instructions 
+Wednesday, March 6: Containerization & Kubernetes Clusters
+Wednesday, March 20: Milestone2 & Final Project
+If you miss any of these classes, make sure to watch the recordings that will be posted in the Class Material and Recordings folder on the Blackboard Portal.
+
+Tuesdays 5:10 PM - 6:55 PM are used for issue resolution. I am always available during these hours to take questions and discuss your issues, provided that:
+
+You message me at least one day earlier in MS TEAM (please do not email)
+The discussion session will be recorded and posted in the class portal for the benefit of everyone. 
+
+
+In a project-based course where online classes are primarily for demo and support without formal teaching, the focus shifts towards hands-on learning and practical application of concepts. Here's how the course structure might look:
+
+Whenever there is publicly available learning material for your better understanding, it will be posted in Class Recording & Material. Keep monitoring it for updates.
 
 ### How to Ace this course
 

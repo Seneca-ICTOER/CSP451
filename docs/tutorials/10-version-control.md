@@ -7,7 +7,17 @@ description: TBD
 
 source: [Git for Beginners - Atlassian](https://www.atlassian.com/git/tutorials/what-is-version-control)
 
+What is Git?
+Git is a version control system​
+
+Used for tracking changes in source code during software development​
+
+Open-source project originally developed in 2005 by Linus Torvalds, the famous creator of the Linux operating system kernel
+
+
 ## What is version control?
+
+
 
 Version control, also known as source control, is the practice of tracking and managing changes to software code. Version control systems are software tools that help software teams manage changes to source code over time. As development environments have accelerated, version control systems help software teams work faster and smarter. They are especially useful for DevOps teams since they help them to reduce development time and increase successful deployments.
 

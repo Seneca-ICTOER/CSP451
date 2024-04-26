@@ -20,3 +20,18 @@ description: Weekly Schedule CSP451
   - Once the program is run and indicates success, marks are awarded to the student.
 - Students MUST complete the weekly tutorial by Friday of the following week (by midnight) to get full marks (no exceptions).
 - Students are responsible to know weekly tutorial due dates. Again, these are indicated in the ULI101 WIKI weekly schedule.
+
+
+
+Week One - Introduction to Course
+Useful Links Checkpoint1
+Azure-Project-Winter2024/CSP451-ComputerSystemsProject
+GitHub Documentation
+CSP451-ComputerSystemsProject/Checkpoint1#useful-links
+Presentation Slides
+Welcome to CSP451.pdf
+
+
+Effective use of GitHub Discussion to collaborate and get support
+Quickstart for GitHub Discussions
+Best practices for community conversations on GitHub
