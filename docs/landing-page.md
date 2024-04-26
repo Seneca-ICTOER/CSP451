@@ -37,7 +37,6 @@ This course has three main components
 ![](about/git_icon.png)
 
 
-
 This part covers key topics in version control systems, where you will gain a comprehensive understanding of GitHub branching, conflict resolution, and actions, enabling you to effectively collaborate on projects, automate workflows, and streamline development processes using GitHub's powerful features. Key topics covered in this part are:
 
 1. Introduction to Version Control and Git:
