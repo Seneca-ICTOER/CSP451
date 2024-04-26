@@ -3,15 +3,15 @@ id: landing-page
 title: Welcome to CSP451
 sidebar_position: 1
 slug: /
-description: Landing Page for the CSP451 Course
+description: Landing Page CSP451
 ---
 
 ## Computer Systems Project
 
 ## Quick Links
 
-| [Weekly Schedule](./weekly-schedule.md) | [MySeneca (Blackboard)](https://my.senecacollege.ca/) | [Course Outline](https://apps.senecapolytechnic.ca/ssos/findOutline.do?termCode=08424&subjectCode=CSP451&schoolCode=ITAS) | [Course Policies](./course-policies.md) | [Academics and Student Services](https://www.senecapolytechnic.ca/about/policies/academics-and-student-services.html)
-| :--- | :--- | :--- | :--- |
+| [CSP451 GitHub](https://github.com/CSP451) | [CSP451 Discussions](https://github.com/orgs/CSP451/discussions) | [MySeneca (Blackboard)](https://my.senecacollege.ca/) | [Course Outline](https://apps.senecapolytechnic.ca/ssos/findOutline.do?termCode=08424&subjectCode=CSP451&schoolCode=ITAS) | [Student Services](https://www.senecapolytechnic.ca/about/policies/academics-and-student-services.html) | [Copyright Policy](https://www.senecapolytechnic.ca/about/policies/copyright-policy.html) |
+| :--- | :--- | :--- | :--- | :--- | :--- |
 
 ## Course Description
 
@@ -33,9 +33,7 @@ This course has three main components
 
 ### Part One - Version Control Systems
 
-<!-- <img src={about/git_icon.png} style{{width: 200}} /> -->
-![](/img/about/git_icon.png)
-
+![git-icon](/img/about/git_icon.png)
 
 This part covers key topics in version control systems, where you will gain a comprehensive understanding of GitHub branching, conflict resolution, and actions, enabling you to effectively collaborate on projects, automate workflows, and streamline development processes using GitHub's powerful features. Key topics covered in this part are:
 
@@ -66,7 +64,7 @@ This part covers key topics in version control systems, where you will gain a co
 
 ### Part Two - Azure Computer Networking
 
-![](/img/about/azure_icon.jpg)
+![azure-icon](/img/about/azure_icon.jpg)
 
 This part focuses on the design and deployment of a crafted network topology engineered to deliver reliable performance, scalability, and resilience. Leveraging Azure's Virtual Network (VNet) capabilities, you'll delineate secure and isolated network segments, meticulously tailored to meet the unique needs of diverse workloads. Key topics covered in this part are:
 
@@ -91,7 +89,7 @@ This part focuses on the design and deployment of a crafted network topology eng
 
 ### Part Three - Scalable, Portable, Resilient Design Patterns
 
-<!-- <img src="../images/docker_icon.png" width="200"> -->
+![azure-icon](/img/about/k8s_icon.png)
 
 This part focuses on the design and deployment of a crafted network topology engineered to deliver reliable performance, scalability, and resilience. Leveraging Azure's Virtual Network (VNet) capabilities, you'll delineate secure and isolated network segments, meticulously tailored to meet the unique needs of diverse workloads. Key topics covered in this part are:
 
@@ -104,79 +102,3 @@ Developer Productivity: By abstracting away infrastructure management complexiti
 Portability and Flexibility: Kubernetes provides a consistent platform for deploying serverless functions across on-premises data centers, public clouds, and hybrid environments. This portability ensures that serverless applications can run anywhere Kubernetes is deployed, offering flexibility and avoiding vendor lock-in.
 Integration with Ecosystem Tools: Kubernetes integrates seamlessly with a wide range of ecosystem tools and services, including monitoring and logging solutions, CI/CD pipelines, service meshes, and API gateways. This enables comprehensive observability, automation, and management of serverless workloads within Kubernetes environments.
 
-## What You Need to Know!
-
-<!-- <img src="../images/wynk_icon.jpg" width="200"> -->
-
-This is a project-based course that is designed to prepare you for your future careers by offering a dynamic and immersive learning experience. This course provides you with opportunities to apply theoretical knowledge gained throughout your academic journey to real-world scenarios, fostering critical thinking, problem-solving skills, and creativity. By working on authentic projects, you gain hands-on experience in navigating complexities, collaborating with other students to solve problems, and managing project timelines—skills highly sought after by employers in various industries. 
-
-This course does not follow the regimented course-work addendum where you are frequently tested by quizzes, tests and exams, instead, you will be assigned challenging assignments that you need to research, analyze, and complete often requiring innovative solutions to unforeseeable challenges, thus enhancing your ability to adapt to the dynamics of the continuously evolving cloud computing industry. You will learn to stay abreast of emerging trends. The culmination of project-based assignments, throughout the course, will ultimately equip you with the confidence, competence, and practical expertise necessary to excel in your chosen career paths beyond the classroom.
-
-There are no **formal teaching** sessions in this course. You are expected to explore and learn by completing assignments and coursework. During tutorials and classes, you will receive some hands-on examples of the challenging topics, however, be prepared to address the challenges yourself. You will be expected to complete most of the work individually, but at times for more complex projects you might be asked to work in a team, so be prepared to collaborate with your fellow students. 
-
-## Who should **NOT** take this course?
-
-<!-- <img src="../images/not_icon.jpg" width="200"> -->
-
-If you are ready to take on the challenges of real-world projects, it may be advisable for you not to enroll in this course. Real-world projects demand a high level of commitment, problem-solving skills, and the ability to work effectively under pressure. Without these essential attributes, you may struggle to meet the course requirements and derive meaningful learning outcomes.
-
-Moreover, participating in a course with project-based assignments requires you to actively engage in hands-on activities, collaborate with peers, and demonstrate initiative in tackling complex tasks. If you feel unprepared or lack the necessary skills and mindset to thrive in such an environment, it might be more beneficial for them to focus on building foundational knowledge and practical skills through prerequisite courses or additional training before attempting a course with real-world project components. Ultimately, taking on challenges beyond one's current capabilities can lead to frustration and may impede overall academic and personal development. Therefore, it's important for students to assess their readiness and choose courses that align with their current skill level and learning objectives.
-
-
-Whenever there is publicly available learning material for your better understanding, it will be posted in Class Recording & Material. Keep monitoring it for updates.
-
-
-
-
-
-### Prerequisites
-
-<!-- <img src="../images/pre_icon.png" width="200"> -->
-
-This course is ideal for students pursuing a career in computer science, information technology, or cloud computing. It is also beneficial if you are looking to enhance your expertise in cloud networking and Azure technologies. Through this course, you can enhance your skills in cloud computing and Azure services and prepare yourself for Associate and Professional level certifications. However, you must basic cloud compcomputing utign and linux knowledge to excel in this course.
-
-You are expected to have a preliminary understanding of IaaS, PaaS, SaaS and have at least completed one basic project in a cloud environment. If you have never created a virtual machine before or are not comfortable with working with Linux commands, you need to do extra work to catch up.
-
-
-You are also expected to be proficient in remotely creating, administering and diagnosing an interconnected multi-server environment. 
-
-1. Basic knowledge of computer systems and networking.
-2. Basic knowledge of computer networking concepts, including IP addressing, subnetting, and routing.
-3. Familiarity with cloud computing fundamentals and Azure services is recommended but not mandatory.
-
-
-
-
-
-
-### Accessing GitHub Organization
-
-<!-- <img src="../images/github_icon.png" width="200"> -->
-
-You will need a GitHub account to complete and submit the CSP451 Weekly Assignments. The GitHub account you use in this course must be linked to your _@myseneca.ca_ email. You cannot use personal or work GitHub for this course.
-
-If you have not created a GitHub account using your Seneca email, you can wait until the first day of the class to set it up. If you already have created the GitHub account, make sure to follow instructions in ??? to update user-id and profile name as per course requirements.
-
-Course GitHub Material codes and scripts are continuously updated, it is a good idea to add a watch on the repo and keep monitoring its updates.
-
-add how to create a watch here
-add how to update id and profile name
-
-
-
-This organization hosts all the learning material and 
-setup to 
-Access to the content of this organization and its repositories is strictly by invitation. If you have registered for the course, you are eligible to be part of this organization.
-
-To access the content of this organization, make sure you have created a GitHub account using your _@myseneca_ email and set your GitHub ID to the ID given to you by the course admin. If you are registered for the course and still haev not received your invite 
-You can find contact information for the cou
-
-### Seneca’s Copyright Policy
-
-Most of the materials posted in this course are protected by copyright. It is a violation of Canada's Copyright Act and Seneca's Copyright Policy **to share, post, and/or upload course material in part or whole** without the permission of the copyright owner. This includes posting materials to third-party file-sharing sites such as assignment-sharing or homework-help sites. Course material includes teaching material, assignment questions, tests, and presentations created by faculty, other members of the Seneca community, or other copyright owners.
-
-### Academic Integrity Statement
-
-It is also prohibited to reproduce or post to a third-party commercial website work that is either your work or the work of someone else, including (but not limited to) assignments, tests, exams, group work projects, etc. This explicit or implied intent to help others may constitute a violation of Seneca’s Academic Integrity Policy and potentially involve such violations as cheating, plagiarism, contract cheating, etc.
-
-These prohibitions remain in effect both during a student’s enrollment at the college as well as withdrawal or graduation from Seneca.  
