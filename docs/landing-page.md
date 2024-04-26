@@ -8,12 +8,10 @@ description: Landing Page for the CSP451 Course
 
 ## Computer Systems Project
 
-### Quick Links
+## Quick Links
 
 | [Weekly Schedule](./weekly-schedule.md) | [MySeneca (Blackboard)](https://my.senecacollege.ca/) | [Course Outline](https://apps.senecapolytechnic.ca/ssos/findOutline.do?termCode=08424&subjectCode=CSP451&schoolCode=ITAS) | [Course Policies](./course-policies.md) | [Academics and Student Services](https://www.senecapolytechnic.ca/about/policies/academics-and-student-services.html)
 | :--- | :--- | :--- | :--- |
-
-# Welcome to the CSP451 - Computer Systems Project!
 
 ## Course Description
 
@@ -21,7 +19,7 @@ This course is designed to provide you with hands-on experience in designing, im
 
 This is a project-based course that provides an opportunity for you to apply the knowledge you have acquired in all of the subjects in the previous semesters in multiple real-world projects focusing on the issues and considerations related to the interconnectivity and administration of various IT services in a cloud environment. You learn to identify, isolate, and solve problems that cloud architects and developers deal with in the real world. By the end of this course, you will be able to design, provision, troubleshoot and maintain virtual infrastructure.
 
-## Learning Objectives:
+## Learning Objectives
 
 - Gain a better understanding of cloud computing principles and services.
 - Design and implement reliable, robust, and secure computer systems projects in the cloud environment.
@@ -29,9 +27,9 @@ This is a project-based course that provides an opportunity for you to apply the
 - Design, provision and troubleshoot scalable, portable, and resilient solutions and containerized applications.
 - Optimize costs by effectively managing cloud resources and understanding pricing models.
 
----
-
 ## Course Key Components
+
+This course has three main components
 
 ### Part One - Version Control Systems
 
