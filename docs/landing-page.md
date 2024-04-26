@@ -33,7 +33,10 @@ This course has three main components
 
 ### Part One - Version Control Systems
 
-<img src={about/git_icon.png} style{{width: 200}} />
+<!-- <img src={about/git_icon.png} style{{width: 200}} /> -->
+![](about/git_icon.png)
+
+
 
 This part covers key topics in version control systems, where you will gain a comprehensive understanding of GitHub branching, conflict resolution, and actions, enabling you to effectively collaborate on projects, automate workflows, and streamline development processes using GitHub's powerful features. Key topics covered in this part are:
 
@@ -64,8 +67,7 @@ This part covers key topics in version control systems, where you will gain a co
 
 ### Part Two - Azure Computer Networking
 
-<img src={about/azure_icon.jpg} style{{width: 200}} />
-<!-- <img src="../images/azure_icon.jpg" width="200"> -->
+![](about/azure_icon.jpg)
 
 This part focuses on the design and deployment of a crafted network topology engineered to deliver reliable performance, scalability, and resilience. Leveraging Azure's Virtual Network (VNet) capabilities, you'll delineate secure and isolated network segments, meticulously tailored to meet the unique needs of diverse workloads. Key topics covered in this part are:
 
