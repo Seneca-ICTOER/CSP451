@@ -1,7 +1,7 @@
 ---
 id: assessments
 title: Course Assessments
-sidebar_position: 4
+sidebar_position: 2
 description: Course Assessments CSP451
 ---
 

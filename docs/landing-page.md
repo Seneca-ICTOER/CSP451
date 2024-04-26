@@ -10,8 +10,13 @@ description: Landing Page CSP451
 
 ## Quick Links
 
-| [CSP451 GitHub](https://github.com/CSP451) | [CSP451 Discussions](https://github.com/orgs/CSP451/discussions) | [MySeneca (Blackboard)](https://my.senecacollege.ca/) | [Course Outline](https://apps.senecapolytechnic.ca/ssos/findOutline.do?termCode=08424&subjectCode=CSP451&schoolCode=ITAS) | [Student Services](https://www.senecapolytechnic.ca/about/policies/academics-and-student-services.html) | [Copyright Policy](https://www.senecapolytechnic.ca/about/policies/copyright-policy.html) |
-| :--- | :--- | :--- | :--- | :--- | :--- |
+| [Course Policies](./course-info/course-policies.md) | [Assessment Policies](./course-info/assessments.md) | [Weekly Schedule](./course-info/weekly-schedule.md) | [GitHub Collaborations](./course-info/collaborations.md) |
+| :--- | :--- | :--- | :--- |
+
+## Useful Resources
+
+| [MySeneca (Blackboard)](https://my.senecacollege.ca/) | [Course Outline](https://apps.senecapolytechnic.ca/ssos/findOutline.do?termCode=08424&subjectCode=CSP451&schoolCode=ITAS) | [Student Services](https://www.senecapolytechnic.ca/about/policies/academics-and-student-services.html) | [Copyright Policy](https://www.senecapolytechnic.ca/about/policies/copyright-policy.html) |
+| :--- | :--- | :--- | :--- |
 
 ## Course Description
 
@@ -101,4 +106,3 @@ Fault Tolerance and Resilience: Kubernetes offers robust fault tolerance and res
 Developer Productivity: By abstracting away infrastructure management complexities, Kubernetes enables developers to focus on writing code and building features rather than worrying about server provisioning, scaling, and maintenance. This enhances developer productivity and accelerates time-to-market for serverless applications.
 Portability and Flexibility: Kubernetes provides a consistent platform for deploying serverless functions across on-premises data centers, public clouds, and hybrid environments. This portability ensures that serverless applications can run anywhere Kubernetes is deployed, offering flexibility and avoiding vendor lock-in.
 Integration with Ecosystem Tools: Kubernetes integrates seamlessly with a wide range of ecosystem tools and services, including monitoring and logging solutions, CI/CD pipelines, service meshes, and API gateways. This enables comprehensive observability, automation, and management of serverless workloads within Kubernetes environments.
-
