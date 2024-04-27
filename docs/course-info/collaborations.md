@@ -12,7 +12,7 @@ description: Course Collaborations CSP451
 
 ## GitHub Links
 
-| [CSP451 GitHub](https://github.com/CSP451) | [GitHub Discussions](https://github.com/orgs/CSP451/discussions) | [Assignment Instructions](https://github.com/CSP451/???) | [Codes / Scripts](https://github.com/CSP451) |
+| [CSP451 GitHub](https://github.com/CSP451) | [GitHub Discussions](https://github.com/orgs/CSP451/discussions) | [Assignment Instructions](https://github.com/CSP451/) | [Codes / Scripts](https://github.com/CSP451) |
 | :--- | :--- | :--- | :--- |
 
 ## GitHub Discussion Channels
