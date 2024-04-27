@@ -19,7 +19,7 @@ description: Course Assessments CSP451
 
 This page serves as a general overview providing an outline of the assessment types and criteria for the course. For more detailed information on specific assessments, including weightings, rubrics, and submission due dates refer to the Blackboard Portal. For assessment details including instructions, and submission requirements refer to CSP451 GitHub and Assignment Instructions in [Useful Resources](#useful-resources) section.
 
-Learning journey is structured around **Checkpoints**, **Milestones**, and **Final Evaluation**, each designed to progressively build your skills and knowledge in the subject matter. Together, these components form a cohesive and structured learning experience, empowering you to achieve your learning objectives and emerge with tangible skills and accomplishments in the subject area.
+Learning journey is structured around **Checkpoints**, **Milestones**, **and **Final Evaluation**, each designed to progressively build your skills and knowledge in the subject matter. Together, these components form a cohesive and structured learning experience, empowering you to achieve your learning objectives and emerge with tangible skills and accomplishments in the subject area.
 
 The Checkpoints serve as pivotal deliverables where you'll delve into specific topics, mastering essential concepts and techniques targeted in that Checkpoint. All Checkpoints are hands-on exercises, that requires you to complete the practical sections and answer questions that assess your learning.
 
