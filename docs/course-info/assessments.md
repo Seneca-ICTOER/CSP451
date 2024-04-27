@@ -48,7 +48,7 @@ Ideally you must complete this before you access the course material. Refer to [
 - Checkpoints are practical and as underlying infrastructures change, upgrade and are patched, the instructions must be updated, so Submission requirements often change. Check submission instructions frequently and be mindful of announcements. While major changes are usually announced through Blackboard Portal announcements, minor ones might go unnoticed. It is your responsibility to follow latest submission instructions for your work
 - Each Checkpoint is independent of the another but you probably need the knowledge and setup from previous Checkpoint to proceed to next, so if you fall behind, it is difficult to catch up.
 - You will have one week from the time Checkpoint instruction is posted until you submit it, for late submission policy, refer to [Late Submission Policies](#late-submission-policies) section.
-- You have permission for **ONE** submission only, so take extra caution about what you submit. If you have made a mistake in your submission, you can request a second submission but it must be requested before the due dates. Resubmission request after due dates cannot be accommodated.
+- You have permission for **ONE** submission only, be mindful of what you submit. If you have made a mistake in your submission, you can request a second submission but it must be requested before the due dates. Resubmission request after due dates cannot be accommodated.
 - Checkpoints are individual assignments and you will need to work on them individually and complete them on your own. Feel free to discuss with other students and use Collaboration channel in [GitHub Discussions](https://github.com/orgs/CSP451/discussions) to resolve issues or seek help, but the work should be your authentic work and similarities beyond coincidence will be considered cheating and [Seneca's Integrity Policy](https://www.senecapolytechnic.ca/about/policies/academic-integrity-policy.html) will be enforced.
 
 ### Milestones
@@ -56,24 +56,18 @@ Ideally you must complete this before you access the course material. Refer to [
 - Through the course you will compete 3 Milestone assignments. Each Milestone is a **recorded video** of your working environment with demo of the required services.
 - Milestones heavily rely on your Checkpoint assignment work. If you fall behind on Checkpoints, you will not be able to complete and submit Milestones on time, or you will struggle unnecessarily. Complete relevant Checkpoints before starting work on Milestones.
 - You will have two weeks from the time Milestone instruction is posted until you submit it, for late submission policy, refer to [Late Submission Policies](#late-submission-policies) section.
-- You have permission for **ONE** submission only, so take extra caution about what you submit. If you have made a mistake in your submission, you can request a second submission but it must be requested before the due dates. Resubmission request after due dates cannot be accommodated.
+- You have permission for **ONE** submission only, be mindful of what you submit. If you have made a mistake in your submission, you can request a second submission but it must be requested before the due dates. Resubmission request after due dates cannot be accommodated.
 - Milestones are individual assignments and you will need to work on them individually and complete them on your own. Feel free to discuss with other students and use Collaboration channel in [GitHub Discussions](https://github.com/orgs/CSP451/discussions) to resolve issues or seek help, but the work should be your authentic work and similarities beyond coincidence will be considered cheating and [Seneca's Integrity Policy](https://www.senecapolytechnic.ca/about/policies/academic-integrity-policy.html) will be enforced.
 
 ### Demo Presentation
 
 - Through the course you will compete 1 Case-Study assignment. The demo presentation has two deliverables, an in-class activity where you present a novel topic in form of a demo/hands-on work to class and a blackboard submission of your background research work and concept analysis in slides format.
 - Submission Instructions and Requirements are posted in Course GitHub Organization, links to which can be found in [GitHub Links](#github-links). Due dates and mark breakdown can be found in the Blackboard Portal.
-- Demo Presentations will be distributed throughout the semester to avoid jam-packed presentation days towards end of the semester. You can choose the topic/concept that interests you, but it must be related to course outline. Discuss your idea with the professor and get approval for your chosen topic. Alternatively you can choose from a list of proposed topics.
-- Demo Presentations must be unique
-
-Topics must be related to the course content and go beyond and above the class teaching.
-If you like to contribute, directly message me in MS-Team and I will add your presentation and demo information here. 
-Once committed to a date, try not to change it. Even though this is for a Bonus Mark only, and I will not deduct marks if you miss, reschedule, or your work does not meet expectations, once you commit, take it seriously.
-I will only be involved in the selection of topics and overall content, you have the freedom to choose how to create slides/demos to be effective
-I suggest you have a couple of presentation slides to review the concept followed by a real-time demo or recorded demo. The work must be your authentic work, you can't use someone else's demo
-Keep it short, I suggest targeting 15-20 minutes, beyond that you will lose interest and it is usually the time given to you to present your work in real-world scenarios. Learn to be concise.
-
-???
+- You can choose the topic/concept that interests you, but it must be related to course outline. Discuss your idea with the professor and get approval for your chosen topic. Alternatively you can choose from a list of proposed topics.
+- Demo Presentations must be unique in scope and deliverable. It is possible that two students pick a similar topic/concept but you must actively work to make a unique demo with tailored learning objectives that differs from the other student.
+- Demo Presentations will be distributed throughout the semester to avoid jam-packed presentation days towards end of the semester. You are advised to choose your presentation topic and date in the first two weeks of class. Doing the demo-presentation in the first four weeks of class gives you **2 Bonus Marks**.
+- You have permission for **ONE** Demo Presentation only, be mindful of what you commit.For late submission policy, refer to [Late Submission Policies](#late-submission-policies) section.
+- Demo Presentation is an individual assignments and you will need to work on it individually and complete it on your own. Feel free to discuss with other students and use Collaboration channel in [GitHub Discussions](https://github.com/orgs/CSP451/discussions) to resolve issues or seek help, but the work should be your authentic work and similarities beyond coincidence will be considered cheating and [Seneca's Integrity Policy](https://www.senecapolytechnic.ca/about/policies/academic-integrity-policy.html) will be enforced.
 
 ### Final Evaluation
 
