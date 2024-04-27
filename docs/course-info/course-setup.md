@@ -1,54 +1,51 @@
 ---
 id: course-setup
-title: Course References
+title: Course Setup
 sidebar_position: 2
-description: Course Reading Material CSP451
+description: Course Setup CSP451
 ---
 
-## Quick Links
+## GitHub Links
 
-| [CSP451 GitHub](https://github.com/CSP451) | [CSP451 Discussions](https://github.com/orgs/CSP451/discussions) | [Assignment Instructions](https://github.com/CSP451) | [Codes / Scripts](https://github.com/CSP451) |
+| [CSP451 GitHub](https://github.com/CSP451) | [GitHub Discussions](https://github.com/orgs/CSP451/discussions) | [Assignment Instructions](https://github.com/CSP451/???) | [Codes / Scripts](https://github.com/CSP451) |
 | :--- | :--- | :--- | :--- |
-| [**MySeneca (Blackboard)**](https://my.senecacollege.ca/) | [**Course Outline**](https://apps.senecapolytechnic.ca/ssos/findOutline.do?termCode=08424&subjectCode=CSP451&schoolCode=ITAS) | [**Student Services**](https://www.senecapolytechnic.ca/about/policies/academics-and-student-services.html) | [**Copyright Policy**](https://www.senecapolytechnic.ca/about/policies/copyright-policy.html) |
 
-
-### Accessing GitHub Organization
+## Onboarding GitHub Organization
 
 ![github-organization](/img/about/github_icon.png)
 
-You will need a GitHub account to complete and submit the CSP451 Weekly Assignments. The GitHub account you use in this course must be linked to your _@myseneca.ca_ email. You cannot use personal or work GitHub for this course.
+You need a GitHub account to complete and submit the CSP451 Weekly Assignments. The GitHub account you use in this course must be linked to your _@myseneca.ca_ email. You cannot use personal or work GitHub for this course.
 
 If you have not created a GitHub account using your Seneca email, you can wait until the first day of the class to set it up. If you already have created the GitHub account, make sure to follow instructions in ??? to update user-id and profile name as per course requirements.
 
 Course GitHub Material codes and scripts are continuously updated, it is a good idea to add a watch on the repo and keep monitoring its updates.
 
-add how to create a watch here
-add how to update id and profile name
+### How to create a watch here
+
+???
+
+### How to update id and profile name
+
+???
+
+## Part One - Getting Started with GitHub
+
+### Install Git Bash Command Line​
+
+- Install Git on Mac OS (Usually pre-installed)​
+- Install Git on Windows: https://git-scm.com/downloads​
+- Install Git on Linux (Usually included in Kernel)​
+
+How to check your local git bash installation?
 
 
-## Setup for Course Key Components
-
-This course has three main components:
-
-- Part One - Version Control Systems
-- Part Two - Azure Computer Networking
-- Part Three - Scalable, Portable, Resilient Design Patterns
+### Install Visual Studio IDE VS-Code: https://code.visualstudio.com/download​
 
 
-### Part One - Getting Started 
+### Install GitHub for Desktop
 
-Install Git Bash Command Line​
+: https://desktop.github.com/​
 
-Install Git on Mac OS (Usually pre-installed)​
+🔥 Do **NOT** login to your GitHub Desktop until you are told in class, you only need GitHub Desktop for Pull-Request assignment. If you are not a savvy git user, do not start with GitHub Desktop just now.
 
-Install Git on Windows: https://git-scm.com/downloads​
 
-Install Git on Linux (Usually included in Kernel)​
-
-Install Visual Studio IDE VS-Code: https://code.visualstudio.com/download​
-
-Install GitHub for Desktop: https://desktop.github.com/​
-
-​
-
-Open command line and check your git installation:

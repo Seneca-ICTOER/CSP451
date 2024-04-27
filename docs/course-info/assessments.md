@@ -1,5 +1,5 @@
 ---
-id: assessments
+id: assessment
 title: Course Assessments
 sidebar_position: 2
 description: Course Assessments CSP451
@@ -76,7 +76,7 @@ _In the event you requires additional time to work on the assessment, you must c
 
 The section describes types of assessment designed for this course and an overview of policies for marking them. For details of mark breakdown, refer to the Blackboard Portal. The link to the portal can be found in [Useful Resources](#useful-resources) section. Below is the list of assessment you will complete throughout this course:
 
-- Integrity Badge (Bonus)
+- Integrity Badge
 - Checkpoints
 - Milestones
 - Case-Study
