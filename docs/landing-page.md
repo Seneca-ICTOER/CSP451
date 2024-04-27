@@ -15,7 +15,7 @@ description: Landing Page CSP451
 
 ## Quick Links
 
-| [Course Policies](./course-info/course-policies.md) | [Assessment Policies](./course-info/assessments.md) | [Weekly Schedule](./course-info/weekly-schedule.md) | [GitHub Collaborations](./course-info/collaborations.md) |
+| [Course Policies](./course-info/course-setup.md) | [Assessment Policies](./course-info/assessments.md) | [Weekly Schedule](./course-info/course-schedule.md) | [GitHub Collaborations](./course-info/collaborations.md) |
 | :--- | :--- | :--- | :--- |
 
 ## Course Description
