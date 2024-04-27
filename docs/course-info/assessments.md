@@ -87,26 +87,16 @@ Adherence to Cloud Resource Management is an important aspect of your learning i
 
 Active participation in this course will not go unnoticed or unrewarded. Bonus Marks are to encourage you to take a proactive approach to this course. Students who participate in class discussions, help with demo sessions and are willing to engage in class work to learn and help other students learn can earn up to 2 Bonus Marks in this course. Below you can find more details about what activities do / do not entitle you to Bonus Marks
 
-1. You are frequently asked to participate in class demo sessions. Volunteering in this demo session, gives you an easy bonus mark.
-2. Actively enganing in class discussins, answerign questins, 
-3. Regular participation in GitHub Discussion Channels to help other students resolve issues gives you an easy bonus mark.
-
-4. s and chennale in 
-
 Any class activity will not entitle you to a bonus mark. I always announce in advance if the activity is attached to a bonus mark and at the end of the activity I will always advise you to submit your work here. Not every class activity can give you a bonus mark!
 If in a 1-1 session I record your issue resolution, it will not entitle you to a bonus mark unless I specifically mention it and suggest you submit your work here.
 If you participate in improving course material in GitHub, especially if you find bugs in the code or the markdown content, you are entitled to a reasonable bonus mark depending on the severity of the fix and the impact of your work. The improvements or suggestions must be an email with details of what is the issue and how to fix it. Screenshots are not accepted!
 Sometimes, I will announce dates and topics where you can volunteer to do a presentation or demo of a concept that is related to the course and can be useful for all the students. You may use these opportunities to learn some challenging subjects by teaching them to other students.
 
 
-Submission Guideline
-
-
 Create a submission with your Full Name, Date, and Details of the activity that was completed. You must provide at least one paragraph with some information that reminds me of the details of the work.
 If you have made coursework improvements, make sure to provide details of the email sent, you may also copy the email content in your submission
 Do not submit any PDFs or Documents unless you are asked to do so.
 Make a separate submission for each time you have done some work that entitles you to Bonus Marks.
-
 
 I will not disclose the raw Bonus Marks, however, I will consider it in the final marks and if your work is impactful, I will make sure to nudge up your mark one level.
 
@@ -141,8 +131,8 @@ In order to successfully pass this course, you need to comply with below:
 - **Attendance:** There are usually hands-on demo or tutorial sessions for each assessment. It is not mandatory to attend these session. Online sessions will usually be recorded and posted in the Blackboard Portal, however, attending these sessions, and completing the work along with the professor and other students is highly advised.
 - **Engagement:** Active engagement is encouraged during online demo sessions. You should ask questions, seek clarification on confusing topics, and contribute constructively to discussions and collaboration spaces.
 - **Accommodations:** If you have conditions that special accommodations, you should register with Counseling and Accessibility Services and they will contact course the professor about the type and duration of accommodations to be provided to you. Do not contact the course the professor directly about your problem.
-- **Communication:** Bring your technical questions to tutorials, online classes, or demo sessions, Alternatively post your technical question in GitHub collaboration channels, you can find collaboration link in [Useful Resources](#useful-resources) section. Communications about technical issues must strictly go through class or GitHub collaborations, **questions sent to the professor via email or chat will not be answered.**
+- **Communication:** Bring your technical questions to tutorials, online classes, or demo sessions, Alternatively post your technical question in GitHub Discussion channels, you can find the link in [GitHub Links](#github-links). Communications about technical issues must strictly go through class or GitHub collaborations, **questions sent to the professor via email or chat will not be answered.**
 - **Marking & Feedback:** Feedback on assessments is a crucial aspect of the learning process, providing valuable insights and guidance to you on your performance, giving you areas for improvement. Do not take feedbacks personal or subjective, instead focus on how to utilize them to improve your future work. The idea is to learn from your mistakes, and make progress towards achieving your academic goals.
 - **Progress Tracking:** If you fall behind in timely submissions of your assessments or your work does not meet expectation you will receive progress tracking emails that are intended to remind you and encourage you to engage more actively. If you are falling behind approach your professor for guidance and support before it is too late to catch up and complete the course successfully.
 - **Remarking:** Remarking request can only be made during office hours in person. Check class schedule in the Blackboard Portal and **ONLY** use the office hours to talk to your professor about the remark requests. **Remark request sent to the professor via email or chat will not be answered.**
-- **Academic Integrity:** You are expected to uphold principles of academic integrity during Checkpoint sessions. This includes refraining from cheating, plagiarism, or any form of academic dishonesty. Refer to Seneca's Copyright Policy in [Useful Resources](#useful-resources) section for more details about the policy and enforcements.
+- **Academic Integrity:** You are expected to uphold principles of academic integrity during Checkpoint sessions. This includes refraining from cheating, plagiarism, or any form of academic dishonesty. You can find more details about Seneca's Integrity Policy statement and its' enforcements in [Seneca's Integrity Policy](https://www.senecapolytechnic.ca/about/policies/academic-integrity-policy.html).
