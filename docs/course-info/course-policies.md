@@ -68,13 +68,13 @@ This course also heavily uses Bash scripting for automating resource provisionin
 3. Proficiency in Linux command-line interface (CLI), executing commands, and working with Linux File Systems.
 4. Familiarity with cloud computing fundamentals and Azure services is recommended but not mandatory. -->
 
-## What are online classes?
+<!-- ## What are online classes?
 
-![online-sessions](/img/about/pre_icon.jpg)
+![online-sessions](/img/about/on;ine_icon.jpg)
 
 This is a project based course so there are no regimented tutorial schedule but there are weekly online hands-on demo sessions to guide and assist you in completing your setup and getting started with the coursework. Online sessions prioritize self-directed learning and proactive engagement from you to learn by doing with demo and hands-on tutorials.  You are expected to take the initiative to explore course materials, participate actively in demo sessions, and apply concepts through hands-on practice to navigate your way in the ever changing domain of cloud computing and find resolution for issue as they arise.
 
-<!-- Online class schedule and office hour details can be found in the Blackboard Portal. You are recommended to attend all the sessions regularly and actively participate in discussions and activities. Ask questions, share insights, and contribute to the learning environment. While you are encouraged to attend all sessions, there are some sessions that key topics will be covered and you should **NOT*** miss them:
+Online class schedule and office hour details can be found in the Blackboard Portal. You are recommended to attend all the sessions regularly and actively participate in discussions and activities. Ask questions, share insights, and contribute to the learning environment. While you are encouraged to attend all sessions, there are some sessions that key topics will be covered and you should **NOT*** miss them:
 
 - Week One: Class Orientation & GitHub Configuration
 - Week Four: Azure Environment Setup & Configuration
@@ -82,9 +82,9 @@ This is a project based course so there are no regimented tutorial schedule but 
 - Week Eight: Introduction to Containerization & Kubernetes Clusters
 - Week Nine: Multi-tenant application deployment with Docker Engine -->
 
-## Words of Wisdom
+## Word of Wisdom
 
-![words-of-wisdom](/img/about/wisdom_icon.png)
+![word-of-wisdom](/img/about/wisdom_icon.png)
 
 1. Keep failing, if you are not failing, it means you are not trying novel things.
 2. If your script is running smoothly, and you do not have to bang your head to the wall and curse the whole world, you are definitely going wrong somewhere.
