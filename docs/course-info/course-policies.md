@@ -10,6 +10,11 @@ description: Course Policies CSP451
 | [MySeneca (Blackboard)](https://my.senecacollege.ca/) | [Course Outline](https://apps.senecapolytechnic.ca/ssos/findOutline.do?termCode=08424&subjectCode=CSP451&schoolCode=ITAS) | [Student Services](https://www.senecapolytechnic.ca/about/policies/academics-and-student-services.html) | [Seneca's Copyright Policy](https://www.senecapolytechnic.ca/about/policies/copyright-policy.html) |
 | :--- | :--- | :--- | :--- |
 
+## GitHub Links
+
+| [CSP451 GitHub](https://github.com/CSP451) | [GitHub Discussions](https://github.com/orgs/CSP451/discussions) | [Assignment Instructions](https://github.com/CSP451/CSP451-ComputerSystemsProject) | [CSP451 Scripts](https://github.com/CSP451/CSP451-Scripts) |
+| :--- | :--- | :--- | :--- |
+
 ## What You Need to Know!
 
 ![what-you-need-to-know](/img/about/wynk_icon.jpg)
@@ -53,11 +58,11 @@ To excel in this course and go above and beyond, you can set the following succe
     - Challenge yourself by taking on extra tasks or assignments that allow you to apply your knowledge and skills in new contexts.
     - Volunteer for opportunities to present research, lead discussions, or assist with course-related activities to enhance your learning experience.
 
-<!-- ## Prerequisites
+## Prerequisites
 
 ![pre-requisites](/img/about/pre_icon.jpg)
 
-You are expected to have a **preliminary understanding** of IaaS, PaaS, SaaS and have at least completed one basic project in a cloud environment. If you have never created a virtual machine before or are not comfortable with working with Linux commands, you need to do extra work to catch up. You are expected to be familiar with remotely creating, administering and diagnosing an interconnected multi-server environment. -->
+You are expected to have a **preliminary understanding** of IaaS, PaaS, SaaS and have at least completed one basic project in a cloud environment. If you have never created a virtual machine before or are not comfortable with working with Linux commands, you need to do extra work to catch up. You are expected to be familiar with remotely creating, administering and diagnosing an interconnected multi-server environment.
 
 This course also heavily uses Bash scripting for automating resource provisioning, configuration, and management. You must have a strong **foundation in Linux CLI** and Linux system administration. This course uses multiple Linux distribution, namely Red Hat Enterprise and Ubuntu Servers. You must have completed at least one course in configuring, securing, and maintaining Linux servers and workstations.
 

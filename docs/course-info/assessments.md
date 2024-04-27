@@ -12,7 +12,7 @@ description: Course Assessments CSP451
 
 ## GitHub Links
 
-| [CSP451 GitHub](https://github.com/CSP451) | [GitHub Discussions](https://github.com/orgs/CSP451/discussions) | [Assignment Instructions](https://github.com/CSP451/???) | [Codes / Scripts](https://github.com/CSP451) |
+| [CSP451 GitHub](https://github.com/CSP451) | [GitHub Discussions](https://github.com/orgs/CSP451/discussions) | [Assignment Instructions](https://github.com/CSP451/CSP451-ComputerSystemsProject) | [CSP451 Scripts](https://github.com/CSP451/CSP451-Scripts) |
 | :--- | :--- | :--- | :--- |
 
 This page serves as a general overview providing an outline of the assessment types, criteria and an overview of policies for marking them. This page is not a reference for how to submit your coursework, it neither discusses marking Rubrics. For more detailed information on specific assessments, including weightings, rubrics, and submission due dates refer to the Blackboard Portal. For assessment details including instructions, and submission requirements refer to CSP451 GitHub and Assignment Instructions in [Useful Resources](#useful-resources) section.
@@ -34,7 +34,7 @@ The Checkpoints serve as pivotal deliverables where you'll delve into specific t
 
 Additionally, the Milestones represent significant achievements throughout the course, marking key junctures where you'll showcase your proficiency and apply your newfound expertise to real-world scenarios or projects. Check [Milestones](#milestones) section for more information about this assessment criteria.
 
-Check [Demo Presentation](#demo-presentation) section for more information about this assessment criteria.
+Another aspect of real-world projects in computer domain is the ability to demonstrate your skills or share know-how through Demo Presentations. Conventional theoretical or conceptual only presentations are gradually losing their appeal. Moreover, preparing for a hands-on demo enhances your learning, fosters deeper understanding and retention, and stimulates curiosity and critical thinking. You will be challenged to excel in the concept to the point that you can show case it practically and answer questions about it. Check [Demo Presentation](#demo-presentation) section for more information about this assessment criteria.
 
 Finally, your learning is assessed through the Final Evaluation, where you'll synthesize and demonstrate your skills by tackling a complex challenge or developing a comprehensive solution that integrates the knowledge and techniques acquired throughout the course. Check [Final Evaluation](#final-evaluation) section for more information about this assessment criteria.
 
@@ -117,11 +117,11 @@ In order to successfully pass this course, you need to comply with below:
     - Example: if an assignment is due March 20 but it was submitted on March 24. Assuming you had earned an original mark of 10/15. Since the assignment was submitted over 3 days late,  your ultimate mark would be 0 (more than 3 days late).
 - Checkpoints/Milestones that are submitted after due dates, will receive a penalty of 30% per every day of late submission for a maximum of 3 days. No marks will be given to Milestones or Checkpoints submitted 3 days or later than the due date​.
 - If you have missed the Checkpoint/Milestone due date by more than three days, you must still submit your work completely, course promotion policies require you to submit all your coursework to avoid failing the course.
-- Demo Presentations cannot be late ???
+- Demo Presentations must be delivered on the date you have committed. If you miss to deliver your presentation on the scheduled date, you receive 0 marks. In case of emergency, or issues that you believe qualify for special accommodations, discuss the matter with the professor. Be reminded, doctor notes, or accident photos are not accepted to postpone or reschedule your Demo Presentation.
 - Final Evaluation that are submitted after due date receive no marks, Special Course Promotion Policy will be in effect​, that means you will fail the course if you submit the Final Evaluation later than due date.
 - In the event you requires additional time to work on the assessment, you must contact the professor at least 24 hours before the due date to discuss submission options otherwise the late submission policy will apply. This exception is not applicable to Demo Presentation and Final Evaluation.
 
-### Assessment Policies Overview
+### Useful Assessment Policies
 
 - **Preparation:** Students must come prepared for each Checkpoint by completing any assigned readings and setup tasks beforehand. This includes reviewing relevant materials and familiarizing yourselves with the topics to be covered.
 - **Completion:** Most assessments have multiple parts and questions, you are expected to complete all parts in your submission. Not knowing is not an acceptable excuse for not answering. You must research and find answers to all parts and submit your complete work duly by announced due dates.
@@ -131,5 +131,5 @@ In order to successfully pass this course, you need to comply with below:
 - **Communication:** Bring your technical questions to tutorials, online classes, or demo sessions, Alternatively post your technical question in GitHub Discussion channels, you can find the link in [GitHub Links](#github-links). Communications about technical issues must strictly go through class or GitHub Discussion Channels. **Technical questions sent via email or chat will receive no response.**
 - **Marking & Feedback:** Feedback on assessments is a crucial aspect of the learning process, providing valuable insights and guidance to you on your performance, giving you areas for improvement. Do not take feedbacks personal or subjective, instead focus on how to utilize them to improve your future work. The idea is to learn from your mistakes, and make progress towards achieving your academic goals.
 - **Progress Tracking:** If you fall behind in timely submissions of your assessments or your work does not meet expectation you will receive progress tracking emails that are intended to remind you and encourage you to engage more actively. If you are falling behind approach your professor for guidance and support before it is too late to catch up and complete the course successfully.
-- **Remarking:** Remarking request can only be made during office hours in person. Check class schedule in the Blackboard Portal and **ONLY** use the office hours to talk to your professor about the remark requests. **Remark requests sent via email or chat will receive no response.**
+- **Remarking:** Remarking request can only be made during office hours in person. Check class schedule in the Blackboard Portal and only use the office hours to talk to your professor about the remark requests. **Remark requests sent via email or chat will receive no response.**
 - **Academic Integrity:** You are expected to uphold principles of academic integrity during Checkpoint sessions. This includes refraining from cheating, plagiarism, or any form of academic dishonesty. You can find more details about Seneca's Integrity Policy statement and its' enforcements in [Seneca's Integrity Policy](https://www.senecapolytechnic.ca/about/policies/academic-integrity-policy.html).
