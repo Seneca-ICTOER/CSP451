@@ -72,7 +72,7 @@ Ideally you must complete this before you access the course material. Refer to [
 ### Final Evaluation
 
 - You will complete 1 Final Evaluation at the end of semester. Final Evaluation is Project based and depending on the complexity of the project you could have a 1-2 weeks or 24-487 hours to complete it. Submission Instructions and Requirements will be posted in Course GitHub Organization, links to which can be found in [GitHub Links](#github-links). Due dates and mark breakdown can be found in the Blackboard Portal.
--
+- Final Evaluation assesses your learning in the course. It follows that its content will depend on course progress and achievements. Details about the scope and content of Final Evaluation will be released closer to the end of the semester. You will not need to prepare for Final Evaluation Project, if you have completed all your coursework diligently and duly, you will comfortably complete Final Evaluation Project in allocated time.
 - Final Evaluation is an individual assignments and you will need to work on it individually and complete it on your own. Unlike other assessment, you **cannot** discuss about this assessment with other students, neither can you use GitHub Discussion to resolve issues or seek help. You need to demonstrate that you have learned troubleshooting and problem solving skills enough to tackle the Final Evaluation on your own.
 - Your work should be your authentic work and similarities beyond coincidence will be considered cheating and [Seneca's Integrity Policy](https://www.senecapolytechnic.ca/about/policies/academic-integrity-policy.html) will be enforced.
 

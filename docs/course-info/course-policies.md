@@ -53,6 +53,24 @@ To excel in this course and go above and beyond, you can set the following succe
     - Challenge yourself by taking on extra tasks or assignments that allow you to apply your knowledge and skills in new contexts.
     - Volunteer for opportunities to present research, lead discussions, or assist with course-related activities to enhance your learning experience.
 
+## Words of Wisdom
+
+![words-of-wisdom](/img/about/wisdom_icon.png)
+
+1. Keep failing, if you are not failing, it means you are not trying novel things.
+2. If your script is running smoothly, and you do not have to bang your head to the wall and curse the whole world, you are definitely going wrong somewhere.
+3. Treat **stackoverflow** as bible and use other people's code or ChatGPT, but do not be dumb! Add your flavor to your codes and be proud of your messy code compared to a nice clean code that someone else has created
+4. Ask questions! Keep asking until you get an answer!
+5. Don't mess up with coding savvy professors, I can run scripts that will find any line copied from another source, cheating gets you a zero mark, and do not test me there!
+
+## Cheating and Plagiarism
+
+![cheating&plagiarism](/img/about/nocheat_icon.jpg)
+
+Do not Cheat! In simple words, if you copy the answers of your fellow students, or your answers match each other or your answers are not unique/copied from the internet, it is safe to assume that you cheated. In simple term don't copy another person's work (answers for tests, labs or assignments) and don't let another person copy your work.
+
+Penalties are pretty sever as both students get zero for that particular assessment. The incident will be reported to the college's academic integrity counsel. **The comment goes on your transcript.** If the incident happens a second time, you could be expelled from college.
+
 ## Seneca's Copyright Policy
 
 - It is a violation of Canada's Copyright Act and Seneca's Copyright Policy to share, post, and/or upload course material in part or in whole without the permission of the copyright owner. This includes posting materials to third-party file-sharing sites such as Case-Study-sharing or homework help sites.
