@@ -53,24 +53,24 @@ To excel in this course and go above and beyond, you can set the following succe
     - Challenge yourself by taking on extra tasks or assignments that allow you to apply your knowledge and skills in new contexts.
     - Volunteer for opportunities to present research, lead discussions, or assist with course-related activities to enhance your learning experience.
 
-<!-- ## Prerequisites
+## Prerequisites
 
 ![pre-requisites](/img/about/pre_icon.jpg)
 
-You are expected to have a **preliminary understanding** of IaaS, PaaS, SaaS and have at least completed one basic project in a cloud environment. If you have never created a virtual machine before or are not comfortable with working with Linux commands, you need to do extra work to catch up. You are expected to be familiar with remotely creating, administering and diagnosing an interconnected multi-server environment. -->
+You are expected to have a **preliminary understanding** of IaaS, PaaS, SaaS and have at least completed one basic project in a cloud environment. If you have never created a virtual machine before or are not comfortable with working with Linux commands, you need to do extra work to catch up. You are expected to be familiar with remotely creating, administering and diagnosing an interconnected multi-server environment.
 
 This course also heavily uses Bash scripting for automating resource provisioning, configuration, and management. You must have a strong **foundation in Linux CLI** and Linux system administration. This course uses multiple Linux distribution, namely Red Hat Enterprise and Ubuntu Servers. You must have completed at least one course in configuring, securing, and maintaining Linux servers and workstations.
 
-<!-- In summary, even though the pre-requisites will not be enforced at the time of registering for this course, in order to succeed in this course you must have:
+In summary, even though the pre-requisites will not be enforced at the time of registering for this course, in order to succeed in this course you must have:
 
 1. Basic knowledge of computer systems and networking.
 2. Basic knowledge of computer networking concepts, including IP addressing, subnetting, and routing.
 3. Proficiency in Linux command-line interface (CLI), executing commands, and working with Linux File Systems.
-4. Familiarity with cloud computing fundamentals and Azure services is recommended but not mandatory. -->
+4. Familiarity with cloud computing fundamentals and Azure services is recommended but not mandatory.
 
-<!-- ## What are online classes?
+## What are online classes?
 
-![online-sessions](/img/about/on;ine_icon.jpg)
+![online-sessions](/img/about/online_icon.jpg)
 
 This is a project based course so there are no regimented tutorial schedule but there are weekly online hands-on demo sessions to guide and assist you in completing your setup and getting started with the coursework. Online sessions prioritize self-directed learning and proactive engagement from you to learn by doing with demo and hands-on tutorials.  You are expected to take the initiative to explore course materials, participate actively in demo sessions, and apply concepts through hands-on practice to navigate your way in the ever changing domain of cloud computing and find resolution for issue as they arise.
 
@@ -80,7 +80,7 @@ Online class schedule and office hour details can be found in the Blackboard Por
 - Week Four: Azure Environment Setup & Configuration
 - Week Five: Azure Scripting & Milestone Instructions
 - Week Eight: Introduction to Containerization & Kubernetes Clusters
-- Week Nine: Multi-tenant application deployment with Docker Engine -->
+- Week Nine: Multi-tenant application deployment with Docker Engine
 
 ## Word of Wisdom
 
