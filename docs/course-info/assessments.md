@@ -1,5 +1,5 @@
 ---
-id: assessment
+id: assessments
 title: Course Assessments
 sidebar_position: 2
 description: Course Assessments CSP451
@@ -10,17 +10,12 @@ description: Course Assessments CSP451
 | [MySeneca (Blackboard)](https://my.senecacollege.ca/) | [Course Outline](https://apps.senecapolytechnic.ca/ssos/findOutline.do?termCode=08424&subjectCode=CSP451&schoolCode=ITAS) | [Student Services](https://www.senecapolytechnic.ca/about/policies/academics-and-student-services.html) | [Seneca's Copyright Policy](https://www.senecapolytechnic.ca/about/policies/copyright-policy.html) |
 | :--- | :--- | :--- | :--- |
 
-## Quick Links
-
-| [Course Policies](./course-policies.md) | [Assessment Policies](./assessments.md) | [Weekly Schedule](./weekly-schedule.md) | [Course Setup](./course-setup.md) |
-| :--- | :--- | :--- | :--- |
-
 ## GitHub Links
 
 | [CSP451 GitHub](https://github.com/CSP451) | [GitHub Discussions](https://github.com/orgs/CSP451/discussions) | [Assignment Instructions](https://github.com/CSP451/???) | [Codes / Scripts](https://github.com/CSP451) |
 | :--- | :--- | :--- | :--- |
 
-## Summary
+## Assessment Summary
 
 This page serves as a general overview providing an outline of the assessment types and criteria for the course. For more detailed information on specific assessments, including weightings, rubrics, and submission due dates refer to the Blackboard Portal. For assessment details including instructions, and submission requirements refer to CSP451 GitHub and Assignment Instructions in [Useful Resources](#useful-resources) section.
 

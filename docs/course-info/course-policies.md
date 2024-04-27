@@ -88,26 +88,30 @@ Online class schedule and office hour details can be found in the Blackboard Por
 
 1. Keep failing, if you are not failing, it means you are not trying novel things.
 2. If your script is running smoothly, and you do not have to bang your head to the wall and curse the whole world, you are definitely going wrong somewhere.
-3. Treat **stackoverflow** as bible and use other people’s code or ChatGPT, but do not be dumb! Add your flavor to your codes and be proud of your messy code compared to a nice clean code that someone else has created
+3. Treat **stackoverflow** as bible and use other people's code or ChatGPT, but do not be dumb! Add your flavor to your codes and be proud of your messy code compared to a nice clean code that someone else has created
 4. Ask questions! Keep asking until you get an answer!
-5. Don’t mess up with coding savvy professors, I can run scripts that will find any line copied from another source, cheating gets you a zero mark, and do not test me there!
+5. Don't mess up with coding savvy professors, I can run scripts that will find any line copied from another source, cheating gets you a zero mark, and do not test me there!
 
 ## Cheating and Plagiarism
 
 ![cheating&plagiarism](/img/about/nocheat_icon.jpg)
 
-Do not Cheat! In simple words, if you copy the answers of your fellow students, or your answers match each other or your answers are not unique/copied from the internet, it is safe to assume that you cheated. In simple term don’t copy another person's work (answers for tests, labs or assignments) and don't let another person copy your work.
+Do not Cheat! In simple words, if you copy the answers of your fellow students, or your answers match each other or your answers are not unique/copied from the internet, it is safe to assume that you cheated. In simple term don't copy another person's work (answers for tests, labs or assignments) and don't let another person copy your work.
 
 Penalties are pretty sever as both students get zero for that particular assessment. The incident will be reported to the college's academic integrity counsel. **The comment goes on your transcript.** If the incident happens a second time, you could be expelled from college.
 
-## Seneca’s Copyright Policy
+## Seneca's Copyright Policy
 
-![cheating&plagiarism](/img/about/plagairism_icon.png)
-
-- It is a violation of Canada's Copyright Act and􀯗Seneca's Copyright Policy to share, post, and/or upload course material in part or in whole􀯗without the permission of the copyright owner. This includes posting materials to third-party file-sharing sites such as Case-Study-sharing or homework help sites.
+- It is a violation of Canada's Copyright Act and Seneca's Copyright Policy to share, post, and/or upload course material in part or in whole without the permission of the copyright owner. This includes posting materials to third-party file-sharing sites such as Case-Study-sharing or homework help sites.
 - Course material includes teaching material, Case-Study questions, tests, and presentations created by faculty, other members of the Seneca community, or other copyright owners.
-- It is also prohibited to reproduce or post to a third-party commercial website work that is either your own work or the work of someone else, including (but not limited to Case-Studys, tests, exams, group work projects, etc.
-- This explicit or implied intent to help others may constitute a violation of Seneca's Academic Integrity Policy, and potentially involve such violations as cheating, plagiarism, contract cheating,etc. These prohibitions remain in effect both during a student’s enrollment at the college as well as withdrawal or graduation from Seneca.
 - Most of the materials posted in this course are protected by copyright. It is a violation of Canada's Copyright Act and Seneca's Copyright Policy **to share, post, and/or upload course material in part or whole** without the permission of the copyright owner. This includes posting materials to third-party file-sharing sites such as assignment-sharing or homework-help sites. Course material includes teaching material, assignment questions, tests, and presentations created by faculty, other members of the Seneca community, or other copyright owners.
 
-You can find more details about Seneca's Copyright policy statement and its' enforcements in [Seneca's Copyright Policy](https://www.senecapolytechnic.ca/about/policies/copyright-policy.html). If you still have any concerns, discuss it with the professor and program admin.
+You can find more details about Seneca's Copyright Policy statement and its' enforcements in [Seneca's Copyright Policy](https://www.senecapolytechnic.ca/about/policies/copyright-policy.html). If you still have any concerns, discuss it with the professor and program admin.
+
+## Seneca's Integrity Policy
+
+- It is also prohibited to reproduce or post to a third-party commercial website work that is either your work or the work of someone else, including (but not limited to) assignments, tests, exams, group work projects, etc.
+- This explicit or implied intent to help others may constitute a violation of Seneca's Academic Integrity Policy and potentially involve such violations as cheating, plagiarism, contract cheating, etc.
+- These prohibitions remain in effect both during a student's enrollment at the college as well as withdrawal or graduation from Seneca.  
+
+You can find more details about Seneca's Integrity Policy statement and its' enforcements in [Seneca's Integrity Policy](https://www.senecapolytechnic.ca/about/policies/academic-integrity-policy.html). If you still have any concerns, discuss it with the professor and program admin
