@@ -49,7 +49,7 @@ Ideally you must complete this before you access the course material. Refer to [
 - Each Checkpoint is independent of the another but you probably need the knowledge and setup from previous Checkpoint to proceed to next, so if you fall behind, it is difficult to catch up.
 - You will have one week from the time Checkpoint instruction is posted until you submit it, for late submission policy, refer to [Late Submission Policies](#late-submission-policies) section.
 - You have permission for **ONE** submission only, be mindful of what you submit. If you have made a mistake in your submission, you can request a second submission but it must be requested before the due dates. Resubmission request after due dates cannot be accommodated.
-- Checkpoints are individual assignments and you will need to work on them individually and complete them on your own. Feel free to discuss with other students and use Collaboration channel in [GitHub Discussions](https://github.com/orgs/CSP451/discussions) to resolve issues or seek help, but the work should be your authentic work and similarities beyond coincidence will be considered cheating and [Seneca's Integrity Policy](https://www.senecapolytechnic.ca/about/policies/academic-integrity-policy.html) will be enforced.
+- Checkpoints are individual assignments and you will need to work on them individually and complete them on your own. Feel free to discuss with other students and use [GitHub Discussions](https://github.com/orgs/CSP451/discussions) to resolve issues or seek help, but the work should be your authentic work and similarities beyond coincidence will be considered cheating and [Seneca's Integrity Policy](https://www.senecapolytechnic.ca/about/policies/academic-integrity-policy.html) will be enforced.
 
 ### Milestones
 
@@ -57,7 +57,7 @@ Ideally you must complete this before you access the course material. Refer to [
 - Milestones heavily rely on your Checkpoint assignment work. If you fall behind on Checkpoints, you will not be able to complete and submit Milestones on time, or you will struggle unnecessarily. Complete relevant Checkpoints before starting work on Milestones.
 - You will have two weeks from the time Milestone instruction is posted until you submit it, for late submission policy, refer to [Late Submission Policies](#late-submission-policies) section.
 - You have permission for **ONE** submission only, be mindful of what you submit. If you have made a mistake in your submission, you can request a second submission but it must be requested before the due dates. Resubmission request after due dates cannot be accommodated.
-- Milestones are individual assignments and you will need to work on them individually and complete them on your own. Feel free to discuss with other students and use Collaboration channel in [GitHub Discussions](https://github.com/orgs/CSP451/discussions) to resolve issues or seek help, but the work should be your authentic work and similarities beyond coincidence will be considered cheating and [Seneca's Integrity Policy](https://www.senecapolytechnic.ca/about/policies/academic-integrity-policy.html) will be enforced.
+- Milestones are individual assignments and you will need to work on them individually and complete them on your own. Feel free to discuss with other students and use [GitHub Discussions](https://github.com/orgs/CSP451/discussions) to resolve issues or seek help, but the work should be your authentic work and similarities beyond coincidence will be considered cheating and [Seneca's Integrity Policy](https://www.senecapolytechnic.ca/about/policies/academic-integrity-policy.html) will be enforced.
 
 ### Demo Presentation
 
@@ -67,15 +67,14 @@ Ideally you must complete this before you access the course material. Refer to [
 - Demo Presentations must be unique in scope and deliverable. It is possible that two students pick a similar topic/concept but you must actively work to make a unique demo with tailored learning objectives that differs from the other student.
 - Demo Presentations will be distributed throughout the semester to avoid jam-packed presentation days towards end of the semester. You are advised to choose your presentation topic and date in the first two weeks of class. Doing the demo-presentation in the first four weeks of class gives you **2 Bonus Marks**.
 - You have permission for **ONE** Demo Presentation only, be mindful of what you commit.For late submission policy, refer to [Late Submission Policies](#late-submission-policies) section.
-- Demo Presentation is an individual assignments and you will need to work on it individually and complete it on your own. Feel free to discuss with other students and use Collaboration channel in [GitHub Discussions](https://github.com/orgs/CSP451/discussions) to resolve issues or seek help, but the work should be your authentic work and similarities beyond coincidence will be considered cheating and [Seneca's Integrity Policy](https://www.senecapolytechnic.ca/about/policies/academic-integrity-policy.html) will be enforced.
+- Demo Presentation is an individual assignments and you will need to work on it individually and complete it on your own. Feel free to discuss with other students and use [GitHub Discussions](https://github.com/orgs/CSP451/discussions) to resolve issues or seek help, but the work should be your authentic work and similarities beyond coincidence will be considered cheating and [Seneca's Integrity Policy](https://www.senecapolytechnic.ca/about/policies/academic-integrity-policy.html) will be enforced.
 
 ### Final Evaluation
 
-1. You must complete 1 Final Evaluation at the end of semester. Final Evaluation is Project based  is 
-???
-1. Depending on the class progress, you will have 24 to 48 hours to complete and submit your work after the instructions are posted
-2. Due dates will be announced closer to the end of the semester
-3. No repeats or late submissions would be granted.
+- You will complete 1 Final Evaluation at the end of semester. Final Evaluation is Project based and depending on the complexity of the project you could have a 1-2 weeks or 24-487 hours to complete it. Submission Instructions and Requirements will be posted in Course GitHub Organization, links to which can be found in [GitHub Links](#github-links). Due dates and mark breakdown can be found in the Blackboard Portal.
+-
+- Final Evaluation is an individual assignments and you will need to work on it individually and complete it on your own. Unlike other assessment, you **cannot** discuss about this assessment with other students, neither can you use GitHub Discussion to resolve issues or seek help. You need to demonstrate that you have learned troubleshooting and problem solving skills enough to tackle the Final Evaluation on your own.
+- Your work should be your authentic work and similarities beyond coincidence will be considered cheating and [Seneca's Integrity Policy](https://www.senecapolytechnic.ca/about/policies/academic-integrity-policy.html) will be enforced.
 
 ### Budget Management
 

@@ -53,4 +53,18 @@ To excel in this course and go above and beyond, you can set the following succe
     - Challenge yourself by taking on extra tasks or assignments that allow you to apply your knowledge and skills in new contexts.
     - Volunteer for opportunities to present research, lead discussions, or assist with course-related activities to enhance your learning experience.
 
+## Seneca's Copyright Policy
 
+- It is a violation of Canada's Copyright Act and Seneca's Copyright Policy to share, post, and/or upload course material in part or in whole without the permission of the copyright owner. This includes posting materials to third-party file-sharing sites such as Case-Study-sharing or homework help sites.
+- Course material includes teaching material, Case-Study questions, tests, and presentations created by faculty, other members of the Seneca community, or other copyright owners.
+- Most of the materials posted in this course are protected by copyright. It is a violation of Canada's Copyright Act and Seneca's Copyright Policy **to share, post, and/or upload course material in part or whole** without the permission of the copyright owner. This includes posting materials to third-party file-sharing sites such as assignment-sharing or homework-help sites. Course material includes teaching material, assignment questions, tests, and presentations created by faculty, other members of the Seneca community, or other copyright owners.
+
+You can find more details about Seneca's Copyright Policy statement and its' enforcements in [Seneca's Copyright Policy](https://www.senecapolytechnic.ca/about/policies/copyright-policy.html). If you still have any concerns, discuss it with the professor and program admin.
+
+## Seneca's Integrity Policy
+
+- It is also prohibited to reproduce or post to a third-party commercial website work that is either your work or the work of someone else, including (but not limited to) assignments, tests, exams, group work projects, etc.
+- This explicit or implied intent to help others may constitute a violation of Seneca's Academic Integrity Policy and potentially involve such violations as cheating, plagiarism, contract cheating, etc.
+- These prohibitions remain in effect both during a student's enrollment at the college as well as withdrawal or graduation from Seneca.  
+
+You can find more details about Seneca's Integrity Policy statement and its' enforcements in [Seneca's Integrity Policy](https://www.senecapolytechnic.ca/about/policies/academic-integrity-policy.html). If you still have any concerns, discuss it with the professor and program admin.
