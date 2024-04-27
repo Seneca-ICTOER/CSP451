@@ -53,17 +53,50 @@ To excel in this course and go above and beyond, you can set the following succe
     - Challenge yourself by taking on extra tasks or assignments that allow you to apply your knowledge and skills in new contexts.
     - Volunteer for opportunities to present research, lead discussions, or assist with course-related activities to enhance your learning experience.
 
-## Prerequisites
+## What are online classes?
 
-![pre-requisites](/img/about/pre_icon.jpg)
+![online-sessions](/img/about/pre_icon.jpg)
 
-You are expected to have a **preliminary understanding** of IaaS, PaaS, SaaS and have at least completed one basic project in a cloud environment. If you have never created a virtual machine before or are not comfortable with working with Linux commands, you need to do extra work to catch up. You are expected to be familiar with remotely creating, administering and diagnosing an interconnected multi-server environment.
+This is a project based course so there are no regimented tutorial schedule but there are weekly online hands-on demo sessions to guide and assist you in completing your setup and getting started with the coursework. Online sessions prioritize self-directed learning and proactive engagement from you to learn by doing with demo and hands-on tutorials.  You are expected to take the initiative to explore course materials, participate actively in demo sessions, and apply concepts through hands-on practice to navigate your way in the ever changing domain of cloud computing and find resolution for issue as they arise.
 
-This course also heavily uses Bash scripting for automating resource provisioning, configuration, and management. You must have a strong **foundation in Linux CLI** and Linux system administration. This course uses multiple Linux distribution, namely Red Hat Enterprise and Ubuntu Servers. You must have completed at least one course in configuring, securing, and maintaining Linux servers and workstations.
+Online class schedule and office hour details can be found in the Blackboard Portal. You are recommended to attend all the sessions regularly and actively participate in discussions and activities. Ask questions, share insights, and contribute to the learning environment. While you are encouraged to attend all sessions, there are some sessions that key topics will be covered and you should **NOT*** miss them:
 
-In summary, even though the pre-requisites will not be enforced at the time of registering for this course, in order to succeed in this course you must have:
+- Week One: Class Orientation & GitHub Configuration
+- Week Four: Azure Environment Setup & Configuration
+- Week Five: Azure Scripting & Milestone Instructions
+- Week Eight: Introduction to Containerization & Kubernetes Clusters
+- Week Nine: Multi-tenant application deployment with Docker Engine
 
-1. Basic knowledge of computer systems and networking.
-2. Basic knowledge of computer networking concepts, including IP addressing, subnetting, and routing.
-3. Proficiency in Linux command-line interface (CLI), executing commands, and working with Linux File Systems.
-4. Familiarity with cloud computing fundamentals and Azure services is recommended but not mandatory.
+## Words of Wisdom
+
+![words-of-wisdom](/img/about/wisdom_icon.png)
+
+1. Keep failing, if you are not failing, it means you are not trying novel things.
+2. If your script is running smoothly, and you do not have to bang your head to the wall and curse the whole world, you are definitely going wrong somewhere.
+3. Treat **stackoverflow** as bible and use other people's code or ChatGPT, but do not be dumb! Add your flavor to your codes and be proud of your messy code compared to a nice clean code that someone else has created
+4. Ask questions! Keep asking until you get an answer!
+5. Don't mess up with coding savvy professors, I can run scripts that will find any line copied from another source, cheating gets you a zero mark, and do not test me there!
+
+## Cheating and Plagiarism
+
+![cheating&plagiarism](/img/about/nocheat_icon.jpg)
+
+Do not Cheat! In simple words, if you copy the answers of your fellow students, or your answers match each other or your answers are not unique/copied from the internet, it is safe to assume that you cheated. In simple term don't copy another person's work (answers for tests, labs or assignments) and don't let another person copy your work.
+
+Penalties are pretty sever as both students get zero for that particular assessment. The incident will be reported to the college's academic integrity counsel. **The comment goes on your transcript.** If the incident happens a second time, you could be expelled from college.
+
+## Seneca's Copyright Policy
+
+- It is a violation of Canada's Copyright Act and Seneca's Copyright Policy to share, post, and/or upload course material in part or in whole without the permission of the copyright owner. This includes posting materials to third-party file-sharing sites such as Case-Study-sharing or homework help sites.
+- Course material includes teaching material, Case-Study questions, tests, and presentations created by faculty, other members of the Seneca community, or other copyright owners.
+- Most of the materials posted in this course are protected by copyright. It is a violation of Canada's Copyright Act and Seneca's Copyright Policy **to share, post, and/or upload course material in part or whole** without the permission of the copyright owner. This includes posting materials to third-party file-sharing sites such as assignment-sharing or homework-help sites. Course material includes teaching material, assignment questions, tests, and presentations created by faculty, other members of the Seneca community, or other copyright owners.
+
+You can find more details about Seneca's Copyright Policy statement and its' enforcements in [Seneca's Copyright Policy](https://www.senecapolytechnic.ca/about/policies/copyright-policy.html). If you still have any concerns, discuss it with the professor and program admin.
+
+## Seneca's Integrity Policy
+
+- It is also prohibited to reproduce or post to a third-party commercial website work that is either your work or the work of someone else, including (but not limited to) assignments, tests, exams, group work projects, etc.
+- This explicit or implied intent to help others may constitute a violation of Seneca's Academic Integrity Policy and potentially involve such violations as cheating, plagiarism, contract cheating, etc.
+- These prohibitions remain in effect both during a student's enrollment at the college as well as withdrawal or graduation from Seneca.  
+
+You can find more details about Seneca's Integrity Policy statement and its' enforcements in [Seneca's Integrity Policy](https://www.senecapolytechnic.ca/about/policies/academic-integrity-policy.html). If you still have any concerns, discuss it with the professor and program admin.
