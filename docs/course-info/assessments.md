@@ -15,21 +15,11 @@ description: Course Assessments CSP451
 | [CSP451 GitHub](https://github.com/CSP451) | [GitHub Discussions](https://github.com/orgs/CSP451/discussions) | [Assignment Instructions](https://github.com/CSP451/???) | [Codes / Scripts](https://github.com/CSP451) |
 | :--- | :--- | :--- | :--- |
 
-## Assessment Summary
-
-This page serves as a general overview providing an outline of the assessment types and criteria for the course. For more detailed information on specific assessments, including weightings, rubrics, and submission due dates refer to the Blackboard Portal. For assessment details including instructions, and submission requirements refer to CSP451 GitHub and Assignment Instructions in [Useful Resources](#useful-resources) section.
-
-Learning journey is structured around **Checkpoints**, **Milestones**, **and **Final Evaluation**, each designed to progressively build your skills and knowledge in the subject matter. Together, these components form a cohesive and structured learning experience, empowering you to achieve your learning objectives and emerge with tangible skills and accomplishments in the subject area.
-
-The Checkpoints serve as pivotal deliverables where you'll delve into specific topics, mastering essential concepts and techniques targeted in that Checkpoint. All Checkpoints are hands-on exercises, that requires you to complete the practical sections and answer questions that assess your learning.
-
-Additionally, the Milestones represent significant achievements throughout the course, marking key junctures where you'll showcase your proficiency and apply your newfound expertise to real-world scenarios or projects.
-
-Finally, your learning is assessed through the Final Evaluation, where you'll synthesize and demonstrate your skills by tackling a complex challenge or developing a comprehensive solution that integrates the knowledge and techniques acquired throughout the course.
+This page serves as a general overview providing an outline of the assessment types, criteria and an overview of policies for marking them. This page does **NOT** serve as reference for how to submit your coursework, it neither discusses marking Rubrics. For more detailed information on specific assessments, including weightings, rubrics, and submission due dates refer to the Blackboard Portal. For assessment details including instructions, and submission requirements refer to CSP451 GitHub and Assignment Instructions in [Useful Resources](#useful-resources) section.
 
 ## Assessment Criteria
 
-The section describes types of assessment designed for this course and an overview of policies for marking them. For details of mark breakdown, refer to the Blackboard Portal. The link to the portal can be found in [Useful Resources](#useful-resources) section. Below is the list of assessment you will complete throughout this course:
+Learning journey is structured around below Assessment Criteria, each designed to progressively build your skills and knowledge in the subject matter. Together, these assessments form a cohesive and structured learning experience, empowering you to achieve your learning objectives and emerge with tangible skills and accomplishments in the subject area.
 
 - Integrity Badge
 - Checkpoints
@@ -38,9 +28,17 @@ The section describes types of assessment designed for this course and an overvi
 - Final Evaluation
 - Budget Management
 
-### Integrity Badge
+Integrity Badge familiarizes you with [Seneca's Integrity Policy](https://www.senecapolytechnic.ca/about/policies/academic-integrity-policy.html) with an immerse and interactive tutorial. Ideally you must complete this before you access the course material. You will need to complete the training and submit your integrity badge. Refer to the Blackboard Portal for specific instructions.
 
-Ideally you must complete this before you access the course material. Refer to [Seneca's Integrity in Action module](https://teachingandlearning.senecapolytechnic.ca/forstudents/integrityinaction/) and reviews main topics. Refer to the Blackboard portal for submission requirements and details.
+The Checkpoints serve as pivotal deliverables where you'll delve into specific topics, mastering essential concepts and techniques targeted in that Checkpoint. All Checkpoints are hands-on exercises, that requires you to complete the practical sections and answer questions that assess your learning. Check [Checkpoints](#checkpoints) section for more information about this assessment criteria.
+
+Additionally, the Milestones represent significant achievements throughout the course, marking key junctures where you'll showcase your proficiency and apply your newfound expertise to real-world scenarios or projects. Check [Milestones](#milestones) section for more information about this assessment criteria.
+
+the Demo Presentation
+
+Finally, your learning is assessed through the Final Evaluation, where you'll synthesize and demonstrate your skills by tackling a complex challenge or developing a comprehensive solution that integrates the knowledge and techniques acquired throughout the course. Check [Final Evaluation](#final-evaluation) section for more information about this assessment criteria.
+
+Adherence to Cloud Resource Management is an important aspect of your learning in this course. You need to demonstrate that you are able to skillfully manage your cloud resources and work within your subscription constraints. Budget Management is the overarching concept but the scope of this assessment goes beyond and above budget management. Check [Budget Management](#budget-management) section for more information about this assessment criteria.
 
 ### Checkpoints
 
@@ -78,13 +76,12 @@ Ideally you must complete this before you access the course material. Refer to [
 
 ### Budget Management
 
-1. Adherence to Cloud Resource Management is an important aspect of your learning in this course. You need to demonstrate that you are able to skillfully manage your cloud resources and work within your subscription constraints.
-2. At the end of semester, the ITAS cloud team will assess your adherence to Cloud Resource Management and communicate their findings with the professor. They will identify the students who did not comply with the requirement who will automatically miss **ALL** the mark for Budget Management Assignment.
-3. Budget Management is marked binary, that means you either get all the marks or lose all the marks. Follow below to receive a full mark:
-    - Do not use the environment assigned to you in  this course for any other course or any other purposes
-    - Safeguard your 2FA device, loss of your device will result in losing your 10%
-    - Complete all Cloud related course work within the $100 credit given to you, you will need to constantly monitor your cost analysis and follow policy settings
-    - Do not delete or modify the default setting
+- At the end of semester, the ITAS cloud team will assess your adherence to Cloud Resource Management and communicate their findings with the professor. They will identify the students who did not comply with the requirement who will automatically miss **ALL** the mark for Budget Management Assignment.
+- Budget Management is marked binary, that means you either get all the marks or lose all the marks. Follow below to receive a full mark:
+      - Do not use the environment assigned to you in  this course for any other course or any other purposes
+      - Safeguard your 2FA device, loss of your device will result in losing your 10%
+      - Complete all Cloud related course work within the $100 credit given to you, you will need to constantly monitor your cost analysis and follow policy settings
+      - Do not delete or modify the default setting
 
 ### Bonus Marks
 
@@ -133,7 +130,7 @@ In order to successfully pass this course, you need to comply with below:
       - Example: if an assignment is due March 20 but it was submitted on March 24. Assuming you had earned an original mark of 10/15. Since the assignment was submitted over 3 days late,  your ultimate mark would be 0 (more than 3 days late).
 - Checkpoints/Milestones that are submitted after due dates, will receive a penalty of 30% per every day of late submission for a maximum of 3 days. **No marks** will be given to Milestones or Checkpoints submitted 3 days or later than the due date​.
 - If you have missed the Checkpoint/Milestone due date by more than three days, you must still submit your work completely, course promotion policies require you to submit **ALL** your coursework to avoid failing the course.
-- - Demo Presentaions 
+- Demo Presentaions 
 - Final Evaluation that are submitted after due date receive **NO** marks, Special Course Promotion Policy will be in effect​, that means you will **FAIL** the course if you submit Final Evaluation later than due date.
 - In the event you requires additional time to work on the assessment, you must contact the professor at least 24 hours before the due date to discuss submission options otherwise the late submission policy will apply. This exception is not applicable to Demo Presentation and Final Evaluation.
 

@@ -53,6 +53,20 @@ To excel in this course and go above and beyond, you can set the following succe
     - Challenge yourself by taking on extra tasks or assignments that allow you to apply your knowledge and skills in new contexts.
     - Volunteer for opportunities to present research, lead discussions, or assist with course-related activities to enhance your learning experience.
 
+## What are online classes?
+
+![online-sessions](/img/about/pre_icon.jpg)
+
+This is a project based course so there are no regimented tutorial schedule but there are weekly online hands-on demo sessions to guide and assist you in completing your setup and getting started with the coursework. Online sessions prioritize self-directed learning and proactive engagement from you to learn by doing with demo and hands-on tutorials.  You are expected to take the initiative to explore course materials, participate actively in demo sessions, and apply concepts through hands-on practice to navigate your way in the ever changing domain of cloud computing and find resolution for issue as they arise.
+
+Online class schedule and office hour details can be found in the Blackboard Portal. You are recommended to attend all the sessions regularly and actively participate in discussions and activities. Ask questions, share insights, and contribute to the learning environment. While you are encouraged to attend all sessions, there are some sessions that key topics will be covered and you should **NOT*** miss them:
+
+- Week One: Class Orientation & GitHub Configuration
+- Week Four: Azure Environment Setup & Configuration
+- Week Five: Azure Scripting & Milestone Instructions
+- Week Eight: Introduction to Containerization & Kubernetes Clusters
+- Week Nine: Multi-tenant application deployment with Docker Engine
+
 ## Words of Wisdom
 
 ![words-of-wisdom](/img/about/wisdom_icon.png)
