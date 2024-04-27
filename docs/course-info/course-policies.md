@@ -82,12 +82,5 @@ Online class schedule and office hour details can be found in the Blackboard Por
 - Week Eight: Introduction to Containerization & Kubernetes Clusters
 - Week Nine: Multi-tenant application deployment with Docker Engine
 
-## Words of Wisdom
 
-![words-of-wisdom](/img/about/wisdom_icon.png)
 
-1. Keep failing, if you are not failing, it means you are not trying novel things.
-2. If your script is running smoothly, and you do not have to bang your head to the wall and curse the whole world, you are definitely going wrong somewhere.
-3. Treat **stackoverflow** as bible and use other people's code or ChatGPT, but do not be dumb! Add your flavor to your codes and be proud of your messy code compared to a nice clean code that someone else has created
-4. Ask questions! Keep asking until you get an answer!
-5. Don't mess up with coding savvy professors, I can run scripts that will find any line copied from another source, cheating gets you a zero mark, and do not test me there!
