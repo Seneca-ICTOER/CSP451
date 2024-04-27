@@ -27,46 +27,6 @@ Additionally, the Milestones represent significant achievements throughout the c
 
 Finally, your learning is assessed through the Final Evaluation, where you'll synthesize and demonstrate your skills by tackling a complex challenge or developing a comprehensive solution that integrates the knowledge and techniques acquired throughout the course.
 
-## Assessment Policies Overview
-
-- **Preparation:** Students must come prepared for each Checkpoint by completing any assigned readings and setup tasks beforehand. This includes reviewing relevant materials and familiarizing yourselves with the topics to be covered.
-- **Completion:** Most assessments have multiple parts and questions, you are expected to complete all parts in your submission. Not knowing is not an acceptable excuse for not answering. You must research and find answers to all parts and submit your complete work duly by announced due dates.
-- **Attendance:** There are usually hands-on demo or tutorial sessions for each assessment. It is not mandatory to attend these session. Online sessions will usually be recorded and posted in the Blackboard Portal, however, attending these sessions, and completing the work along with the professor and other students is highly advised.
-- **Engagement:** Active engagement is encouraged during online demo sessions. You should ask questions, seek clarification on confusing topics, and contribute constructively to discussions and collaboration spaces.
-- **Accommodations:** If you have conditions that special accommodations, you should register with Counseling and Accessibility Services and they will contact course the professor about the type and duration of accommodations to be provided to you. Do not contact the course the professor directly about your problem.
-- **Communication:** Bring your technical questions to tutorials, online classes, or demo sessions, Alternatively post your technical question in GitHub collaboration channels, you can find collaboration link in [Useful Resources](#useful-resources) section. Communications about technical issues must strictly go through class or GitHub collaborations, **questions sent to the professor via email or chat will not be answered.**
-- **Marking & Feedback:** Feedback on assessments is a crucial aspect of the learning process, providing valuable insights and guidance to you on your performance, giving you areas for improvement. Do not take feedbacks personal or subjective, instead focus on how to utilize them to improve your future work. The idea is to learn from your mistakes, and make progress towards achieving your academic goals.
-- **Progress Tracking:** If you fall behind in timely submissions of your assessments or your work does not meet expectation you will receive progress tracking emails that are intended to remind you and encourage you to engage more actively. If you are falling behind approach your professor for guidance and support before it is too late to catch up and complete the course successfully.
-- **Remarking:** Remarking request can only be made during office hours in person. Check class schedule in the Blackboard Portal and **ONLY** use the office hours to talk to your professor about the remark requests. **Remark request sent to the professor via email or chat will not be answered.**
-- **Academic Integrity:** You are expected to uphold principles of academic integrity during Checkpoint sessions. This includes refraining from cheating, plagiarism, or any form of academic dishonesty. Refer to Seneca's Copyright Policy in [Useful Resources](#useful-resources) section for more details about the policy and enforcements.
-
-## Special Course Promotion Policies
-
-In order to successfully pass this course, you need to comply with below:
-
-1. Achieve a weighted average of 50% or better on the overall course
-2. Achieve a weighted average of 50% or better for each of the Checkpoints and Milestones
-3. Achieve a weighted average of 50% or better for the final evaluation
-4. Must satisfactorily complete **ALL** Checkpoints, Milestones, and Final Evaluation
-
-What happens if you do not comply with above? You will **FAIL** the course
-
-## Late Submission Policies
-
-In order to successfully pass this course, you need to comply with below:
-
-1. Any coursework not completed will be given a grade 0 and Special Course Promotion Policy will be in effect​.
-2. Coursework submitted after the end of the semester will not be graded and a grade of 0 is awarded.
-3. Late submissions receive a penalty of 10% per day for a maximum of 3 days. After the 3rd day, a grade of 0 is awarded.
-    - Example: if an assignment is due March 20 but it was submitted on March 21. Assuming you had earned an original mark of 10/15. Since the assignment was submitted 1 day late, you ultimate mark would be 8.5/15 (10% penalty).
-    - Example: if an assignment is due March 20 but it was submitted on March 24. Assuming you had earned an original mark of 10/15. Since the assignment was submitted over 3 days late,  your ultimate mark would be 0 (more than 3 days late).
-4. Checkpoints and Milestones that are submitted after due dates, will receive a penalty of 30% per every day of late submission for a maximum of 3 days. **No marks** will be given to Milestones or Checkpoints submitted 3 days or later than the due date​.
-5. If you have missed the Checkpoint/Milestone due date by more than three days, you must still submit your work completely, course promotion policies require you to submit **ALL** your coursework to avoid failing the course.
-6. Final Evaluation that are submitted after due date receive **NO** marks, Special Course Promotion Policy will be in effect​, that means you will **FAIL** the course if you submit Final Evaluation later than due date.
-7. Case study late submission ???
-
-_In the event you requires additional time to work on the assessment, you must contact the professor 24 hours before the due date to discuss submission options otherwise the late submission policy will apply._
-
 ## Assessment Criteria
 
 The section describes types of assessment designed for this course and an overview of policies for marking them. For details of mark breakdown, refer to the Blackboard Portal. The link to the portal can be found in [Useful Resources](#useful-resources) section. Below is the list of assessment you will complete throughout this course:
@@ -193,3 +153,41 @@ Make a separate submission for each time you have done some work that entitles y
 
 
 I will not disclose the raw Bonus Marks, however, I will consider it in the final marks and if your work is impactful, I will make sure to nudge up your mark one level.
+
+## Assessment Policies Overview
+
+- **Preparation:** Students must come prepared for each Checkpoint by completing any assigned readings and setup tasks beforehand. This includes reviewing relevant materials and familiarizing yourselves with the topics to be covered.
+- **Completion:** Most assessments have multiple parts and questions, you are expected to complete all parts in your submission. Not knowing is not an acceptable excuse for not answering. You must research and find answers to all parts and submit your complete work duly by announced due dates.
+- **Attendance:** There are usually hands-on demo or tutorial sessions for each assessment. It is not mandatory to attend these session. Online sessions will usually be recorded and posted in the Blackboard Portal, however, attending these sessions, and completing the work along with the professor and other students is highly advised.
+- **Engagement:** Active engagement is encouraged during online demo sessions. You should ask questions, seek clarification on confusing topics, and contribute constructively to discussions and collaboration spaces.
+- **Accommodations:** If you have conditions that special accommodations, you should register with Counseling and Accessibility Services and they will contact course the professor about the type and duration of accommodations to be provided to you. Do not contact the course the professor directly about your problem.
+- **Communication:** Bring your technical questions to tutorials, online classes, or demo sessions, Alternatively post your technical question in GitHub collaboration channels, you can find collaboration link in [Useful Resources](#useful-resources) section. Communications about technical issues must strictly go through class or GitHub collaborations, **questions sent to the professor via email or chat will not be answered.**
+- **Marking & Feedback:** Feedback on assessments is a crucial aspect of the learning process, providing valuable insights and guidance to you on your performance, giving you areas for improvement. Do not take feedbacks personal or subjective, instead focus on how to utilize them to improve your future work. The idea is to learn from your mistakes, and make progress towards achieving your academic goals.
+- **Progress Tracking:** If you fall behind in timely submissions of your assessments or your work does not meet expectation you will receive progress tracking emails that are intended to remind you and encourage you to engage more actively. If you are falling behind approach your professor for guidance and support before it is too late to catch up and complete the course successfully.
+- **Remarking:** Remarking request can only be made during office hours in person. Check class schedule in the Blackboard Portal and **ONLY** use the office hours to talk to your professor about the remark requests. **Remark request sent to the professor via email or chat will not be answered.**
+- **Academic Integrity:** You are expected to uphold principles of academic integrity during Checkpoint sessions. This includes refraining from cheating, plagiarism, or any form of academic dishonesty. Refer to Seneca's Copyright Policy in [Useful Resources](#useful-resources) section for more details about the policy and enforcements.
+
+## Special Course Promotion Policies
+
+In order to successfully pass this course, you need to comply with below:
+
+1. Achieve a weighted average of 50% or better on the overall course
+2. Achieve a weighted average of 50% or better for each of the Checkpoints and Milestones
+3. Achieve a weighted average of 50% or better for the final evaluation
+4. Must satisfactorily complete **ALL** Checkpoints, Milestones, and Final Evaluation
+
+## Late Submission Policies
+
+In order to successfully pass this course, you need to comply with below:
+
+1. Any coursework not completed will be given a grade 0 and Special Course Promotion Policy will be in effect​.
+2. Coursework submitted after the end of the semester will not be graded and a grade of 0 is awarded.
+3. Late submissions receive a penalty of 10% per day for a maximum of 3 days. After the 3rd day, a grade of 0 is awarded.
+    - Example: if an assignment is due March 20 but it was submitted on March 21. Assuming you had earned an original mark of 10/15. Since the assignment was submitted 1 day late, you ultimate mark would be 8.5/15 (10% penalty).
+    - Example: if an assignment is due March 20 but it was submitted on March 24. Assuming you had earned an original mark of 10/15. Since the assignment was submitted over 3 days late,  your ultimate mark would be 0 (more than 3 days late).
+4. Checkpoints and Milestones that are submitted after due dates, will receive a penalty of 30% per every day of late submission for a maximum of 3 days. **No marks** will be given to Milestones or Checkpoints submitted 3 days or later than the due date​.
+5. If you have missed the Checkpoint/Milestone due date by more than three days, you must still submit your work completely, course promotion policies require you to submit **ALL** your coursework to avoid failing the course.
+6. Final Evaluation that are submitted after due date receive **NO** marks, Special Course Promotion Policy will be in effect​, that means you will **FAIL** the course if you submit Final Evaluation later than due date.
+7. Case study late submission ???
+
+_In the event you requires additional time to work on the assessment, you must contact the professor 24 hours before the due date to discuss submission options otherwise the late submission policy will apply._
