@@ -20,7 +20,7 @@ This course does **NOT** follow the regimented course-work addendum where you ar
 
 There are **no formal teaching** sessions in this course. You are expected to explore and learn by completing assignments and coursework. During tutorials and classes, you will receive some hands-on examples of the challenging topics, however, be prepared to address the challenges yourself. You will be expected to complete most of the work individually, but at times for more complex projects you might be asked to work in a team, so be prepared to collaborate with your fellow students.
 
-## Who should **NOT** take this course?
+## Who should not take this course?
 
 ![who-should-not-take-this-course](/img/about/not_icon.jpg)
 
@@ -37,7 +37,7 @@ Moreover, participating in a course with project-based assignments requires you 
 To excel in this course and go above and beyond, you can set the following success criteria for yourself:
 
 1. Commitment to Coursework:
-     - Attend all classes regularly and actively participate in **discussions** and activities.
+     - Attend all classes regularly and actively participate in discussions and activities.
      - Be persistent and thrive to learn instead of targeting to completing assignments to get the marks and be done with it.
 2. Complete Assignments with Excellence:
     - Stay organized by keeping track of deadlines, assignments, and course requirements.
@@ -74,7 +74,7 @@ In summary, even though the pre-requisites will not be enforced at the time of r
 
 This is a project based course so there are no regimented tutorial schedule but there are weekly online hands-on demo sessions to guide and assist you in completing your setup and getting started with the coursework. Online sessions prioritize self-directed learning and proactive engagement from you to learn by doing with demo and hands-on tutorials.  You are expected to take the initiative to explore course materials, participate actively in demo sessions, and apply concepts through hands-on practice to navigate your way in the ever changing domain of cloud computing and find resolution for issue as they arise.
 
-Online class schedule and office hour details can be found in the Blackboard Portal. You are recommended to attend all the sessions regularly and actively participate in discussions and activities. Ask questions, share insights, and contribute to the learning environment. While you are encouraged to attend all sessions, there are some sessions that key topics will be covered and you should **NOT*** miss them:
+Online class schedule and office hour details can be found in the Blackboard Portal. You are recommended to attend all the sessions regularly and actively participate in discussions and activities. Ask questions, share insights, and contribute to the learning environment. While you are encouraged to attend all sessions, there are some sessions that key topics will be covered and you should not miss them:
 
 - Week One: Class Orientation & GitHub Configuration
 - Week Four: Azure Environment Setup & Configuration
