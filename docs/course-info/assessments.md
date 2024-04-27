@@ -34,58 +34,38 @@ The section describes types of assessment designed for this course and an overvi
 - Integrity Badge
 - Checkpoints
 - Milestones
-- Case-Study
+- Demo Presentation
 - Final Evaluation
 - Budget Management
 
 ### Integrity Badge
 
-Ideally you must complete this before you access the course material. Refer to [Seneca's Integrity in Action module](https://teachingandlearning.senecapolytechnic.ca/forstudents/integrityinaction/) and reviews main topics in:
-
-- Plagiarism
-- Contract Cheating
-- Impersonation
-- Falsification
-- Inappropriate Collaboration
-- Duplicate Submission
-
-Complete the module and capture a screenshot of your badge and submit the screenshot on the Blackboard Portal. Screenshot must include:
-
-1. Who is the badge issued to
-2. Name of badge
-3. Issued by
-4. Issued on
-
-You can find an example badge in [here](https://seneca.sharepoint.com/:i:/s/CAACurriculum-CLO700IntroductiontoCloudInfrastructure/EZVwxvf9EmNEjIvRiYSMWf4BhexyPQuywv0BKJwqDBo6Gg?e=wztb6g).
+Ideally you must complete this before you access the course material. Refer to [Seneca's Integrity in Action module](https://teachingandlearning.senecapolytechnic.ca/forstudents/integrityinaction/) and reviews main topics. Refer to the Blackboard portal for submission requirements and details.
 
 ### Checkpoints
 
-Through the course you will compete 12 Checkpoint assignments. Below you can find more details and information about the Checkpoints:
-
-1. Each Checkpoint has a GitHub Submission component in form of a `README.md` file and a Blackboard Portal submission.Submission Instructions and Requirements are posted in Course GitHub Organization, links to which can be found in [GitHub Links](#github-links). Due dates and mark breakdown can be found in the Blackboard Portal.
-2. Checkpoints are practical and as underlying infrastructures change, upgrade and are patched, the instructions must be updated, so Submission requirements often change. Check submission instructions frequently and be mindful of announcements. While major changes are usually announced through Blackboard Portal announcements, minor ones might go unnoticed. It is your responsibility to follow latest submission instructions for your work
-3. Each Checkpoint is independent of the another but you probably need the knowledge and setup from previous Checkpoint to proceed to next, so if you fall behind, it is difficult to catch up.
-4. You will have one week from the time Checkpoint instruction is posted until you submit it, for late submission policy, refer to [Late Submission Policies](#late-submission-policies) section.
-5. You have permission for **ONE** submission only, so take extra caution about what you submit. If you have made a mistake in your submission, you can request a second submission but it must be requested before the due dates. Resubmission request after due dates cannot be accommodated.
-6. Checkpoints are individual assignments and you will need to work on them individually and complete them on your own. Feel free to discuss with other students and use Collaboration channel in [GitHub Discussions](https://github.com/orgs/CSP451/discussions) to resolve issues or seek help, but the work should be your authentic work and similarities beyond coincidence will be considered cheating and [Seneca's Copyright Policy](https://www.senecapolytechnic.ca/about/policies/copyright-policy.html) will be enforced.
-
-🔥 Most common mistake in Checkpoint submission is the hyperlink to your GitHub repository. **How can you do this correctly?**
+- Through the course you will compete 12 Checkpoint assignments. Each Checkpoint has a GitHub Submission component in form of a `README.md` file and a Blackboard Portal submission.Submission Instructions and Requirements are posted in Course GitHub Organization, links to which can be found in [GitHub Links](#github-links). Due dates and mark breakdown can be found in the Blackboard Portal.
+- Checkpoints are practical and as underlying infrastructures change, upgrade and are patched, the instructions must be updated, so Submission requirements often change. Check submission instructions frequently and be mindful of announcements. While major changes are usually announced through Blackboard Portal announcements, minor ones might go unnoticed. It is your responsibility to follow latest submission instructions for your work
+- Each Checkpoint is independent of the another but you probably need the knowledge and setup from previous Checkpoint to proceed to next, so if you fall behind, it is difficult to catch up.
+- You will have one week from the time Checkpoint instruction is posted until you submit it, for late submission policy, refer to [Late Submission Policies](#late-submission-policies) section.
+- You have permission for **ONE** submission only, so take extra caution about what you submit. If you have made a mistake in your submission, you can request a second submission but it must be requested before the due dates. Resubmission request after due dates cannot be accommodated.
+- Checkpoints are individual assignments and you will need to work on them individually and complete them on your own. Feel free to discuss with other students and use Collaboration channel in [GitHub Discussions](https://github.com/orgs/CSP451/discussions) to resolve issues or seek help, but the work should be your authentic work and similarities beyond coincidence will be considered cheating and [Seneca's Integrity Policy](https://www.senecapolytechnic.ca/about/policies/academic-integrity-policy.html) will be enforced.
 
 ### Milestones
 
-Through the course you will compete 3 Milestone assignments. Below you can find more details and information about the Milestones:
+- Through the course you will compete 3 Milestone assignments. Each Milestone is a **recorded video** of your working environment with demo of the required services.
+- Milestones heavily rely on your Checkpoint assignment work. If you fall behind on Checkpoints, you will not be able to complete and submit Milestones on time, or you will struggle unnecessarily. Complete relevant Checkpoints before starting work on Milestones.
+- You will have two weeks from the time Milestone instruction is posted until you submit it, for late submission policy, refer to [Late Submission Policies](#late-submission-policies) section.
+- You have permission for **ONE** submission only, so take extra caution about what you submit. If you have made a mistake in your submission, you can request a second submission but it must be requested before the due dates. Resubmission request after due dates cannot be accommodated.
+- Milestones are individual assignments and you will need to work on them individually and complete them on your own. Feel free to discuss with other students and use Collaboration channel in [GitHub Discussions](https://github.com/orgs/CSP451/discussions) to resolve issues or seek help, but the work should be your authentic work and similarities beyond coincidence will be considered cheating and [Seneca's Copyright Policy](https://www.senecapolytechnic.ca/about/policies/copyright-policy.html) will be enforced.
 
-1. Each Milestone is a **recorded video** of your working environment with demo of the required services.
-2. Milestones heavily rely on your Checkpoint assignment work. If you fall behind on Checkpoints, you will not be able to complete and submit Milestones on time, or you will struggle unnecessarily. Complete relevant Checkpoints before starting work on Milestones.
-3. You will have two weeks from the time Milestone instruction is posted until you submit it, for late submission policy, refer to [Late Submission Policies](#late-submission-policies) section.
-4. You have permission for **ONE** submission only, so take extra caution about what you submit. If you have made a mistake in your submission, you can request a second submission but it must be requested before the due dates. Resubmission request after due dates cannot be accommodated.
-5. Milestones are individual assignments and you will need to work on them individually and complete them on your own. Feel free to discuss with other students and use Collaboration channel in [GitHub Discussions](https://github.com/orgs/CSP451/discussions) to resolve issues or seek help, but the work should be your authentic work and similarities beyond coincidence will be considered cheating and [Seneca's Copyright Policy](https://www.senecapolytechnic.ca/about/policies/copyright-policy.html) will be enforced.
+### Demo Presentation
 
-🔥 Most common mistake in Milestone submission is the video file format. **How can you do this correctly?**
+- Through the course you will compete 1 Case-Study assignment. The demo presentation has two deliverables, an in-class activity where you present a novel topic in form of a demo / hands-on work to class and a blackboard submission of your background research work and concept analysis in slides format.
+- Submission Instructions and Requirements are posted in Course GitHub Organization, links to which can be found in [GitHub Links](#github-links). Due dates and mark breakdown can be found in the Blackboard Portal.
+- Presentations will be distributed throughout the semester to avoid jam-packed presentation days towards end of the semesetr. - You can choose the topic/concept that interests you, but it must be related to course outline. Discuss your idea with the professor and get approval for the topic. Alternatively you can choose from a list of proposed topics.
+-  topics in 
 
-### Case-Study
-
-Through the course you will compete 1 Case-Study assignments. Below you can find more details and information about the Case-Study:
 
 
 Class Demo - Bonus Marks
