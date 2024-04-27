@@ -61,18 +61,9 @@ Ideally you must complete this before you access the course material. Refer to [
 
 ### Demo Presentation
 
-- Through the course you will compete 1 Case-Study assignment. The demo presentation has two deliverables, an in-class activity where you present a novel topic in form of a demo / hands-on work to class and a blackboard submission of your background research work and concept analysis in slides format.
+- Through the course you will compete 1 Case-Study assignment. The demo presentation has two deliverables, an in-class activity where you present a novel topic in form of a demo/hands-on work to class and a blackboard submission of your background research work and concept analysis in slides format.
 - Submission Instructions and Requirements are posted in Course GitHub Organization, links to which can be found in [GitHub Links](#github-links). Due dates and mark breakdown can be found in the Blackboard Portal.
-- Presentations will be distributed throughout the semester to avoid jam-packed presentation days towards end of the semesetr. - You can choose the topic/concept that interests you, but it must be related to course outline. Discuss your idea with the professor and get approval for the topic. Alternatively you can choose from a list of proposed topics.
--  topics in 
-
-
-
-Class Demo - Bonus Marks
-Throughout the semester, you will have multiple opportunities to present a topic that interests all students for a bonus mark. I would sometimes suggest the topic, but I am also open to your suggestions. The idea is to help you improve your presentation skills while helping us all learn new and useful topics.
-
-Presentation & Demo Guidelines
-As we proceed with this practice, I will add more guidelines here, for now, I can think of:
+- Demo Presentations will be distributed throughout the semester to avoid jam-packed presentation days towards end of the semester. You can choose the topic/concept that interests you, but it must be related to course outline. Discuss your idea with the professor and get approval for the topic. Alternatively you can choose from a list of proposed topics. Refer to the Blackboard Portal for 
 
 Topics must be related to the course content and go beyond and above the class teaching.
 If you like to contribute, directly message me in MS-Team and I will add your presentation and demo information here. 
