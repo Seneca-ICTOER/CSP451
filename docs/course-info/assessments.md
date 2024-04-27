@@ -71,8 +71,7 @@ Ideally you must complete this before you access the course material. Refer to [
 
 ### Final Evaluation
 
-At the end of the semester, you must complete 1 Final Evaluation which is in a form of Project. Below you can find more details and information about the Final Evaluation:
-
+1. You must complete 1 Final Evaluation at the end of semester. Final Evaluation is Project based  is 
 ???
 1. Depending on the class progress, you will have 24 to 48 hours to complete and submit your work after the instructions are posted
 2. Due dates will be announced closer to the end of the semester
