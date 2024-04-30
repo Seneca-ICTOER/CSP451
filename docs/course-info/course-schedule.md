@@ -23,7 +23,7 @@ description: Course Schedule CSP451
 | Course Information: <ul><li>Course Policies</li><li>Course Assessments</li><li>Course Setup</li><li>Course Collaboration</li></ul>| [Course Information](../course-info/) |
 | Onboarding Course GitHub | [GitHub-Links](#github-links) |
 | Effective use of GitHub Discussion to collaborate and get support | - [Quickstart for GitHub Discussions](https://docs.github.com/en/discussions/quickstart)<br />- [Best practices for community conversations on GitHub](https://docs.github.com/en/discussions/guides/best-practices-for-community-conversations-on-github) |
-| Introduction to Markdown Syntax | [Tutorial - Markdown Syntax](../tutorials/11-markdown-syntax.md) |
+| Introduction to Markdown Syntax | [Tutorial - Markdown Syntax](../tutorials/12-markdown-syntax.md) |
 |||
 
 **Tasks and Assignments:**
@@ -38,7 +38,7 @@ description: Course Schedule CSP451
 | Topics | Reading/Reference |
 | :--- | :--- |
 | Introduction to Version Control | [Tutorial - Version Control](../tutorials/10-version-control.md) |
-| Git Branching & Local Repositories | [Tutorial - Git Branching](../tutorials/12-git-branching.md) |
+| Git Branching & Local Repositories | [Tutorial - Git Branching](../tutorials/13-git-branching.md) |
 |||
 
 **Tasks and Assignments:**
@@ -51,7 +51,7 @@ description: Course Schedule CSP451
 
 | Topics | Reading/Reference |
 | :--- | :--- |
-| Collaborative flows & Pull Requests | [Tutorial - Pull Request](../tutorials/12-git-branching.md) |
+| Collaborative flows & Pull Requests | [Tutorial - Pull Request](../tutorials/13-git-branching.md) |
 |||
 
 **Tasks and Assignments:**
@@ -64,7 +64,7 @@ description: Course Schedule CSP451
 
 | Topics | Reading/Reference |
 | :--- | :--- |
-| CI/CD with GitHub Actions Workflows | [Tutorial - GitHub Actions](../tutorials/12-git-branching.md) |
+| CI/CD with GitHub Actions Workflows | [Tutorial - GitHub Actions](../tutorials/13-git-branching.md) |
 |||
 
 **Tasks and Assignments:**
@@ -79,8 +79,8 @@ description: Course Schedule CSP451
 
 | Topics | Reading/Reference |
 | :--- | :--- |
-| TBD: Networking / CIDR / Azure VNET/subnet/peering/Route Table / NIC / NSG | [Tutorial - TBD](../tutorials/12-git-branching.md) |
-| Tutorial: Create a custom image of an Azure VM with the Azure CLI | <ul><li>Azure Command-Line Interface (CLI) documentation</li><li>Querying dictionary results</li><li>Learn to use Bash with the Azure CLI</li><li>Azure CLI Commands List</li><li>[Tutorial - TBD](../tutorials/12-git-branching.md)</li></ul> |
+| TBD: Networking / CIDR / Azure VNET/subnet/peering/Route Table / NIC / NSG | [Tutorial - TBD](../tutorials/13-git-branching.md) |
+| Tutorial: Create a custom image of an Azure VM with the Azure CLI | <ul><li>Azure Command-Line Interface (CLI) documentation</li><li>Querying dictionary results</li><li>Learn to use Bash with the Azure CLI</li><li>Azure CLI Commands List</li><li>[Tutorial - TBD](../tutorials/13-git-branching.md)</li></ul> |
 |||
 
 **Tasks and Assignments:**
@@ -97,7 +97,7 @@ description: Course Schedule CSP451
 
 | Topics | Reading/Reference |
 | :--- | :--- |
-| TBD | [Tutorial - TBD](../tutorials/12-git-branching.md) |
+| TBD | [Tutorial - TBD](../tutorials/13-git-branching.md) |
 |||
 
 **Tasks and Assignments:**
@@ -110,7 +110,7 @@ description: Course Schedule CSP451
 
 | Topics | Reading/Reference |
 | :--- | :--- |
-| TBD | [Tutorial - TBD](../tutorials/12-git-branching.md) |
+| TBD | [Tutorial - TBD](../tutorials/13-git-branching.md) |
 |||
 
 **Tasks and Assignments:**
@@ -133,7 +133,7 @@ description: Course Schedule CSP451
 
 | Topics | Reading/Reference |
 | :--- | :--- |
-| TBD | [Tutorial - TBD](../tutorials/12-git-branching.md) |
+| TBD | [Tutorial - TBD](../tutorials/13-git-branching.md) |
 |||
 
 **Tasks and Assignments:**
@@ -148,7 +148,7 @@ description: Course Schedule CSP451
 
 | Topics | Reading/Reference |
 | :--- | :--- |
-| TBD | [Tutorial - TBD](../tutorials/12-git-branching.md) |
+| TBD | [Tutorial - TBD](../tutorials/13-version-control.md) |
 |||
 
 YouTube Tutorials:

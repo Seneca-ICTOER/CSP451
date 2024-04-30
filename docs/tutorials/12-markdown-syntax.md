@@ -384,22 +384,3 @@ You can tell {% data variables.product.product_name %} to ignore (or escape) Mar
 `Let's rename \*our-new-project\* to \*our-old-project\*.`
 
 ![Screenshot of rendered GitHub Markdown showing how backslashes prevent the conversion of asterisks to italics. The text reads, "Let's rename our-new-project to our-old-project."](/img/tutorials/md/escaped-character-rendered.png)
-
-For more information on backslashes, see Daring Fireball's "[Markdown Syntax](https://daringfireball.net/projects/markdown/syntax#backslash)."
-
-{% note %}
-
-**Note**: The Markdown formatting will not be ignored in the title of an issue or a pull request.
-
-{% endnote %}
-
-## Disabling Markdown rendering
-
-{% data reusables.repositories.disabling-markdown-rendering %}
-
-## Further reading
-
-- [{% data variables.product.prodname_dotcom %} Flavored Markdown Spec](https://github.github.com/gfm/)
-- "[AUTOTITLE](/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/about-writing-and-formatting-on-github)"
-- "[AUTOTITLE](/get-started/writing-on-github/working-with-advanced-formatting)"
-- "[AUTOTITLE](/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)"
