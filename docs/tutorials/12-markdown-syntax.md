@@ -17,7 +17,7 @@ To create a heading, add one to six <kbd>#</kbd> symbols before your heading tex
 ### A third-level heading
 ```
 
-![Screenshot of rendered GitHub Markdown showing sample h1, h2, and h3 headers, which descend in type size and visual weight to indicate descending hierarchy level.](/assets/images/help/writing/headings-rendered.png)
+![Screenshot of rendered GitHub Markdown showing sample h1, h2, and h3 headers, which descend in type size and visual weight to indicate descending hierarchy level.](../../static/img/tutorials/md/headings-rendered.png)
 
 When you use two or more headings, GitHub automatically generates a table of contents that you can access by clicking {% octicon "list-unordered" aria-label="The unordered list icon" %} within the file header. Each heading title is listed in the table of contents and you can click a title to navigate to the selected section.
 
@@ -49,7 +49,7 @@ Text that is not a quote
 
 Quoted text is indented, with a different type color.
 
-![Screenshot of rendered GitHub Markdown showing sample quoted text. The quote is indented with a vertical line on the left, and its text is dark gray rather than black.](/assets/images/help/writing/quoted-text-rendered.png)
+![Screenshot of rendered GitHub Markdown showing sample quoted text. The quote is indented with a vertical line on the left, and its text is dark gray rather than black.](../../static/img/tutorials/md/quoted-text-rendered.png)
 
 {% note %}
 
@@ -65,7 +65,7 @@ You can call out code or a command within a sentence with single backticks. The 
 Use `git status` to list all new or modified files that haven't yet been committed.
 ```
 
-![Screenshot of rendered GitHub Markdown showing the appearance of characters surrounded by backticks. The words "git status" appear in a fixed-width typeface, highlighted in light gray.](/assets/images/help/writing/inline-code-rendered.png)
+![Screenshot of rendered GitHub Markdown showing the appearance of characters surrounded by backticks. The words "git status" appear in a fixed-width typeface, highlighted in light gray.](../../static/img/tutorials/md/inline-code-rendered.png)
 
 To format code or text into its own distinct block, use triple backticks.
 
@@ -78,7 +78,7 @@ git commit
 ```
 </pre>
 
-![Screenshot of rendered GitHub Markdown showing a code block. The words "git status," "git add," and "git commit" appear in a fixed-width typeface, highlighted in light gray.](/assets/images/help/writing/code-block-rendered.png)
+![Screenshot of rendered GitHub Markdown showing a code block. The words "git status," "git add," and "git commit" appear in a fixed-width typeface, highlighted in light gray.](../../static/img/tutorials/md/code-block-rendered.png)
 
 For more information, see "[AUTOTITLE](/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks)."
 
@@ -92,15 +92,15 @@ In issues, pull requests, and discussions, you can call out colors within a sent
 The background color is `#ffffff` for light mode and `#000000` for dark mode.
 ```
 
-![Screenshot of rendered GitHub Markdown showing how HEX values within backticks create small circles of color. #ffffff shows a white circle, and #000000 shows a black circle.](/assets/images/help/writing/supported-color-models-rendered.png)
+![Screenshot of rendered GitHub Markdown showing how HEX values within backticks create small circles of color. #ffffff shows a white circle, and #000000 shows a black circle.](../../static/img/tutorials/md/supported-color-models-rendered.png)
 
 Here are the currently supported color models.
 
 | Color | Syntax | Example | Output |
 | --- | --- | --- | --- |
-| HEX | <code>\`#RRGGBB\`</code> | <code>\`#0969DA\`</code> | ![Screenshot of rendered GitHub Markdown showing how HEX value #0969DA appears with a blue circle.](/assets/images/help/writing/supported-color-models-hex-rendered.png) |
-| RGB | <code>\`rgb(R,G,B)\`</code> | <code>\`rgb(9, 105, 218)\`</code> | ![Screenshot of rendered GitHub Markdown showing how RGB value 9, 105, 218 appears with a blue circle.](/assets/images/help/writing/supported-color-models-rgb-rendered.png) |
-| HSL | <code>\`hsl(H,S,L)\`</code> | <code>\`hsl(212, 92%, 45%)\`</code> | ![Screenshot of rendered GitHub Markdown showing how HSL value 212, 92%, 45% appears with a blue circle.](/assets/images/help/writing/supported-color-models-hsl-rendered.png) |
+| HEX | <code>\`#RRGGBB\`</code> | <code>\`#0969DA\`</code> | ![Screenshot of rendered GitHub Markdown showing how HEX value #0969DA appears with a blue circle.](../../static/img/tutorials/md/supported-color-models-hex-rendered.png) |
+| RGB | <code>\`rgb(R,G,B)\`</code> | <code>\`rgb(9, 105, 218)\`</code> | ![Screenshot of rendered GitHub Markdown showing how RGB value 9, 105, 218 appears with a blue circle.](../../static/img/tutorials/md/supported-color-models-rgb-rendered.png) |
+| HSL | <code>\`hsl(H,S,L)\`</code> | <code>\`hsl(212, 92%, 45%)\`</code> | ![Screenshot of rendered GitHub Markdown showing how HSL value 212, 92%, 45% appears with a blue circle.](../../static/img/tutorials/md/supported-color-models-hsl-rendered.png) |
 
 {% note %}
 
@@ -119,7 +119,7 @@ You can also create a Markdown hyperlink by highlighting the text and using the 
 
 `This site was built using [GitHub Pages](https://pages.github.com/).`
 
-![Screenshot of rendered GitHub Markdown showing how text within brackets, "GitHub Pages," appears as a blue hyperlink.](/assets/images/help/writing/link-rendered.png)
+![Screenshot of rendered GitHub Markdown showing how text within brackets, "GitHub Pages," appears as a blue hyperlink.](../../static/img/tutorials/md/link-rendered.png)
 
 {% note %}
 
@@ -141,7 +141,7 @@ You can display an image by adding <kbd>!</kbd> and wrapping the alt text in `[ 
 
 `![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)`
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](/assets/images/help/writing/image-rendered.png)
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](../../static/img/tutorials/md/image-rendered.png)
 
 {% data variables.product.product_name %} supports embedding images into your issues, pull requests{% ifversion fpt or ghec %}, discussions{% endif %}, comments  and `.md` files. You can display an image from your repository, add a link to an online image, or upload an image. For more information, see "[Uploading assets](#uploading-assets)."
 
@@ -189,7 +189,7 @@ You can make an unordered list by preceding one or more lines of text with <kbd>
 + Thomas Jefferson
 ```
 
-![Screenshot of rendered GitHub Markdown showing a bulleted list of the names of the first three American presidents.](/assets/images/help/writing/unordered-list-rendered.png)
+![Screenshot of rendered GitHub Markdown showing a bulleted list of the names of the first three American presidents.](../../static/img/tutorials/md/unordered-list-rendered.png)
 
 To order your list, precede each line with a number.
 
@@ -199,7 +199,7 @@ To order your list, precede each line with a number.
 3. John Quincy Adams
 ```
 
-![Screenshot of rendered GitHub Markdown showing a numbered list of the names of the fourth, fifth, and sixth American presidents.](/assets/images/help/writing/ordered-list-rendered.png)
+![Screenshot of rendered GitHub Markdown showing a numbered list of the names of the fourth, fifth, and sixth American presidents.](../../static/img/tutorials/md/ordered-list-rendered.png)
 
 ### Nested Lists
 
@@ -219,9 +219,9 @@ To create a nested list using the web editor on {% data variables.product.produc
 
 {% endnote %}
 
-![Screenshot of Markdown in {% data variables.product.prodname_vscode %} showing how indented bullets align vertically with the first letter of the text lines above them.](/assets/images/help/writing/nested-list-alignment.png)
+![Screenshot of Markdown in {% data variables.product.prodname_vscode %} showing how indented bullets align vertically with the first letter of the text lines above them.](../../static/img/tutorials/md/nested-list-alignment.png)
 
-![Screenshot of rendered GitHub Markdown showing a numbered item followed by a bulleted item nested one level to the right, and another bulleted item nested yet further to the right.](/assets/images/help/writing/nested-list-example-1.png)
+![Screenshot of rendered GitHub Markdown showing a numbered item followed by a bulleted item nested one level to the right, and another bulleted item nested yet further to the right.](../../static/img/tutorials/md/nested-list-example-1.png)
 
 To create a nested list in the comment editor on {% data variables.product.product_name %}, which doesn't use a monospaced font, you can look at the list item immediately above the nested list and count the number of characters that appear before the content of the item. Then type that number of space characters in front of the nested list item.
 
@@ -232,7 +232,7 @@ In this example, you could add a nested list item under the list item `100. Firs
      - First nested list item
 ```
 
-![Screenshot of rendered GitHub Markdown showing a list item prefaced by the number 100 followed by a bulleted item nested one level to the right.](/assets/images/help/writing/nested-list-example-3.png)
+![Screenshot of rendered GitHub Markdown showing a list item prefaced by the number 100 followed by a bulleted item nested one level to the right.](../../static/img/tutorials/md/nested-list-example-3.png)
 
 You can create multiple levels of nested lists using the same method. For example, because the first nested list item has seven characters (`␣␣␣␣␣-␣`) before the nested list content `First nested list item`, you would need to indent the second nested list item by at least two more characters (nine spaces minimum).
 
@@ -242,7 +242,7 @@ You can create multiple levels of nested lists using the same method. For exampl
          - Second nested list item
 ```
 
-![Screenshot of rendered GitHub Markdown showing a list item prefaced by the number 100 followed by a bulleted item nested one level to the right, and another bulleted item nested yet further to the right.](/assets/images/help/writing/nested-list-example-2.png)
+![Screenshot of rendered GitHub Markdown showing a list item prefaced by the number 100 followed by a bulleted item nested one level to the right, and another bulleted item nested yet further to the right.](../../static/img/tutorials/md/nested-list-example-2.png)
 
 For more examples, see the [GitHub Flavored Markdown Spec](https://github.github.com/gfm/#example-265).
 
@@ -271,7 +271,7 @@ You can mention a person or [team](/organizations/organizing-members-into-teams)
 
 `@github/support What do you think about these updates?`
 
-![Screenshot of rendered GitHub Markdown showing how the team mention "@github/support" renders as bold, clickable text.](/assets/images/help/writing/mention-rendered.png)
+![Screenshot of rendered GitHub Markdown showing how the team mention "@github/support" renders as bold, clickable text.](../../static/img/tutorials/md/mention-rendered.png)
 
 When you mention a parent team, members of its child teams also receive notifications, simplifying communication with multiple groups of people. For more information, see "[AUTOTITLE](/organizations/organizing-members-into-teams/about-teams)."
 
@@ -299,7 +299,7 @@ You can add emoji to your writing by typing `:EMOJICODE:`, a colon followed by t
 
 `@octocat :+1: This PR looks great - it's ready to merge! :shipit:`
 
-![Screenshot of rendered GitHub Markdown showing how emoji codes for +1 and shipit render visually as emoji.](/assets/images/help/writing/emoji-rendered.png)
+![Screenshot of rendered GitHub Markdown showing how emoji codes for +1 and shipit render visually as emoji.](../../static/img/tutorials/md/emoji-rendered.png)
 
 Typing <kbd>:</kbd> will bring up a list of suggested emoji. The list will filter as you type, so once you find the emoji you're looking for, press **Tab** or **Enter** to complete the highlighted result.
 
@@ -325,7 +325,7 @@ A footnote can also have multiple lines[^2].
 
 The footnote will render like this:
 
-![Screenshot of rendered Markdown showing superscript numbers used to indicate footnotes, along with optional line breaks inside a note.](/assets/images/help/writing/footnote-rendered.png)
+![Screenshot of rendered Markdown showing superscript numbers used to indicate footnotes, along with optional line breaks inside a note.](../../static/img/tutorials/md/footnote-rendered.png)
 
 {% note %}
 
@@ -364,7 +364,7 @@ To add an alert, use a special blockquote line specifying the alert type, follow
 
 Here are the rendered alerts:
 
-![Screenshot of rendered Markdown alerts showing how Note, Tip, Important, Warning, and Caution render with different colored text and icons.](/assets/images/help/writing/alerts-rendered.png)
+![Screenshot of rendered Markdown alerts showing how Note, Tip, Important, Warning, and Caution render with different colored text and icons.](../../static/img/tutorials/md/alerts-rendered.png)
 
 {% endif %}
 
@@ -382,7 +382,7 @@ You can tell {% data variables.product.product_name %} to ignore (or escape) Mar
 
 `Let's rename \*our-new-project\* to \*our-old-project\*.`
 
-![Screenshot of rendered GitHub Markdown showing how backslashes prevent the conversion of asterisks to italics. The text reads, "Let's rename our-new-project to our-old-project."](/assets/images/help/writing/escaped-character-rendered.png)
+![Screenshot of rendered GitHub Markdown showing how backslashes prevent the conversion of asterisks to italics. The text reads, "Let's rename our-new-project to our-old-project."](../../static/img/tutorials/md/escaped-character-rendered.png)
 
 For more information on backslashes, see Daring Fireball's "[Markdown Syntax](https://daringfireball.net/projects/markdown/syntax#backslash)."
 
