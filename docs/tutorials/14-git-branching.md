@@ -1,5 +1,5 @@
 ---
-id: 12-git-branching
+id: git-branching
 title: Introduction to Branching in Git
 sidebar_position: 1
 description: TBD
@@ -7,7 +7,7 @@ description: TBD
 
 source: [Git for Beginners - Atlassian](https://www.atlassian.com/git/tutorials/what-is-version-control)
 
-## What is version control?
+ [Git Branch Concepts and Tutorial](https://www.atlassian.com/git/tutorials/using-branches)<br />- [How to Use Branches in Git – the Ultimate Cheatsheet](https://www.freecodecamp.org/news/how-to-use-branches-in-git/) |
 
 Version control, also known as source control, is the practice of tracking and managing changes to software code. Version control systems are software tools that help software teams manage changes to source code over time. As development environments have accelerated, version control systems help software teams work faster and smarter. They are especially useful for DevOps teams since they help them to reduce development time and increase successful deployments.
 

@@ -1,69 +1,47 @@
 ---
-id: 10-version-control
+id: version-control
 title: Introduction to Version Control
 sidebar_position: 1
 description: TBD
 ---
 
-source: [Git for Beginners - Atlassian](https://www.atlassian.com/git/tutorials/what-is-version-control)
-
-What is Git?
-Git is a version control system​
-
-Used for tracking changes in source code during software development​
-
-Open-source project originally developed in 2005 by Linus Torvalds, the famous creator of the Linux operating system kernel
-
-
 ## What is version control?
 
+Version control systems (VCS) are software tools that help manage changes to source code and other files over time. They enable developers to track modifications, collaborate with others, and maintain a history of revisions. The primary functions of version control systems include:
 
+1. **Tracking Changes:** VCS records every change made to files, including additions, deletions, and modifications. This allows developers to see the evolution of the codebase over time and revert to previous versions if needed.
+2. **Collaboration:** VCS enables multiple developers to work on the same project simultaneously without interfering with each other's work. Developers can create branches to work on new features or fixes independently and merge their changes back into the main codebase when ready.
+3. **Conflict Resolution:** In cases where two or more developers make conflicting changes to the same file, VCS helps identify and resolve conflicts by highlighting the differences and allowing developers to choose which changes to keep.
+4. **Backup and Recovery: VCS serves as a backup mechanism by storing multiple copies of files and their history. This helps prevent data loss in case of accidental deletions or system failures and facilitates recovery by providing access to previous versions of files.
+5. **Auditing and Compliance:** VCS maintains a detailed history of changes, including information about who made each change and when. This audit trail is useful for tracking contributions, conducting code reviews, and ensuring compliance with regulations and standards.
+6. **Branching and Merging:** VCS supports branching, allowing developers to create separate lines of development for new features or experiments. Branches can be merged back into the main codebase once the changes are complete, enabling a structured and controlled development process.
 
-Version control, also known as source control, is the practice of tracking and managing changes to software code. Version control systems are software tools that help software teams manage changes to source code over time. As development environments have accelerated, version control systems help software teams work faster and smarter. They are especially useful for DevOps teams since they help them to reduce development time and increase successful deployments.
-
-Version control software keeps track of every modification to the code in a special kind of database. If a mistake is made, developers can turn back the clock and compare earlier versions of the code to help fix the mistake while minimizing disruption to all team members.
+### Tutorial Video: What is Version Control?
 
 [![What is Version Control?](https://img.youtube.com/vi/xQujH0ElTUg/0.jpg)](https://www.youtube.com/watch?v=xQujH0ElTUg)
 
-For almost all software projects, the source code is like the crown jewels - a precious asset whose value must be protected. For most software teams, the source code is a repository of the invaluable knowledge and understanding about the problem domain that the developers have collected and refined through careful effort. Version control protects source code from both catastrophe and the casual degradation of human error and unintended consequences.
+## What is Git?
 
-Software developers working in teams are continually writing new source code and changing existing source code. The code for a project, app or software component is typically organized in a folder structure or "file tree". One developer on the team may be working on a new feature while another developer fixes an unrelated bug by changing code, each developer may make their changes in several parts of the file tree.
+![git-icon](/img/tutorials/git_wide_icon.png)
 
-Version control helps teams solve these kinds of problems, tracking every individual change by each contributor and helping prevent concurrent work from conflicting. Changes made in one part of the software can be incompatible with those made by another developer working at the same time. This problem should be discovered and solved in an orderly manner without blocking the work of the rest of the team. Further, in all software development, any change can introduce new bugs on its own and new software can't be trusted until it's tested. So testing and development proceed together until a new version is ready.
+Git is a distributed version control system (DVCS) designed to track changes in source code during software development. Created by **Linus Torvalds** in 2005, Git has become one of the most widely used version control systems in the world. Git differs from other version control systems in many ways, namely:
 
-Good version control software supports a developer's preferred workflow without imposing one particular way of working. Ideally it also works on any platform, rather than dictate what operating system or tool chain developers must use. Great version control systems facilitate a smooth and continuous flow of changes to the code rather than the frustrating and clumsy mechanism of file locking - giving the green light to one developer at the expense of blocking the progress of others.
+- **Distributed Architecture:** Git is distributed, meaning that every user has a complete copy of the repository, including its full history. This allows developers to work offline, commit changes locally, and synchronize with remote repositories when they have internet access. Other version control systems, such as Subversion (SVN), typically use a centralized architecture, where there is a single central repository that users interact with.
+- Branching and Merging:** Git makes branching and merging fast and lightweight. Developers can create branches to work on new features or experiments independently of the main codebase. Branches can be created, merged, and deleted easily, allowing for flexible and parallel development workflows. Git's branching model is more powerful and user-friendly compared to some other version control systems.
+- **Performance:** Git is known for its speed and efficiency, even with large repositories and extensive histories. This is partly due to its distributed nature, which reduces the need for network communication. Git also uses techniques such as delta compression and shallow cloning to optimize performance.
+- **Data Integrity:** Git uses cryptographic hashes to ensure the integrity of data. Every file and commit in a Git repository is identified by a unique SHA-1 hash, which makes it virtually impossible to accidentally modify or corrupt data without detection. This ensures the reliability and trustworthiness of the version history.
+- **Flexibility:** Git is highly flexible and customizable, allowing users to tailor their workflows and configurations to suit their specific needs. It supports various collaboration models, branching strategies, and workflows, making it suitable for a wide range of projects and teams.
 
-Software teams that do not use any form of version control often run into problems like not knowing which changes that have been made are available to users or the creation of incompatible changes between two unrelated pieces of work that must then be painstakingly untangled and reworked. If you're a developer who has never used version control you may have added versions to your files, perhaps with suffixes like "final" or "latest" and then had to later deal with a new final version. Perhaps you've commented out code blocks because you want to disable certain functionality without deleting the code, fearing that there may be a use for it later. Version control is a way out of these problems.
-
-Version control software is an essential part of the every-day of the modern software team's professional practices. Individual software developers who are accustomed to working with a capable version control system in their teams typically recognize the incredible value version control also gives them even on small solo projects. Once accustomed to the powerful benefits of version control systems, many developers wouldn't consider working without it even for non-software projects.
-
-## Benefits of version control systems
-
-Using version control software is a best practice for high performing software and DevOps teams. Version control also helps developers move faster and allows software teams to preserve efficiency and agility as the team scales to include more developers.
-
-Version Control Systems (VCS) have seen great improvements over the past few decades and some are better than others. VCS are sometimes known as SCM (Source Code Management) tools or RCS (Revision Control System). One of the most popular VCS tools in use today is called Git. Git is a Distributed VCS, a category known as DVCS, more on that later. Like many of the most popular VCS systems available today, Git is free and open source. Regardless of what they are called, or which system is used, the primary benefits you should expect from version control are as follows.
-
-1. A complete long-term change history of every file. This means every change made by many individuals over the years. Changes include the creation and deletion of files as well as edits to their contents. Different VCS tools differ on how well they handle renaming and moving of files. This history should also include the author, date and written notes on the purpose of each change. Having the complete history enables going back to previous versions to help in root cause analysis for bugs and it is crucial when needing to fix problems in older versions of software. If the software is being actively worked on, almost everything can be considered an "older version" of the software.
-
-2. Branching and merging. Having team members work concurrently is a no-brainer, but even individuals working on their own can benefit from the ability to work on independent streams of changes. Creating a "branch" in VCS tools keeps multiple streams of work independent from each other while also providing the facility to merge that work back together, enabling developers to verify that the changes on each branch do not conflict. Many software teams adopt a practice of branching for each feature or perhaps branching for each release, or both. There are many different workflows that teams can choose from when they decide how to make use of branching and merging facilities in VCS.
-
-3. Traceability. Being able to trace each change made to the software and connect it to project management and bug tracking software such as Jira, and being able to annotate each change with a message describing the purpose and intent of the change can help not only with root cause analysis and other forensics. Having the annotated history of the code at your fingertips when you are reading the code, trying to understand what it is doing and why it is so designed can enable developers to make correct and harmonious changes that are in accord with the intended long-term design of the system. This can be especially important for working effectively with legacy code and is crucial in enabling developers to estimate future work with any accuracy.
-
-While it is possible to develop software without using any version control, doing so subjects the project to a huge risk that no professional team would be advised to accept. So the question is not whether to use version control but which version control system to use.
-
-Git cheat sheet
-_Use this handy git cheat sheet guide to enhance your workflow._
-
-
-
-## Source code management
-
-> Source code management (SCM) is used to track modifications to a source code repository. SCM tracks a running history of changes to a code base and helps resolve conflicts when merging updates from multiple contributors. SCM is also synonymous with Version control. 
-
-> As software projects grow in lines of code and contributor head count, the costs of communication overhead and management complexity also grow. SCM is a critical tool to alleviate the organizational strain of growing development costs.
-
+Git's distributed architecture, efficient branching and merging, performance, data integrity, and flexibility set it apart from other version control systems and contribute to its widespread adoption and popularity in the software development community.
 
 ## Source code management best practices
+
+>Source code management (SCM) is used to track modifications to a source code repository. SCM tracks a running history of changes to a code base and helps resolve conflicts when merging updates from multiple contributors. SCM is also synonymous with Version control.
+>
+> As software projects grow in lines of code and contributor head count, the costs of communication overhead and management complexity also grow. SCM is a critical tool to alleviate the organizational strain of growing development costs.
+> -- <cite>[Source code management][1]</cite>
+
+[1]: https://www.atlassian.com/git/tutorials/source-code-management
 
 ### Commit often
 
@@ -71,7 +49,7 @@ Commits are cheap and easy to make. They should be made frequently to capture up
 
 ### Ensure you're working from latest version
 
-SCM enables rapid updates from multiple developers. It’s easy to have a local copy of the codebase fall behind the global copy. Make sure to git pull or fetch the latest code before making updates. This will help avoid conflicts at merge time.
+SCM enables rapid updates from multiple developers. It’s easy to have a local copy of the codebase fall behind the global copy. Make sure to `git pull` or `fetch` the latest code before making updates. This will help avoid conflicts at merge time.
 
 ### Make detailed notes
 

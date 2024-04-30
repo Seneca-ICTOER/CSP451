@@ -27,6 +27,9 @@ Course GitHub Material codes and scripts are continuously updated, it is a good 
 
 ### How to create a watch here
 
+https://git-scm.com/downloads
+https://code.visualstudio.com/download
+
 ???
 
 ### How to update id and profile name
@@ -59,3 +62,9 @@ How to check your local git bash installation?
 ## Part Two - Getting Started with Azure CLI
 
 start with clonning the 
+
+This was Week 5 or 6
+Software you need to install
+2. 
+3. Install Azure CLI for Linux
+Windows Subsystem for Linux (WSL
