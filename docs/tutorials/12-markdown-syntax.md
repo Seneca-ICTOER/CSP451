@@ -17,8 +17,6 @@ To create a heading, add one to six <kbd>#</kbd> symbols before your heading tex
 ### A third-level heading
 ```
 
-![git-icon](/img/tutorials/git_wide_icon.png)
-
 
 ![Screenshot of rendered GitHub Markdown showing sample h1, h2, and h3 headers, which descend in type size and visual weight to indicate descending hierarchy level.](../../static/img/tutorials/md/headings-rendered.png)
 
