@@ -20,15 +20,16 @@ A repository is the most basic element of GitHub. Before getting started with re
 | Pull request | A request to merge changes from one branch into another. |
 | Remote | A repository stored on GitHub, not on your computer. |
 | Upstream | The branch on an original repository that has been forked or cloned. The corresponding branch on the cloned or forked branch is called the "downstream." |
+|||
 
 ## Cloning a repository
 
 1. On GitHub.com, navigate to the main page of the repository.
-2. Above the list of files, click <> **Code**.
+2. Above the list of files, click **Code** button.
     ![Screenshot of <> Code icon](../../static/img/tutorials/github/code-button.png)
 3. Copy the URL for the repository.
    - To clone the repository using **HTTPS**, under HTTPS, click _clipboard_ icon.
-   - To clone the repository using an **SSH** key, including a certificate issued by your organization's SSH certificate authority, click SSH, then click __clipboard__ icon.
+   - To clone the repository using an **SSH** key, including a certificate issued by your organization's SSH certificate authority, click SSH, then click _clipboard_ icon.
    - To clone a repository using **GitHub CLI**, click GitHub CLI, then click _copy_ icon.
     ![Screenshot of clone with html-ssh-github cli](../../static/img/tutorials/github/https-url-clone-cli.png)
 4. Open **Git Bash**.
