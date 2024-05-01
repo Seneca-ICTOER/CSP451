@@ -18,7 +18,7 @@ description: Weekly Schedule CSP451
 ## Week 1 - Introduction to Course
 
 | Topics | Reading/Reference |
-|:- |:- |
+| :---  | :---  |
 | Introduction to Course | [Introduction to CSP451](./landing-page.md) |
 | Course Policies | [Course Policies](./course-info/course-policies.md) |
 | Course Assessments |[Assessment Policies](./course-info/assessments.md) |
@@ -41,7 +41,6 @@ description: Weekly Schedule CSP451
 | Topics | Reading/Reference |
 | :--- | :--- |
 | Git Branching & Local Repositories | [Tutorial - Git Branching](./tutorials-github/17-git-branching.md) |
-|||
 
 **Tasks and Assignments:**
 
@@ -54,7 +53,6 @@ description: Weekly Schedule CSP451
 | Topics | Reading/Reference |
 | :--- | :--- |
 | Collaborative flows & Pull Requests | [Tutorial - Pull Request](./tutorials-github/18-github-pull-request.md)) |
-|||
 
 **Tasks and Assignments:**
 
@@ -68,7 +66,6 @@ description: Weekly Schedule CSP451
 | Topics | Reading/Reference |
 | :--- | :--- |
 | CI/CD with GitHub Actions Workflows | [Tutorial - GitHub Actions](./tutorials-github/19-github-actions.md) |
-|||
 
 **Tasks and Assignments:**
 

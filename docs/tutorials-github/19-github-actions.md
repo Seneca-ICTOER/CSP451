@@ -1,6 +1,6 @@
 ---
-id: github-pull-request
-title: GitHub Flow 
+id: github-actions
+title: GitHub WorkflowGit Actions
 sidebar_position: 1
 description: TBD
 ---
