@@ -22,7 +22,7 @@ GitHub repositories store a variety of projects. In this guide, you'll create a 
 
 ## Commit change using Web Interface
 
-A [commit](/get-started/learning-about-github/github-glossary#commit) is like a snapshot of all the files in your project at a particular point in time.
+A [commit](https://docs.github.com/en/get-started/learning-about-github/github-glossary#commit) is like a snapshot of all the files in your project at a particular point in time.
 
 1. In your repository's list of files, select **README.md**.
    ![Screenshot of a list of files in a repository. A file name, "README.md", is highlighted with an orange outline.](../../static/img/tutorials/github/create-commit-open-readme.png)
