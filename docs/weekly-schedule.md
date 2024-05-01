@@ -1,7 +1,7 @@
 ---
 id: weekly-schedule
 title: Weekly Schedule 
-sidebar_position: 3
+sidebar_position: 2
 description: Weekly Schedule CSP451
 ---
 
@@ -18,7 +18,7 @@ description: Weekly Schedule CSP451
 ## Week 1 - Introduction to Course
 
 | Topics | Reading/Reference |
-| :--- | :--- |
+|:- |:- |
 | Introduction to Course | [Introduction to CSP451](./landing-page.md) |
 | Course Policies | [Course Policies](./course-info/course-policies.md) |
 | Course Assessments |[Assessment Policies](./course-info/assessments.md) |
@@ -27,7 +27,7 @@ description: Weekly Schedule CSP451
 | Introduction to Version Control| [Tutorial - Introduction to Version Control](./tutorials-github/10-version-control.md) |
 | Introduction to Markdown | [Tutorial - Introduction to Markdown](./tutorials-github/13-markdown-intro.md) |
 | Markdown Syntax | [Tutorial - Markdown Syntax](./tutorials-github/14-markdown-syntax.md) |
-|||
+
 
 **Tasks and Assignments:**
 
