@@ -20,7 +20,7 @@ description: Course Schedule CSP451
 | Topics | Reading/Reference |
 | :--- | :--- |
 | Introduction to Course: <ul><li>Course Description</li><li>Learning Objectives</li><li>Course Outline</li></ul> | [Introduction to CSP451](../landing-page.md) |
-| Course Information: <ul><li>Course Policies</li><li>Course Assessments</li><li>Course Setup</li><li>Course Collaboration</li></ul>| [Course Information](./course-info/) |
+| Course Information: <ul><li>Course Policies</li><li>Course Assessments</li><li>Course Setup</li><li>Course Collaboration</li></ul>| [Course Information](./course-policies.md) |
 | Onboarding Course GitHub | [GitHub-Links](#github-links) |
 | Effective use of GitHub Discussion to collaborate and get support | - [Quickstart for GitHub Discussions](https://docs.github.com/en/discussions/quickstart)<br />- [Best practices for community conversations on GitHub](https://docs.github.com/en/discussions/guides/best-practices-for-community-conversations-on-github) |
 | Introduction to Markdown Syntax | [Tutorial - Markdown Syntax](../tutorials/12-markdown-syntax.md) |
