@@ -14,6 +14,3 @@ Version control, also known as source control, is the practice of tracking and m
 Version control software keeps track of every modification to the code in a special kind of database. If a mistake is made, developers can turn back the clock and compare earlier versions of the code to help fix the mistake while minimizing disruption to all team members.
 
 [![What is Version Control?](https://img.youtube.com/vi/xQujH0ElTUg/0.jpg)](https://www.youtube.com/watch?v=xQujH0ElTUg)
-
-
-

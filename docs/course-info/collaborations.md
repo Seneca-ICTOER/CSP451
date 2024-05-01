@@ -19,11 +19,7 @@ description: Course Collaborations CSP451
 
 GitHub Discussions is a feature introduced by GitHub that enables individuals to have open conversations and discussions directly within the GitHub platform. It serves as a centralized space for users to ask questions, share ideas, provide feedback, and engage with others about the project.
 
-> GitHub Discussions is a collaborative communication forum for the community around an open source or internal project. Discussions are for conversations that need to be transparent and accessible but do not need to be tracked on a project and are not related to code, unlike GitHub Issues. Discussions enable fluid, open conversation in a public forum.
-> 
-> -- <cite>[Quickstart for GitHub Discussions][1]</cite>
-
-[1]: https://docs.github.com/en/discussions/quickstart
+> GitHub Discussions is a collaborative communication forum for the community around an open source or internal project. Discussions are for conversations that need to be transparent and accessible but do not need to be tracked on a project and are not related to code, unlike GitHub Issues. Discussions enable fluid, open conversation in a public forum. [1]
 
 Key features of GitHub Discussions:
 
@@ -54,7 +50,11 @@ This course will uses GitHub Discussions for collaboration, discussion and probl
 > Be respectful - Working in a collaborative environment means disagreements may happen. But remember to criticize ideas, not people. Share thoughtful, constructive criticism and be courteous to those you interact with. If you’re unable to engage respectfully, consider taking a step back or using some of our moderation tools to de-escalate a tense situation.
 
 > Be empathetic - GitHub is a global community with people from a wide variety of backgrounds and perspectives, many of which may not be your own. Try to put yourself in others’ shoes and understand their feelings before you address them. Do your best to help make GitHub a community where others feel safe to make contributions, participate in discussions, and share different ideas.
->
-> > -- <cite>[GitHub Community Guidelines][2]</cite>
 
+## Sources
+
+1. <cite>[Quickstart for GitHub Discussions][1]</cite>
+2. <cite>[GitHub Community Guidelines][2]</cite>
+
+[1]: https://docs.github.com/en/discussions/quickstart
 [2]: https://docs.github.com/en/site-policy/github-terms/github-community-guidelines

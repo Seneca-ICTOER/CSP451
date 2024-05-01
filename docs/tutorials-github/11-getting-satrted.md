@@ -1,5 +1,5 @@
 ---
-id: getting-started-github
+id: getting-started
 title: Getting started with GitHub
 sidebar_position: 1
 description: TBD
@@ -29,15 +29,3 @@ You can follow these steps to get started with GitHub:
 6. **Collaborate and Share:** With your project published on GitHub, you can collaborate with others by inviting them to contribute to your repository. You can also share your work with the broader community by making your repository public.
 
 Remember, the README.md file is often the first thing people see when they visit your repository, so it's essential to make it informative and well-organized. Use Markdown to format headings, lists, code blocks, links, and other elements to make your README.md file professional and easy to understand.
-
-## What is Markdown?
-
-Markdown is a lightweight markup language with plain-text formatting syntax designed for easy readability and writing. It allows you to format text using simple symbols and conventions, such as asterisks or underscores for emphasis, hash symbols for headings, and brackets for links. Markdown is commonly used for formatting text in various contexts, including writing documentation, creating web content, and writing messages on platforms like GitHub, Reddit, and Stack Overflow. Markdown's popularity can be contributed to its:
-
-- **Simplicity:** Markdown offers a simple and intuitive syntax that is easy to learn and use. It allows you to format text quickly without needing to memorize complex HTML tags.
-- **Versatility:** Markdown is widely supported across different platforms and applications, including text editors, blogging platforms, collaboration tools, and version control systems like Git and GitHub. Once you learn Markdown, you can use it in various contexts.
-- **Efficiency:** Markdown allows you to focus on writing content without getting distracted by formatting options. Its lightweight syntax enables you to format text efficiently, saving time and effort.
-- **Collaboration:** Many online communities and collaborative platforms use Markdown for formatting text. By learning Markdown, you can effectively communicate and collaborate with others in these environments.
-- **Documentation:** Markdown is commonly used for writing documentation, readme files, and technical guides. Knowing Markdown can help you create clear and well-organized documentation for your projects.
-
-Learning Markdown can enhance your productivity, improve your communication skills, and makes you more effective in various professional and creative endeavors.

@@ -1,14 +1,16 @@
 ---
 id: git-basic-commands
-title: Basic Git commands
+title: Git Command Line Interface Commands
 sidebar_position: 1
 description: TBD
 ---
 
-> [!IMPORTANT]
-> This page focuses on Basic writing and formatting syntax in **GitHub**. This is not a Markdown reference. Refer to [Markdown Guide](https://www.markdownguide.org/) and [Markdown Basic Syntax](https://www.markdownguide.org/basic-syntax/) for a more comprehensive reference about generic Markdown Syntax.
 
-The Page are excerpts taken from GitHub Documentation [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax). For more details and updates, refer to the original document.
+## Git cheat sheet
+
+This Git cheat sheet saves you time when you just can't remember what a command is or don't want to use git help in the command line. It is hard to memorize all the important Git commands by heart, so print this out or save it to your desktop to resort to when you get stuck. Source: [Git cheat sheet](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
+
+You can download it using this [link](../../static/files/Atlassian-Git-Cheatsheet.pdf).
 
 ### Basic Git commands
 
@@ -18,7 +20,7 @@ To use Git, developers use specific commands to copy, create, change, and combin
 
 - `git clone` creates a local copy of a project that already exists remotely. The clone includes all the project's files, history, and branches.
 
-- `git add` stages a change. Git tracks changes to a developer's codebase, but it's necessary to stage and take a snapshot of the changes to include them in the project's history. This command performs staging, the first part of that two-step process. Any changes that are staged will become a part of the next snapshot and a part of the project's history. Staging and committing separately gives developers complete control over the history of their project without changing how they code and work.
+- `git add` stages a change. Git tracks changes to a developer's codebase, but it's necessary to stage and take a snapshot of the changes to include them in the project's history.
 
 - `git commit` saves the snapshot to the project history and completes the change-tracking process. In short, a commit functions like taking a photo. Anything that's been staged with `git add` will become a part of the snapshot with `git commit`.
 
@@ -26,7 +28,7 @@ To use Git, developers use specific commands to copy, create, change, and combin
 
 - `git branch` shows the branches being worked on locally.
 
-- `git merge` merges lines of development together. This command is typically used to combine changes made on two distinct branches. For example, a developer would merge when they want to combine changes from a feature branch into the main branch for deployment.
+- `git merge` merges lines of development together. This command is typically used to combine changes made on two distinct branches.
 
 - `git pull` updates the local line of development with updates from its remote counterpart. Developers use this command if a teammate has made commits to a branch on a remote, and they would like to reflect those changes in their local environment.
 
@@ -64,7 +66,7 @@ git push --set-upstream origin my-branch
 
 ### Example: Start a new repository and publish it to GitHub
 
-First, you will need to create a new repository on GitHub. For more information, see "[Hello World](https://docs.github.com/en/get-started/start-your-journey/hello-world)." **Do not** initialize the repository with a README, .gitignore or License file. This empty repository will await your code.
+First, you will need to create a new repository on GitHub. For more information, see [Hello World](https://docs.github.com/en/get-started/start-your-journey/hello-world). **Do not** initialize the repository with a `README`, `.gitignore` or `License` file. This empty repository will await your code.
 
 ```bash
 # create a new directory, and initialize it with git-specific functions
@@ -115,3 +117,10 @@ git commit -m "edit file1"
 git push
 ```
 
+## Sources
+
+1. <cite>[GitHub Basic writing and formatting syntax][1]</cite>
+2. <cite>[Git cheat sheet][2]</cite>
+
+[1]: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+[2]: https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet
