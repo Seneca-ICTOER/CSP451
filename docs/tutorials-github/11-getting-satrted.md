@@ -17,7 +17,7 @@ GitHub is a web-based platform and service that provides hosting for software de
 6. **Documentation and Knowledge Sharing:** GitHub provides features for creating and maintaining project documentation, README files, and wikis. Well-documented projects are easier to understand, contribute to, and use, fostering collaboration and knowledge sharing among developers.
 7. **Open Source Contributions:** GitHub hosts millions of open-source projects covering a wide range of technologies. Developers can contribute to these projects, learn from experienced developers, and gain valuable real-world experience while giving back to the community.
 
-## Getting Started with GitHib
+## Getting started with GitHub
 
 You can follow these steps to get started with GitHub:
 

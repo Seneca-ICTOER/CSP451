@@ -51,6 +51,11 @@ This course will uses GitHub Discussions for collaboration, discussion and probl
 
 > Be empathetic - GitHub is a global community with people from a wide variety of backgrounds and perspectives, many of which may not be your own. Try to put yourself in others’ shoes and understand their feelings before you address them. Do your best to help make GitHub a community where others feel safe to make contributions, participate in discussions, and share different ideas.
 
+## Further Reading
+
+- [Quickstart for GitHub Discussions](https://docs.github.com/en/discussions/quickstart)
+- [Best practices for community conversations on GitHub](https://docs.github.com/en/discussions/guides/best-practices-for-community-conversations-on-github)
+
 ## Sources
 
 1. <cite>[Quickstart for GitHub Discussions][1]</cite>

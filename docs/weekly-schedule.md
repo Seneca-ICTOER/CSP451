@@ -1,8 +1,8 @@
 ---
-id: course-schedule
-title: Course Schedule
+id: weekly-schedule
+title: Weekly Schedule 
 sidebar_position: 3
-description: Course Schedule CSP451
+description: Weekly Schedule CSP451
 ---
 
 ### Useful Resources
@@ -19,26 +19,28 @@ description: Course Schedule CSP451
 
 | Topics | Reading/Reference |
 | :--- | :--- |
-| Introduction to Course: <ul><li>Course Description</li><li>Learning Objectives</li><li>Course Outline</li></ul> | [Introduction to CSP451](../landing-page.md) |
-| Course Information: <ul><li>Course Policies</li><li>Course Assessments</li><li>Course Setup</li><li>Course Collaboration</li></ul>| [Course Information](./course-policies.md) |
-| Onboarding Course GitHub | [GitHub-Links](#github-links) |
-| Effective use of GitHub Discussion to collaborate and get support | - [Quickstart for GitHub Discussions](https://docs.github.com/en/discussions/quickstart)<br />- [Best practices for community conversations on GitHub](https://docs.github.com/en/discussions/guides/best-practices-for-community-conversations-on-github) |
-| Introduction to Markdown Syntax | [Tutorial - Markdown Syntax](../tutorials/12-markdown-syntax.md) |
+| Introduction to Course | [Introduction to CSP451](./course-info/landing-page.md) |
+| Course Policies | [Course Policies](./course-info/course-policies.md) |
+| Course Assessments |[Assessment Policies](./course-info/assessments.md) |
+| Course Setup | [Course Setup](./course-info/course-setup.md) |
+| Effective use of GitHub Discussion | [Course Collaboration](./course-info/collaborations.md) |
+| Introduction to Version Control| [Tutorial - Introduction to Version Control](./tutorials-github/10-version-control.md) |
+| Introduction to Markdown | [Tutorial - Introduction to Markdown](./tutorials-github/13-markdown-intro.md) |
+| Markdown Syntax | [Tutorial - Markdown Syntax](./tutorials-github/14-markdown-syntax.md) |
 |||
 
 **Tasks and Assignments:**
 
 1. Complete and submit your **Integrity badge**
-2. Complete GitHub Onboarding
-3. Complete Creating and Configuring your Private GitHub Repository for Coursework Submission
+2. Complete GitHub Onboarding. See [Course Setup](./course-info/course-setup.md)) for tools you need to install. Follow the steps in [Getting started with GitHub](./tutorials-github/11-getting-satrted.md)
+3. Complete Creating and Configuring your Private GitHub Repository. Follow the steps in [Create a repository](./tutorials-github/12-creating-repositories.md)
 4. Complete and submit your **Checkpoint1**
 
 ## Week 2 - Introduction to GitHub
 
 | Topics | Reading/Reference |
 | :--- | :--- |
-| Introduction to Version Control | [Tutorial - Version Control](../tutorials/10-version-control.md) |
-| Git Branching & Local Repositories | [Tutorial - Git Branching](../tutorials/13-git-branching.md) |
+| Git Branching & Local Repositories | [Tutorial - Git Branching](./tutorials-github/17-git-branching.md) |
 |||
 
 **Tasks and Assignments:**
@@ -51,7 +53,7 @@ description: Course Schedule CSP451
 
 | Topics | Reading/Reference |
 | :--- | :--- |
-| Collaborative flows & Pull Requests | [Tutorial - Pull Request](../tutorials/13-git-branching.md) |
+| Collaborative flows & Pull Requests | [Tutorial - Pull Request](./tutorials-github/18-github-pull-request.md)) |
 |||
 
 **Tasks and Assignments:**
@@ -59,29 +61,32 @@ description: Course Schedule CSP451
 1. Install GitHub Desktop and configure it. **Do not** re-clone your repository
 2. Complete and submit your **Checkpoint3**
 3. Demo Presentation, follow Demo Presentation schedule on Blackboard Portal
+4. Start Working on your **Milestone1**
 
 ## Week 4 - GitHub Actions Workflows
 
 | Topics | Reading/Reference |
 | :--- | :--- |
-| CI/CD with GitHub Actions Workflows | [Tutorial - GitHub Actions](../tutorials/13-git-branching.md) |
+| CI/CD with GitHub Actions Workflows | [Tutorial - GitHub Actions](./tutorials-github/19-github-actions.md) |
 |||
 
 **Tasks and Assignments:**
 
 1. Complete and submit your **Checkpoint4**
-2. Start Working on your **Milestone1**
-3. Complete onboarding Azure ODL environment & Configure CLI
-4. Complete Course Software Setup for Part Two - ???
-5. Demo Presentation, follow Demo Presentation schedule on Blackboard Portal
+2. Complete onboarding Azure ODL environment & Configure CLI
+3. Complete Course Software Setup for Part Two
+4. Demo Presentation, follow Demo Presentation schedule on Blackboard Portal
 
 ## Week 5 - Introduction to Azure Project
 
-| Topics | Reading/Reference |
-| :--- | :--- |
-| TBD: Networking / CIDR / Azure VNET/subnet/peering/Route Table / NIC / NSG | [Tutorial - TBD](../tutorials/13-git-branching.md) |
-| Tutorial: Create a custom image of an Azure VM with the Azure CLI | <ul><li>Azure Command-Line Interface (CLI) documentation</li><li>Querying dictionary results</li><li>Learn to use Bash with the Azure CLI</li><li>Azure CLI Commands List</li><li>[Tutorial - TBD](../tutorials/13-git-branching.md)</li></ul> |
-|||
+**Content:**
+
+- TBD: Networking / CIDR / Azure VNET/subnet/peering/Route Table / NIC / NSG 
+- Tutorial: Create a custom image of an Azure VM with the Azure CLI
+- Azure Command-Line Interface (CLI) documentation
+- Querying dictionary results
+- Learn to use Bash with the Azure CLI
+- Azure CLI Commands List
 
 **Tasks and Assignments:**
 
@@ -95,11 +100,6 @@ description: Course Schedule CSP451
 
 ## Week 6 - Azure Resource Creation from CLI
 
-| Topics | Reading/Reference |
-| :--- | :--- |
-| TBD | [Tutorial - TBD](../tutorials/13-git-branching.md) |
-|||
-
 **Tasks and Assignments:**
 
 1. Complete and submit your **Checkpoint6**
@@ -107,11 +107,6 @@ description: Course Schedule CSP451
 3. Demo Presentation, follow Demo Presentation schedule on Blackboard Portal
 
 ## Week 7 - Linux Router Firewall and iptables
-
-| Topics | Reading/Reference |
-| :--- | :--- |
-| TBD | [Tutorial - TBD](../tutorials/13-git-branching.md) |
-|||
 
 **Tasks and Assignments:**
 
@@ -121,20 +116,11 @@ description: Course Schedule CSP451
 
 ## Study Week
 
-| Topics | Reading/Reference |
-| :--- | :--- |
-| - | - |
+## Week 8 - Azure NSG logflow
 
-**Tasks and Assignments:**
+**Content:**
 
-- 
-
-## Week 8 - Azure NSG logflow Analysis Or go cloud native DNS/FTP/SQL/
-
-| Topics | Reading/Reference |
-| :--- | :--- |
-| TBD | [Tutorial - TBD](../tutorials/13-git-branching.md) |
-|||
+- Azure NSG logflow Analysis Or go cloud native DNS/FTP/SQL/
 
 **Tasks and Assignments:**
 
@@ -143,22 +129,17 @@ description: Course Schedule CSP451
 3. Delete all Resources including networking resources after your finished your Milestone2
 4. Demo Presentation, follow Demo Presentation schedule on Blackboard Portal
 
-
 ## Week 9 - Introduction to Docker
 
-| Topics | Reading/Reference |
-| :--- | :--- |
-| TBD | [Tutorial - TBD](../tutorials/10-version-control.md) |
-|||
+**Content:**
 
-YouTube Tutorials:
-What is Docker? Docker container concept explained || Docker Tutorial 1
-8 Basic Docker Commands || Docker Tutorial 4
-Useful Links
-Docker Reference Documentation
-The Docker Ecosystem: An Introduction to Common Components
-Learn Docker Beginner to Expert
-Docker 101 Tutorial
+- YouTube Tutorials: What is Docker? Docker container concept explained || Docker Tutorial 1
+- 8 Basic Docker Commands || Docker Tutorial 4
+- Useful Links:
+    - Docker Reference Documentation
+    - The Docker Ecosystem: An Introduction to Common Component
+    - Learn Docker Beginner to Expert
+    - Docker 101 Tutorial
 
 **Tasks and Assignments:**
 
@@ -169,12 +150,12 @@ Docker 101 Tutorial
 
 ## Week 10 - Containerizing a Node.js App
 
-Docker Compose - Useful for Checkpoint9
-Intro Docker Compose Tutorial - Docker in Practice || Docker Tutorial 9
-Tutorials
-Debugging Docker Containers with docker exec and docker logs
-This is the best advanced Docker training, which is cool and fun to watch:
-you need to learn Docker RIGHT NOW!! // Docker Containers 101
+**Content:**
+
+- Docker Compose - Useful for Checkpoint9
+- Intro Docker Compose Tutorial - Docker in Practice || Docker Tutorial 9
+- Debugging Docker Containers with docker exec and docker logs
+- This is the best advanced Docker training, which is cool and fun to watch: you need to learn Docker RIGHT NOW!! // Docker Containers 101
 
 **Tasks and Assignments:**
 
@@ -183,19 +164,6 @@ you need to learn Docker RIGHT NOW!! // Docker Containers 101
 3. Demo Presentation, follow Demo Presentation schedule on Blackboard Portal
 
 ## Week 11 - Containerizing a 2-Tier Python-Flask App
-
-Kubernetes Documentation
-Kubernetes Official Site - Documentation
-Useful Links
-Learn Kubernetes using free instances: Play with Kubernetes
-Cannot copy or paste commands in labs.play-with-kubernetes free instance
-    ctrl + insert to copy and shift + insert to paste
-Tutorials
-Kubernetes Explained in 6 Minutes | k8s Architecture
-One million people watched this on YouTube and it is not a cute doggie, it must be worth watching:
-you need to learn Kubernetes RIGHT NOW!!
-Kubernetes YAML File Explained - Deployment and Service | Kubernetes Tutorial 19
-Kubernetes Services Explained 
 
 **Tasks and Assignments:**
 
@@ -217,28 +185,10 @@ Kubernetes Explained in 6 Minutes | k8s Architecture
 One million people watched this on YouTube and it is not a cute doggie, it must be worth watching:
 you need to learn Kubernetes RIGHT NOW!!
 Kubernetes YAML File Explained - Deployment and Service | Kubernetes Tutorial 19
-Kubernetes Services Explained 
+Kubernetes Services Explained
 
 **Tasks and Assignments:**
-
-- 
 
 ## Week 13 - Final Evaluation
 
-| Topics | Reading/Reference |
-| :--- | :--- |
-| - | - |
-
-**Tasks and Assignments:**
-
-- 
-
 ## Week 14 - Final Evaluation
-
-| Topics | Reading/Reference |
-| :--- | :--- |
-| - | - |
-
-**Tasks and Assignments:**
-
-- 
