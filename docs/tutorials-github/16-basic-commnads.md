@@ -35,8 +35,6 @@ The Git Workflow involves a series of steps to manage changes to a codebase in *
 
 ![contribute to an existing repository](../../static/img/tutorials/github/git-commit-flow.png)
 
-
-
 ## Example: Contribute to an existing repository
 
 - **Make Changes:** You can make changes to the codebase by modifying existing files, adding new files, or deleting files as needed to implement new features, fix bugs, or make improvements.
@@ -46,32 +44,27 @@ The Git Workflow involves a series of steps to manage changes to a codebase in *
 - Write Commit Message: When creating a commit, developers provide a descriptive commit message that explains the purpose of the changes. A well-written commit message is concise, clear, and provides context for the changes being made.
 - Repeat: Developers continue making changes to the codebase, staging them, and committing them as needed. Each commit represents a discrete set of changes and should be focused on a single task or purpose.
 
-
-
 ```bash
-# download a repository on GitHub to our machine
-# Replace `owner/repo` with the owner and name of the repository to clone
-git clone https://github.com/owner/repo.git
+# create a new directory, and initialize it with git-specific functions
+git init my-repo
 
-# change into the `repo` directory
-cd repo
+# change into the `my-repo` directory
+cd my-repo
 
-# create a new branch to store any new changes
-git branch my-branch
+# create the first file in the project
+touch README.md
 
-# switch to that branch (line of development)
-git checkout my-branch
+# git isn't aware of the file, stage it
+git add README.md
 
-# make changes, for example, edit `file1.md` and `file2.md` using the text editor
+# take a snapshot of the staging area
+git commit -m "add README to initial commit"
 
-# stage the changed files
-git add file1.md file2.md
-
-# take a snapshot of the staging area (anything that's been added)
-git commit -m "my snapshot"
+# provide the path for the repository you created on github
+git remote add origin https://github.com/YOUR-USERNAME/YOUR-REPOSITORY-NAME.git
 
 # push changes to github
-git push --set-upstream origin my-branch
+git push --set-upstream origin main
 ```
 
 ## Sources

@@ -66,30 +66,34 @@ Learning Git branching is essential for effectively managing software developmen
 9. **Explore Advanced Branching Workflows:** Git offers advanced branching workflows such as GitFlow and feature branching strategies. Explore these workflows to learn more about how to organize and manage branches in larger projects.
 10. **Practice and Experiment:** The best way to learn Git branching is by practicing and experimenting with different branching scenarios. Create test repositories, experiment with branching and merging, and familiarize yourself with various Git commands and options.
 
-## Example: contribute to an existing branch on GitHub
+## Example: create and contribute to a branch on GitHub
 
 This example assumes that you already have a project called `repo` on the machine and that a new branch has been pushed to GitHub since the last time changes were made locally.
 
 ```bash
+# download a repository on GitHub to our machine
+# Replace `owner/repo` with the owner and name of the repository to clone
+git clone https://github.com/owner/repo.git
+
 # change into the `repo` directory
 cd <your-repo-name>
 
-# update all remote tracking branches, and the currently checked out branch
-git pull
+# create a new branch to store any new changes
+git branch my-branch
 
-# change into the existing branch called `feature-a`
-git checkout feature-a
+# switch to that branch (line of development)
+git checkout my-branch
 
-# make changes, for example, edit `file1.md` using the text editor
+# make changes, for example, edit `file1.md` and `file2.md` using the text editor
 
-# stage the changed file
-git add file1.md
+# stage the changed files
+git add file1.md file2.md
 
-# take a snapshot of the staging area
-git commit -m "edit file1"
+# take a snapshot of the staging area (anything that's been added)
+git commit -m "my snapshot"
 
 # push changes to github
-git push
+git push --set-upstream origin my-branch
 ```
 
 ## Sources
