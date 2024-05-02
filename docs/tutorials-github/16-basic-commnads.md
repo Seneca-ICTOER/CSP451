@@ -1,6 +1,6 @@
 ---
 id: git-basic-commands
-title: Git Command Line Interface Commands
+title: Git Command Line Interface (CLI)
 sidebar_position: 1
 description: TBD
 ---
@@ -16,23 +16,41 @@ You can download it using this [link](../../static/files/Atlassian-Git-Cheatshee
 
 To use Git, developers use specific commands to copy, create, change, and combine code. These commands can be executed directly from the command line or by using an application like GitHub. Here are some common commands for using Git:
 
-- `git init` initializes a brand new Git repository and begins tracking an existing directory. It adds a hidden subfolder within the existing directory that houses the internal data structure required for version control.
+### git init
 
-- `git clone` creates a local copy of a project that already exists remotely. The clone includes all the project's files, history, and branches.
+[`git init`](https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-init) initializes a brand new Git repository and begins tracking an existing directory. It adds a hidden subfolder within the existing directory that houses the internal data structure required for version control.
 
-- `git add` stages a change. Git tracks changes to a developer's codebase, but it's necessary to stage and take a snapshot of the changes to include them in the project's history.
+### git clone
 
-- `git commit` saves the snapshot to the project history and completes the change-tracking process. In short, a commit functions like taking a photo. Anything that's been staged with `git add` will become a part of the snapshot with `git commit`.
+[`git clone`](https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-clone) creates a local copy of a project that already exists remotely. The clone includes all the project's files, history, and branches.
 
-- `git status` shows the status of changes as untracked, modified, or staged.
+### git add
 
-- `git branch` shows the branches being worked on locally.
+[`git add`](https://www.atlassian.com/git/tutorials/saving-changes) stages a change. Git tracks changes to a developer's codebase, but it's necessary to stage and take a snapshot of the changes to include them in the project's history.
 
-- `git merge` merges lines of development together. This command is typically used to combine changes made on two distinct branches.
+### git commit
 
-- `git pull` updates the local line of development with updates from its remote counterpart. Developers use this command if a teammate has made commits to a branch on a remote, and they would like to reflect those changes in their local environment.
+[`git commit`](https://www.atlassian.com/git/tutorials/saving-changes/git-commit) saves the snapshot to the project history and completes the change-tracking process. In short, a commit functions like taking a photo. Anything that's been staged with `git add` will become a part of the snapshot with `git commit`.
 
-- `git push` updates the remote repository with any commits made locally to a branch.
+### git status
+
+[`git status`](https://www.atlassian.com/git/tutorials/inspecting-a-repository) is used to inspect repositories. It shows the status of changes as untracked, modified, or staged.
+
+### git branch
+
+[`git branch`](https://www.atlassian.com/git/tutorials/using-branches) shows the branches being worked on locally.
+
+### git merge
+
+[`git merge`](https://www.atlassian.com/git/tutorials/using-branches/git-merge) merges lines of development together. This command is typically used to combine changes made on two distinct branches.
+
+### git pull
+
+[`git pull`](https://www.atlassian.com/git/tutorials/syncing/git-pull) updates the local line of development with updates from its remote counterpart. Developers use this command if a teammate has made commits to a branch on a remote, and they would like to reflect those changes in their local environment.
+
+### git push
+
+[`git push`](https://www.atlassian.com/git/tutorials/syncing/git-push) updates the remote repository with any commits made locally to a branch.
 
 For more information, see the [full reference guide to Git commands](https://git-scm.com/docs).
 
@@ -62,33 +80,6 @@ git commit -m "my snapshot"
 
 # push changes to github
 git push --set-upstream origin my-branch
-```
-
-### Example: Start a new repository and publish it to GitHub
-
-First, you will need to create a new repository on GitHub. For more information, see [Hello World](https://docs.github.com/en/get-started/start-your-journey/hello-world). **Do not** initialize the repository with a `README`, `.gitignore` or `License` file. This empty repository will await your code.
-
-```bash
-# create a new directory, and initialize it with git-specific functions
-git init my-repo
-
-# change into the `my-repo` directory
-cd my-repo
-
-# create the first file in the project
-touch README.md
-
-# git isn't aware of the file, stage it
-git add README.md
-
-# take a snapshot of the staging area
-git commit -m "add README to initial commit"
-
-# provide the path for the repository you created on github
-git remote add origin https://github.com/YOUR-USERNAME/YOUR-REPOSITORY-NAME.git
-
-# push changes to github
-git push --set-upstream origin main
 ```
 
 ### Example: contribute to an existing branch on GitHub
