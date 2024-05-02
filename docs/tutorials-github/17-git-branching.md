@@ -1,11 +1,11 @@
 ---
 id: git-branching
-title: Introduction to Branching
+title: Branching and Collaboration
 sidebar_position: 1
 description: TBD
 ---
 
-## Git Branch
+## Git Branching
 
 Git branches serve as pointers to specific snapshots of your codebase, allowing you to work on new features, fixes, or experiments without directly modifying the main codebase. By creating a new branch for each task or change, you isolate your work from the main branch (e.g., master), reducing the risk of introducing unstable or incomplete code into the production environment.
 
@@ -66,13 +66,36 @@ Learning Git branching is essential for effectively managing software developmen
 9. **Explore Advanced Branching Workflows:** Git offers advanced branching workflows such as GitFlow and feature branching strategies. Explore these workflows to learn more about how to organize and manage branches in larger projects.
 10. **Practice and Experiment:** The best way to learn Git branching is by practicing and experimenting with different branching scenarios. Create test repositories, experiment with branching and merging, and familiarize yourself with various Git commands and options.
 
-## Branching Conventions
+## Example: contribute to an existing branch on GitHub
 
-branching-conventions
+This example assumes that you already have a project called `repo` on the machine and that a new branch has been pushed to GitHub since the last time changes were made locally.
 
+```bash
+# change into the `repo` directory
+cd <your-repo-name>
+
+# update all remote tracking branches, and the currently checked out branch
+git pull
+
+# change into the existing branch called `feature-a`
+git checkout feature-a
+
+# make changes, for example, edit `file1.md` using the text editor
+
+# stage the changed file
+git add file1.md
+
+# take a snapshot of the staging area
+git commit -m "edit file1"
+
+# push changes to github
+git push
+```
 
 ## Sources
 
 1. <cite>[Creating and merging branches in Git][1]</cite>
+2. <cite>[Basic Git commands][2]</cite>
 
-[1]: https://www.atlassian.com/git/tutorials/using-branches
+[1]: https://docs.github.com/en/get-started/using-git/about-git#basic-git-commands
+[2]: https://www.atlassian.com/git/tutorials/using-branches

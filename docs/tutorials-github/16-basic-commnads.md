@@ -35,15 +35,16 @@ The Git Workflow involves a series of steps to manage changes to a codebase in *
 
 ![git-commit-flow](../../static/img/tutorials/github/git-commit-flow.png)
 
-Make Changes: Developers make changes to the codebase by modifying existing files, adding new files, or deleting files as needed to implement new features, fix bugs, or make improvements.
-Stage Changes: After making changes, developers use the git add command to stage the modified files for the next commit. Staging allows developers to selectively include specific changes in the next commit while excluding others.
-Review Changes: Before committing the staged changes, developers can review the changes using the git diff command to see the differences between the working directory and the staging area. This helps ensure that only the intended changes are included in the commit.
-Commit Changes: Once satisfied with the staged changes, developers use the git commit command to create a new commit. Commits are snapshots of the codebase at a specific point in time and include a message that describes the purpose of the changes.
-Write Commit Message: When creating a commit, developers provide a descriptive commit message that explains the purpose of the changes. A well-written commit message is concise, clear, and provides context for the changes being made.
-Repeat: Developers continue making changes to the codebase, staging them, and committing them as needed. Each commit represents a discrete set of changes and should be focused on a single task or purpose.
-
-
 ## Example: Contribute to an existing repository
+
+- Make Changes: You can make changes to the codebase by modifying existing files, adding new files, or deleting files as needed to implement new features, fix bugs, or make improvements.
+- Stage Changes: After making changes, developers use the git add command to stage the modified files for the next commit. Staging allows developers to selectively include specific changes in the next commit while excluding others.
+- Review Changes: Before committing the staged changes, developers can review the changes using the git diff command to see the differences between the working directory and the staging area. This helps ensure that only the intended changes are included in the commit.
+- Commit Changes: Once satisfied with the staged changes, developers use the git commit command to create a new commit. Commits are snapshots of the codebase at a specific point in time and include a message that describes the purpose of the changes.
+- Write Commit Message: When creating a commit, developers provide a descriptive commit message that explains the purpose of the changes. A well-written commit message is concise, clear, and provides context for the changes being made.
+- Repeat: Developers continue making changes to the codebase, staging them, and committing them as needed. Each commit represents a discrete set of changes and should be focused on a single task or purpose.
+
+
 
 ```bash
 # download a repository on GitHub to our machine
@@ -71,36 +72,10 @@ git commit -m "my snapshot"
 git push --set-upstream origin my-branch
 ```
 
-## Example: contribute to an existing branch on GitHub
-
-This example assumes that you already have a project called `repo` on the machine and that a new branch has been pushed to GitHub since the last time changes were made locally.
-
-```bash
-# change into the `repo` directory
-cd repo
-
-# update all remote tracking branches, and the currently checked out branch
-git pull
-
-# change into the existing branch called `feature-a`
-git checkout feature-a
-
-# make changes, for example, edit `file1.md` using the text editor
-
-# stage the changed file
-git add file1.md
-
-# take a snapshot of the staging area
-git commit -m "edit file1"
-
-# push changes to github
-git push
-```
-
 ## Sources
 
-1. <cite>[GitHub Basic writing and formatting syntax][1]</cite>
+1. <cite>[Basic Git commands][1]</cite>
 2. <cite>[Git cheat sheet][2]</cite>
 
-[1]: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+[1]: https://docs.github.com/en/get-started/using-git/about-git#basic-git-commands
 [2]: https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet

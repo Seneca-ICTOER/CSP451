@@ -1,6 +1,6 @@
 ---
 id: markdown-syntax
-title: Basic writing and formatting syntax
+title: Basic Markdown Syntax
 sidebar_position: 1
 description: TBD
 ---

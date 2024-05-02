@@ -1,6 +1,6 @@
 ---
 id: version-control
-title: Introduction to Version Control
+title: Version Control
 sidebar_position: 1
 description: TBD
 ---

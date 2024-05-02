@@ -1,6 +1,6 @@
 ---
 id: github-actions
-title: GitHub WorkflowGit Actions
+title: GitHub Actions
 sidebar_position: 1
 description: TBD
 ---

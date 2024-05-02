@@ -1,6 +1,6 @@
 ---
 id: github-pull-request
-title: GitHub Flow Pull Request 
+title: GitHub Pull Request 
 sidebar_position: 1
 description: TBD
 ---
