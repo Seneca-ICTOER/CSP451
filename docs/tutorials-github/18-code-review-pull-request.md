@@ -37,7 +37,7 @@ In the shared repository model, collaborators are granted push access to a singl
 - **Merge and Close Pull Request:** Once the proposed changes have been reviewed and approved, the project maintainer merges the feature branch into the official repository, integrating the changes into the main codebase. The pull request is then closed, marking the completion of the feature development and its successful integration into the project.
 Overall, this Pull Request Process promotes collaboration, code quality, and transparency in software development projects, enabling teams to effectively manage and integrate changes into the codebase while fostering communication and feedback among team members.
 
-    ![Pull Request Process Overview](./(../../static/img/tutorials/github/pull-request-process-overview.png)
+    ![Pull Request Process Overview](../../static/img/tutorials/github/pull-request-process-overview.png)
 
 ## Code Review Workflow Steps
 

@@ -65,7 +65,7 @@ description: Weekly Schedule CSP451
 
 | Topics | Reading/Reference |
 | :--- | :--- |
-| CI/CD with GitHub Actions Workflows | [Tutorial - GitHub Actions](./tutorials-github/19-github-actions.md) |
+| CI/CD with GitHub Actions Workflows | [Tutorial - GitHub Actions](./tutorials-github/20-github-actions.md) |
 
 **Tasks and Assignments:**
 
