@@ -37,46 +37,54 @@ In the shared repository model, collaborators are granted push access to a singl
 - **Merge and Close Pull Request:** Once the proposed changes have been reviewed and approved, the project maintainer merges the feature branch into the official repository, integrating the changes into the main codebase. The pull request is then closed, marking the completion of the feature development and its successful integration into the project.
 Overall, this Pull Request Process promotes collaboration, code quality, and transparency in software development projects, enabling teams to effectively manage and integrate changes into the codebase while fostering communication and feedback among team members.
 
-    ![Pull Request Process Overview](./pull-request-process-overview.png)
+    ![Pull Request Process Overview](./(../../static/img/tutorials/github/pull-request-process-overview.png)
 
 ## Code Review Workflow Steps
 
 1. Prepare your local branch
 
-![alt text](image-4.png)
-![alt text](image-5.png)
-![alt text](image-7.png)
-![alt text](image-8.png)
+    ![pull-request-prep-local-1](../../static/img/tutorials/github/pull-request-prep-local-1.png)
+    ![pull-request-prep-local-2](../../static/img/tutorials/github/pull-request-prep-local-2.png)
+    ![pull-request-prep-local-3](../../static/img/tutorials/github/pull-request-prep-local-3.png)
+    ![pull-request-prep-local-4](../../static/img/tutorials/github/pull-request-prep-local-4.png)
 
 2. Work on your CL (code change list) on the local branch
 
-![alt text](image-9.png)
+    ![pull-request-prep-code](../../static/img/tutorials/github/pull-request-prep-code.png)
 
 3. Commit your CL to the local repo
 
-![alt text](image-10.png)
+    ![pull-request-commit-local](../../static/img/tutorials/github/pull-request-commit-local.png)
 
 4. Push your CL to the remote repo
 
-![alt text](image-6.png)
+    ![pull-request-push-remote-1](../../static/img/tutorials/github/pull-request-push-remote-1.png)
+    ![pull-request-push-remote-2](../../static/img/tutorials/github/pull-request-push-remote-2.png)
 
 5. Create a pull request for your CL
 
-![alt text](image-12.png)
+    ![pull-request-create-pr](../../static/img/tutorials/github/pull-request-create-pr.png)
 
 6. Get code reviews from your team members and improve your CL
 
-![alt text](image-13.png)
-![alt text](image-14.png)
-![alt text](image-15.png)
+    ![pull-request-code-review-1](../../static/img/tutorials/github/pull-request-code-review-1.png)
+    ![pull-request-code-review-2](../../static/img/tutorials/github/pull-request-code-review-2.png)
+    ![pull-request-code-review-3](../../static/img/tutorials/github/pull-request-code-review-3.png)
 
 7. Iterate 2, 3, 4, 5, 6 until you get LGTM (Looks Good to Me)
 
-![alt text](image-16.png)
+    ![pull-request-iterate](../../static/img/tutorials/github/pull-request-iterate.png)
 
 8. Merge your branch with the base one (master)
 
-![alt text](image-17.png)
-![alt text](image-18.png)
+    ![pull-request-merge-branch-1](../../static/img/tutorials/github/pull-request-merge-branch-1.png)
+    ![pull-request-merge-branch-2](../../static/img/tutorials/github/pull-request-merge-branch-2.png)
 
-![alt text](image-19.png)
+9. Congratulations, your Pull Request in now merged to the base code!
+
+    ![pull-request-congradulations](../../static/img/tutorials/github/pull-request-congradulations.png)
+
+
+## Sources
+
+1. [About collaborative development models](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/getting-started/about-collaborative-development-models)
