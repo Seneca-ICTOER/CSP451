@@ -33,7 +33,7 @@ The Git Workflow involves a series of steps to manage changes to a codebase in *
 2. **Staging Area (Index):** The staging area, also known as the index, is an intermediate area where you prepare changes to be committed to the repository. Before making a commit, you stage the changes using the `git add` command, which moves the changes from the working directory to the staging area. This allows you to selectively include specific changes in the next commit while excluding others.
 3. **Remote Repository:** The remote repository is a centralized repository hosted on a server (e.g., GitHub, GitLab, Bitbucket) that serves as a collaboration and backup point for the project. Developers can push their local commits to the remote repository to share their work with others and synchronize changes with team members.
 
-![contribute to an existing repository](../../static/img/tutorials/github/git-commit-flow.png)
+    ![GitHub Workflow Local - Remote Repositories](../../static/img/tutorials/github/git-commit-flow.png)
 
 ## Example: Contribute to an existing repository
 
@@ -69,8 +69,5 @@ git push --set-upstream origin main
 
 ## Sources
 
-1. Basic Git commands[1]
-2. Git cheat sheet[2]
-
-[1]: https://docs.github.com/en/get-started/using-git/about-git#basic-git-commands
-[2]: https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet
+1. [Basic Git commands](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
+2. [Git cheat sheet](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)

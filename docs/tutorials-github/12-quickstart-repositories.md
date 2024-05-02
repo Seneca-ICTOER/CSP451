@@ -37,6 +37,4 @@ A [commit](https://docs.github.com/en/get-started/learning-about-github/github-g
 
 ## Sources
 
-1. <cite>[Quickstart for repositories][1]</cite>
-
-[1]: https://docs.github.com/en/repositories/creating-and-managing-repositories/quickstart-for-repositories
+1. [Quickstart for repositories](https://docs.github.com/en/repositories/creating-and-managing-repositories/quickstart-for-repositories)

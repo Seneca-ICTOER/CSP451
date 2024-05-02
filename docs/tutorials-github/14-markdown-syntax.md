@@ -375,8 +375,5 @@ You can tell GitHub to hide content from the rendered Markdown by placing the co
 
 ## Sources
 
-1. <cite>[Basic writing and formatting syntax][1]</cite>
-2. <cite>[Creating and highlighting code blocks][2]</cite>
-
-[1]: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
-[2]: https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks
+1. [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+2. [Creating and highlighting code blocks](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks)

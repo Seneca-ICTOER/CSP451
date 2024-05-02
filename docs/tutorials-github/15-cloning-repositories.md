@@ -53,8 +53,5 @@ $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 
 ## Sources
 
-1. <cite>[About repositories][1]</cite>
-2. <cite>[Cloning a repository][2]</cite>
-
-[1]: https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories
-[2]: https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
+1. [About repositories](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories)
+2. [Cloning a repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)

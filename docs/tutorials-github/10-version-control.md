@@ -60,9 +60,5 @@ By default SCMs offer very free form methods of contribution. It is important th
 
 ## Sources
 
-1. <cite>[What is version control?][1]</cite>
-2. <cite>[Source code management][2]</cite>
-
-[1]: https://www.atlassian.com/git/tutorials/what-is-version-control
-[2]: https://www.atlassian.com/git/tutorials/source-code-management
-
+1. [What is version control?](https://www.atlassian.com/git/tutorials/what-is-version-control)
+2. [Source code management](https://www.atlassian.com/git/tutorials/source-code-management)

@@ -1,6 +1,6 @@
 ---
 id: git-github-beginners
-title: Video Tutorial - Git for Beginners
+title: Video Tutorials Git for Beginners
 sidebar_position: 1
 description: TBD
 ---

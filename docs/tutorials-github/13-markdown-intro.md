@@ -52,6 +52,4 @@ Learning Markdown can enhance your productivity, improve your communication skil
 
 ## Sources
 
-1. <cite>[Markdown Cheat Sheet][1]</cite>
-
-[1]: https://www.markdownguide.org/cheat-sheet/
+1. [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)

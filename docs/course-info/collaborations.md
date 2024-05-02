@@ -58,8 +58,5 @@ This course will uses GitHub Discussions for collaboration, discussion and probl
 
 ## Sources
 
-1. <cite>[Quickstart for GitHub Discussions][1]</cite>
-2. <cite>[GitHub Community Guidelines][2]</cite>
-
-[1]: https://docs.github.com/en/discussions/quickstart
-[2]: https://docs.github.com/en/site-policy/github-terms/github-community-guidelines
+1. [Quickstart for GitHub Discussions](https://docs.github.com/en/discussions/quickstart)
+2. [GitHub Community Guidelines](https://docs.github.com/en/site-policy/github-terms/github-community-guidelines)

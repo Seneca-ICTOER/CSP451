@@ -98,8 +98,5 @@ git push --set-upstream origin my-branch
 
 ## Sources
 
-1. <cite>[Creating and merging branches in Git][1]</cite>
-2. <cite>[Basic Git commands][2]</cite>
-
-[1]: https://docs.github.com/en/get-started/using-git/about-git#basic-git-commands
-[2]: https://www.atlassian.com/git/tutorials/using-branches
+1. [Creating and merging branches in Git](https://docs.github.com/en/get-started/using-git/about-git#basic-git-commands)
+2. [Basic Git commands](https://www.atlassian.com/git/tutorials/using-branches)
