@@ -33,7 +33,7 @@ description: Weekly Schedule CSP451
 
 1. Complete and submit your **Integrity badge**
 2. Complete GitHub Onboarding. See [Course Setup](./course-info/course-setup.md)) for tools you need to install. Follow the steps in [Getting started with GitHub](./tutorials-github/11-getting-satrted.md)
-3. Complete Creating and Configuring your Private GitHub Repository. Follow the steps in [Create a repository](./tutorials-github/12-creating-repositories.md)
+3. Complete Creating and Configuring your Private GitHub Repository. Follow the steps in [Create a repository](./tutorials-github/12-quickstart-repositories)
 4. Complete and submit your **Checkpoint1**
 
 ## Week 2 - Introduction to GitHub

@@ -33,11 +33,14 @@ The Git Workflow involves a series of steps to manage changes to a codebase in *
 2. **Staging Area (Index):** The staging area, also known as the index, is an intermediate area where you prepare changes to be committed to the repository. Before making a commit, you stage the changes using the `git add` command, which moves the changes from the working directory to the staging area. This allows you to selectively include specific changes in the next commit while excluding others.
 3. **Remote Repository:** The remote repository is a centralized repository hosted on a server (e.g., GitHub, GitLab, Bitbucket) that serves as a collaboration and backup point for the project. Developers can push their local commits to the remote repository to share their work with others and synchronize changes with team members.
 
-![git-commit-flow](../../static/img/tutorials/github/git-commit-flow.png)
+![contribute to an existing repository](../../static/img/tutorials/github/git-commit-flow.png)
+<img src="image.jpg" alt="Description of the image" width="300" height="200" title="Image Title">
+
+
 
 ## Example: Contribute to an existing repository
 
-- Make Changes: You can make changes to the codebase by modifying existing files, adding new files, or deleting files as needed to implement new features, fix bugs, or make improvements.
+- **Make Changes:** You can make changes to the codebase by modifying existing files, adding new files, or deleting files as needed to implement new features, fix bugs, or make improvements.
 - Stage Changes: After making changes, developers use the git add command to stage the modified files for the next commit. Staging allows developers to selectively include specific changes in the next commit while excluding others.
 - Review Changes: Before committing the staged changes, developers can review the changes using the git diff command to see the differences between the working directory and the staging area. This helps ensure that only the intended changes are included in the commit.
 - Commit Changes: Once satisfied with the staged changes, developers use the git commit command to create a new commit. Commits are snapshots of the codebase at a specific point in time and include a message that describes the purpose of the changes.
