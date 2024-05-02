@@ -34,7 +34,6 @@ The Git Workflow involves a series of steps to manage changes to a codebase in *
 3. **Remote Repository:** The remote repository is a centralized repository hosted on a server (e.g., GitHub, GitLab, Bitbucket) that serves as a collaboration and backup point for the project. Developers can push their local commits to the remote repository to share their work with others and synchronize changes with team members.
 
 ![contribute to an existing repository](../../static/img/tutorials/github/git-commit-flow.png)
-<img src="image.jpg" alt="Description of the image" width="300" height="200" title="Image Title">
 
 
 
