@@ -1,6 +1,6 @@
 ---
 id: markdown-syntax
-title: Basic Markdown Syntax
+title: Markdown Syntax
 sidebar_position: 1
 description: TBD
 ---
@@ -375,8 +375,8 @@ You can tell GitHub to hide content from the rendered Markdown by placing the co
 
 ## Sources
 
-1. <cite>[Basic Git Commands][1]</cite>
+1. <cite>[Basic writing and formatting syntax][1]</cite>
 2. <cite>[Creating and highlighting code blocks][2]</cite>
 
-[1]: https://docs.github.com/en/get-started/using-git/about-git#basic-git-commands
+[1]: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 [2]: https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks
