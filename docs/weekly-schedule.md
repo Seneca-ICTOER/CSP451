@@ -52,7 +52,7 @@ description: Weekly Schedule CSP451
 
 | Topics | Reading/Reference |
 | :--- | :--- |
-| Collaborative flows & Pull Requests | [Tutorial - Pull Request](./tutorials-github/18-github-pull-request.md)) |
+| Collaborative flows & Pull Requests | [Tutorial - Pull Request](./tutorials-github/18-code-review-pull-request.md) |
 
 **Tasks and Assignments:**
 

@@ -5,7 +5,7 @@ sidebar_position: 1
 description: TBD
 ---
 
-> :sparkles: This page focuses on Basic writing and formatting syntax in **GitHub**. This is not a Markdown reference. Refer to [Markdown Guide](https://www.markdownguide.org/) and [Markdown Basic Syntax](https://www.markdownguide.org/basic-syntax/) for a more comprehensive reference about generic Markdown Syntax.
+> :sparkles: This page focuses on Basic writing and formatting syntax in **GitHub**. This is not a Markdown reference. Refer to [Markdown Guide](https://www.markdownguide.org/) and [Markdown Basic Syntax](https://www.markdownguide.org/basic-syntax/) for a more comprehensive reference about Markdown Syntax.
 
 ## Headings
 
@@ -109,7 +109,7 @@ Here are the currently supported color models.
 | HSL | <code>\`hsl(H,S,L)\`</code> | <code>\`hsl(212, 92%, 45%)\`</code> | ![Screenshot of rendered GitHub Markdown showing how HSL value 212, 92%, 45% appears with a blue circle.](../../static/img/tutorials/github/supported-color-models-hsl-rendered.png) |
 
 > :sparkles: A supported color model cannot have any leading or trailing spaces within the backticks.
->- The visualization of the color is only supported in issues, pull requests, and discussions.
+> :sparkles: The visualization of the color is only supported in issues, pull requests, and discussions.
 
 ## Links
 
@@ -170,15 +170,7 @@ If your image is from an online source, you can use the image's _url_ link using
 
 ### Images from assets
 
-Here's an image:
-
-![][image_ref_a32ff4ads]
-
-[image_ref_a32ff4ads]: <https://myoctocat.com/assets/images/base-octocat.svg)>
-
-> :sparkles: When you want to display an image that is in your repository, use relative links instead of absolute links.
-
-Here are some examples for using relative links to display an image.
+If your image is an asset that you have uploaded in your remote repository, you can use the image's relative or absolute address instead of the _url_. Here are some examples for using relative links to display an image.
 
 | Context | Relative Link |
 | ------ | -------- |
@@ -189,6 +181,8 @@ Here are some examples for using relative links to display an image.
 | In issues, pull requests and comments of another repository | `../../../github/docs/blob/main/assets/images/electrocat.png?raw=true` |
 
 The last two relative links in the table above will work for images in a private repository only if the viewer has at least read access to the private repository that contains these images. For more information, see "[Relative Links](#relative-links)."
+
+> :sparkles: When you want to display an image that is in your repository, use relative links instead of absolute links.
 
 ## Uploading assets
 

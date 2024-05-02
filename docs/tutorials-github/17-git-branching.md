@@ -1,11 +1,11 @@
 ---
 id: git-branching
-title: Branching and Collaboration
+title: Collaboration using Branches
 sidebar_position: 1
 description: TBD
 ---
 
-## Git Branching
+## Git Branch
 
 Git branches serve as pointers to specific snapshots of your codebase, allowing you to work on new features, fixes, or experiments without directly modifying the main codebase. By creating a new branch for each task or change, you isolate your work from the main branch (e.g., master), reducing the risk of introducing unstable or incomplete code into the production environment.
 
