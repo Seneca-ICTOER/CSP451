@@ -1,6 +1,6 @@
 ---
 id: quickstart-repositories
-title: Quickstart with Repositories
+title: Quickstart Repositories
 sidebar_position: 1
 description: TBD
 ---

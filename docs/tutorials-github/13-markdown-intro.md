@@ -1,6 +1,6 @@
 ---
 id: markdown-intro
-title: Introduction to Markdown
+title: Markdown Introduction
 sidebar_position: 1
 description: TBD
 ---

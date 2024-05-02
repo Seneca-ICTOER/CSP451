@@ -69,8 +69,8 @@ git push --set-upstream origin main
 
 ## Sources
 
-1. <cite>[Basic Git commands][1]</cite>
-2. <cite>[Git cheat sheet][2]</cite>
+1. Basic Git commands[1]
+2. Git cheat sheet[2]
 
 [1]: https://docs.github.com/en/get-started/using-git/about-git#basic-git-commands
 [2]: https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet
