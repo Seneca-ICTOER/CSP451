@@ -1,6 +1,6 @@
 ---
 id: markdown-syntax
-title: GitHub Basic writing and formatting syntax
+title: Basic writing and formatting syntax
 sidebar_position: 1
 description: TBD
 ---

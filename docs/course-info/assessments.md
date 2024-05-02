@@ -21,26 +21,13 @@ This page serves as a general overview providing an outline of the assessment ty
 
 Learning journey is structured around below Assessment Criteria, each designed to progressively build your skills and knowledge in the subject matter. Together, these assessments form a cohesive and structured learning experience, empowering you to achieve your learning objectives and emerge with tangible skills and accomplishments in the subject area.
 
-- Integrity Badge
-- Checkpoints
-- Milestones
-- Demo Presentation
-- Final Evaluation
-- Budget Management
-
-Integrity Badge familiarizes you with [Seneca's Integrity Policy](https://www.senecapolytechnic.ca/about/policies/academic-integrity-policy.html) with an immerse and interactive tutorial. Ideally you must complete this before you access the course material. You will need to complete the training and submit your integrity badge. Refer to the Blackboard Portal for specific instructions.
-
-The Checkpoints serve as pivotal deliverables where you'll delve into specific topics, mastering essential concepts and techniques targeted in that Checkpoint. All Checkpoints are hands-on exercises, that requires you to complete the practical sections and answer questions that assess your learning. Check [Checkpoints](#checkpoints) section for more information about this assessment criteria.
-
-Additionally, the Milestones represent significant achievements throughout the course, marking key junctures where you'll showcase your proficiency and apply your newfound expertise to real-world scenarios or projects. Check [Milestones](#milestones) section for more information about this assessment criteria.
-
-Another aspect of real-world projects in computer domain is the ability to demonstrate your skills or share know-how through Demo Presentations. Conventional theoretical or conceptual only presentations are gradually losing their appeal. Moreover, preparing for a hands-on demo enhances your learning, fosters deeper understanding and retention, and stimulates curiosity and critical thinking. You will be challenged to excel in the concept to the point that you can show case it practically and answer questions about it. Check [Demo Presentation](#demo-presentation) section for more information about this assessment criteria.
-
-Finally, your learning is assessed through the Final Evaluation, where you'll synthesize and demonstrate your skills by tackling a complex challenge or developing a comprehensive solution that integrates the knowledge and techniques acquired throughout the course. Check [Final Evaluation](#final-evaluation) section for more information about this assessment criteria.
-
-Adherence to Cloud Resource Management is an important aspect of your learning in this course. You need to demonstrate that you are able to skillfully manage your cloud resources and work within your subscription constraints. Budget Management is the overarching concept but the scope of this assessment goes beyond and above budget management. Check [Budget Management](#budget-management) section for more information about this assessment criteria.
-
-Active participation in this course will not go unnoticed or unrewarded. Bonus Marks are to encourage you to take a proactive approach to this course. If you participate in class discussions, help with demo sessions and are willing to engage in class work to learn and help other students learn then you can earn Bonus Marks. Check [Bonus Marks](#bonus-marks) section for more information about this assessment criteria.
+- **Integrity Badge:** Integrity Badge familiarizes you with [Seneca's Integrity Policy](https://www.senecapolytechnic.ca/about/policies/academic-integrity-policy.html) with an immerse and interactive tutorial. Ideally you must complete this before you access the course material. You will need to complete the training and submit your integrity badge. Refer to the Blackboard Portal for specific instructions.
+- **Checkpoints:** The Checkpoints serve as pivotal deliverables where you'll delve into specific topics, mastering essential concepts and techniques targeted in that Checkpoint. All Checkpoints are hands-on exercises, that requires you to complete the practical sections and answer questions that assess your learning. Check [Checkpoints](#checkpoints) section for more information about this assessment criteria.
+- **Milestones:** Additionally, the Milestones represent significant achievements throughout the course, marking key junctures where you'll showcase your proficiency and apply your newfound expertise to real-world scenarios or projects. Check [Milestones](#milestones) section for more information about this assessment criteria.
+- **Demo Presentation:** Another aspect of real-world projects in computer domain is the ability to demonstrate your skills or share know-how through Demo Presentations. Conventional theoretical or conceptual only presentations are gradually losing their appeal. Moreover, preparing for a hands-on demo enhances your learning, fosters deeper understanding and retention, and stimulates curiosity and critical thinking. You will be challenged to excel in the concept to the point that you can showcase it practically and answer questions about it. Check [Demo Presentation](#demo-presentation) section for more information about this assessment criteria.
+- **Final Evaluation:** Finally, your learning is assessed through the Final Evaluation, where you'll synthesize and demonstrate your skills by tackling a complex challenge or developing a comprehensive solution that integrates the knowledge and techniques acquired throughout the course. Check [Final Evaluation](#final-evaluation) section for more information about this assessment criteria.
+- **Budget Management:** Adherence to Cloud Resource Management is an important aspect of your learning in this course. You need to demonstrate that you are able to skillfully manage your cloud resources and work within your subscription constraints. Budget Management is the overarching concept but the scope of this assessment goes beyond and above budget management. Check [Budget Management](#budget-management) section for more information about this assessment criteria.
+- **Bonus Marks:** Active participation in this course will not go unnoticed or unrewarded. Bonus Marks are to encourage you to take a proactive approach to this course. If you participate in class discussions, help with demo sessions and are willing to engage in class work to learn and help other students learn then you can earn Bonus Marks. Check [Bonus Marks](#bonus-marks) section for more information about this assessment criteria.
 
 ### Checkpoints
 
@@ -61,7 +48,7 @@ Active participation in this course will not go unnoticed or unrewarded. Bonus M
 
 ### Demo Presentation
 
-- Through the course you will compete 1 Case-Study assignment. The demo presentation has two deliverables, an in-class activity where you present a novel topic in form of a demo/hands-on work to class and a blackboard submission of your background research work and concept analysis in slides format.
+- Through the course you will compete 1 Demo Presentation assignment. The demo presentation has two deliverables, an in-class activity where you present a novel topic in form of a demo/hands-on work to class and a blackboard submission of your background research work and concept analysis in slides format.
 - Submission Instructions and Requirements are posted in Course GitHub Organization, links to which can be found in [GitHub Links](#github-links). Due dates and mark breakdown can be found in the Blackboard Portal.
 - You can choose the topic/concept that interests you, but it must be related to course outline. Discuss your idea with the professor and get approval for your chosen topic. Alternatively you can choose from a list of proposed topics.
 - Demo Presentations must be unique in scope and deliverable. It is possible that two students pick a similar topic/concept but you must actively work to make a unique demo with tailored learning objectives that differs from the other student.

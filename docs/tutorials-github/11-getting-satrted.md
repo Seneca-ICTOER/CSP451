@@ -1,6 +1,6 @@
 ---
 id: getting-started
-title: Getting started with GitHub
+title: Getting started
 sidebar_position: 1
 description: TBD
 ---
