@@ -1,6 +1,6 @@
 ---
-id: repositories
-title: Creating Repositories
+id: quickstart-repositories
+title: Quickstart with Repositories
 sidebar_position: 1
 description: TBD
 ---
