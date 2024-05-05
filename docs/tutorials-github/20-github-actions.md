@@ -58,7 +58,7 @@ GitHub Actions uses YAML syntax to define the workflow. Each workflow is stored 
 1. In your repository, create the `.github/workflows/` directory to store your workflow files.
 2. In the `.github/workflows/` directory, create a new file called `quickstart-github-actions.yaml` and add the following code.
 
-```markdown
+```yaml
 name: learn-github-actions
 run-name: ${{ github.actor }} is learning GitHub Actions
 on: [push]
