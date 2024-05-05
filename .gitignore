@@ -26,3 +26,7 @@ publish.bat
 
 # intellij configs
 .idea
+
+# local archive
+.archive
+/.archive
