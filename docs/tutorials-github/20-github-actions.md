@@ -5,7 +5,9 @@ sidebar_position: 1
 description: TBD
 ---
 
-> :sparkles: This page borrows most of its content from [Understanding GitHub Actions](https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions)to give you some basic understanding about GitHub Actions. For a more comprehensive reference about GitHub Actions, refer to [Learn GitHub Actions](https://docs.github.com/en/actions/learn-github-actions)
+> :sparkles: This page borrows most of its content from [Understanding GitHub Actions](https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions)to give you some basic understanding about GitHub Actions. For a more comprehensive reference about GitHub Actions, refer to [Learn GitHub Actions](https://docs.github.com/en/actions/learn-github-actions).
+
+> :sparkles: You can learn about the syntax of workflow files in [Understanding the workflows Files](https://docs.github.com/en/actions/using-workflows/about-workflows#understanding-the-workflow-file) and explore [Workflow syntax for GitHub Actions](https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions). You can also learn the basics of Context in [GitHub Actions Contexts](https://docs.github.com/en/actions/learn-github-actions/contexts).
 
 ## Workflow Automation
 
@@ -75,6 +77,10 @@ GitHub Actions uses YAML syntax to define the workflow. Each workflow is stored 
 3. Commit these changes and push them to your GitHub repository.
 
 Your new GitHub Actions workflow file is now installed in your repository and will run automatically each time someone pushes a change to the repository. You can check its status in **Actions** tab.
+
+## Video Tutorial - GitHub Actions
+
+[![GitHub Actions Tutorial | From Zero to Hero in 90 minutes (Environments, Secrets, Runners, etc)](https://img.youtube.com/vi/TLB5MY9BBa4/0.jpg)](https://www.youtube.com/watch?v=TLB5MY9BBa4)
 
 ## Sources
 
