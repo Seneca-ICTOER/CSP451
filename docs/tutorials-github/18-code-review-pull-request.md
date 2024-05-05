@@ -84,7 +84,6 @@ Overall, this Pull Request Process promotes collaboration, code quality, and tra
 
     ![pull-request-congradulations](../../static/img/tutorials/github/pull-request-congradulations.png)
 
-
 ## Sources
 
 1. [About collaborative development models](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/getting-started/about-collaborative-development-models)
