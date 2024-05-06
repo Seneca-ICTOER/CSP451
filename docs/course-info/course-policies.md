@@ -64,7 +64,7 @@ This course also heavily uses Bash scripting for automating resource provisionin
 In summary, even though the pre-requisites will not be enforced at the time of registering for this course, in order to succeed in this course you must have:
 
 1. Basic knowledge of computer systems and networking.
-2. Basic knowledge of computer networking concepts, including IP addressing, subnetting, and routing.
+2. Basic knowledge of computer networking concepts, including IP addressing, sub-netting, and routing.
 3. Proficiency in Linux command-line interface (CLI), executing commands, and working with Linux File Systems.
 4. Familiarity with cloud computing fundamentals and Azure services is recommended but not mandatory.
 
