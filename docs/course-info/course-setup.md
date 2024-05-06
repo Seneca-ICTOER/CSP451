@@ -7,8 +7,8 @@ description: Course Setup CSP451
 
 ## Useful Resources
 
-| [MySeneca (Blackboard)](https://my.senecacollege.ca/) | [Course Outline](https://apps.senecapolytechnic.ca/ssos/findOutline.do?termCode=08424&subjectCode=CSP451&schoolCode=ITAS) | [Student Services](https://www.senecapolytechnic.ca/about/policies/academics-and-student-services.html) | [Seneca's Copyright Policy](https://www.senecapolytechnic.ca/about/policies/copyright-policy.html) |
-| :--- | :--- | :--- | :--- |
+| [MySeneca (Blackboard)](https://my.senecacollege.ca/) | [Course Outline](https://apps.senecapolytechnic.ca/ssos/findOutline.do?termCode=08424&subjectCode=CSP451&schoolCode=ITAS) | [Student Services](https://www.senecapolytechnic.ca/about/policies/academics-and-student-services.html) |
+| :--- | :--- | :--- |
 
 ## GitHub Links
 
@@ -17,7 +17,7 @@ description: Course Setup CSP451
 
 ## Onboarding GitHub Organization
 
-![github-organization](/img/about/github_icon.png)
+![github-organization](../../static/img/about/github_icon.png)
 
 You need a GitHub account to submit most of the CSP451 Coursework. The GitHub account you use in this course must be linked to your _@myseneca.ca_ email. You cannot use personal or work GitHub Accounts for this course.
 

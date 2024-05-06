@@ -7,8 +7,8 @@ description: Course Collaborations CSP451
 
 ## Useful Resources
 
-| [MySeneca (Blackboard)](https://my.senecacollege.ca/) | [Course Outline](https://apps.senecapolytechnic.ca/ssos/findOutline.do?termCode=08424&subjectCode=CSP451&schoolCode=ITAS) | [Student Services](https://www.senecapolytechnic.ca/about/policies/academics-and-student-services.html) | [Seneca's Copyright Policy](https://www.senecapolytechnic.ca/about/policies/copyright-policy.html) |
-| :--- | :--- | :--- | :--- |
+| [MySeneca (Blackboard)](https://my.senecacollege.ca/) | [Course Outline](https://apps.senecapolytechnic.ca/ssos/findOutline.do?termCode=08424&subjectCode=CSP451&schoolCode=ITAS) | [Student Services](https://www.senecapolytechnic.ca/about/policies/academics-and-student-services.html) |
+| :--- | :--- | :--- |
 
 ## GitHub Links
 
@@ -21,25 +21,22 @@ GitHub Discussions is a feature introduced by GitHub that enables individuals to
 
 > GitHub Discussions is a collaborative communication forum for the community around an open source or internal project. Discussions are for conversations that need to be transparent and accessible but do not need to be tracked on a project and are not related to code, unlike GitHub Issues. Discussions enable fluid, open conversation in a public forum. [1]
 
-Key features of GitHub Discussions:
-
-1. **Structured Conversations:** Discussions can be organized into categories or topics, making it easier for users to find relevant threads and participate in specific areas of interest.
-2. **Rich Formatting:** Users can format their posts using Markdown, allowing for clear and well-structured communication. They can include code snippets, images, links, and other media to enhance their messages.
-3. **Moderation Tools:** Project maintainers have control over discussions and can moderate them to ensure they remain constructive and on-topic. They can close or lock threads, mark answers as solutions, and manage user permissions.
-4. **Integration with Issues and Pull Requests:** Discussions can be linked to issues and pull requests, providing context and allowing users to discuss specific topics related to the project's development.
-5. **Community Engagement:** GitHub Discussions fosters community engagement by enabling users to interact directly with project maintainers, contributors, and other community members. It promotes transparency, collaboration, and knowledge sharing within the project community.
-
 For more details about GitHub Discussions and how to enable it in, refer to: [Quickstart for GitHub Discussions](https://docs.github.com/en/discussions/quickstart)
 
 ## CSP451 GitHub Discussion Channels
 
-![github-collaborations](/img/about/github_discussions.jpg)
+![github-collaborations](../../static/img/about/github_discussions.jpg)
 
-This course will uses GitHub Discussions for collaboration, discussion and problem solving. Discussion channels are configured in the course GitHub organization, refer to [GitHub Links](#github-links) section for all GitHub resources. General guidelines for effective use of GitHub Discussions:
+This course will uses GitHub Discussions for collaboration, discussion and problem solving. GitHub Discussions provide a space for asynchronous communication and collaboration. Create discussion threads for general questions, brainstorming sessions, or feedback on project ideas. Follow these guidelines to use this space effectively:
 
-- Always create discussion topics with meaningful titles that other students can use in their searches.
-- Add proper tags, and include all details in the discussion body.
+- Craft discussion topics with meaningful titles for easy searchability.
+- Use descriptive titles that accurately portray discussion content.
+- Organize threads into clear and specific topics to aid navigation.
+- Incorporate appropriate tags and provide comprehensive details within the discussion body.
+- Include labels that provide additional context or information about the nature of the discussion, such as whether it pertains to a specific project, feature, or issue.
 - A well-created, clear and concise topic will always get better attention.
+- Think searchability! Design your discussion title, label, body such that it becomes easier for other users to filter and find relevant information or previous discussions on a particular topic.
+
 
 ## GitHub Community Guidelines
 
