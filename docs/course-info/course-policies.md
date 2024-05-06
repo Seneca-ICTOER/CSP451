@@ -1,5 +1,5 @@
 ---
-id: course-what
+id: course-policies
 title: Course Policies
 sidebar_position: 1
 description: Course Policies CSP451
