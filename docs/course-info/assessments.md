@@ -97,16 +97,16 @@ In order to successfully pass this course, you need to comply with below:
 
 In order to successfully pass this course, you need to comply with below:
 
-- Any coursework not completed will be given a grade 0 and Special Course Promotion Policy will be in effect​.
-- Coursework submitted after the end of the semester will not be graded and a grade of 0 is awarded.
+- Any coursework not completed will be given a grade 0 and the Special Course Promotion Policy will be in effect.
+- Coursework submitted after the semester's end will not be graded, and a grade of 0 is awarded.
 - Late submissions receive a penalty of 30% per day for a maximum of 3 days. After the 3rd day, a grade of 0 is awarded.
-    - Example: if an assignment is due March 20 but it was submitted on March 21. Assuming you had earned an original mark of 10/15. Since the assignment was submitted 1 day late, you ultimate mark would be 8.5/15 (10% penalty).
-    - Example: if an assignment is due March 20 but it was submitted on March 24. Assuming you had earned an original mark of 10/15. Since the assignment was submitted over 3 days late,  your ultimate mark would be 0 (more than 3 days late).
-- Checkpoints/Milestones that are submitted after due dates, will receive a penalty of 30% per every day of late submission for a maximum of 3 days. No marks will be given to Milestones or Checkpoints submitted 3 days or later than the due date​.
-- If you have missed the Checkpoint/Milestone due date by more than three days, you must still submit your work completely, course promotion policies require you to submit all your coursework to avoid failing the course.
-- Demo Presentations must be delivered on the date you have committed. If you miss to deliver your presentation on the scheduled date, you receive 0 marks. In case of emergency, or issues that you believe qualify for special accommodations, discuss the matter with the professor. Be reminded, doctor notes, or accident photos are not accepted to postpone or reschedule your Demo Presentation.
-- Final Evaluation that are submitted after due date receive no marks, Special Course Promotion Policy will be in effect​, that means you will fail the course if you submit the Final Evaluation later than due date.
-- In the event you requires additional time to work on the assessment, you must contact the professor at least 24 hours before the due date to discuss submission options otherwise the late submission policy will apply. This exception is not applicable to Demo Presentation and Final Evaluation.
+    - Example: if an assignment is due March 20 but it was submitted on March 21. Assuming you had earned an original mark of 10/15. Since the assignment was submitted 1 day late, your ultimate mark would be 8.5/15 (10% penalty).
+    - Example: if an assignment is due March 20 but it was submitted on March 24. Assuming you had earned an original mark of 10/15. Since the assignment was submitted over 3 days late, your ultimate mark would be 0 (more than 3 days late).
+    - Checkpoints/Milestones that are submitted after due dates, will receive a penalty of 30% per every day of late submission for a maximum of 3 days. No marks will be given to Milestones or Checkpoints submitted 3 days or later than the due date.
+- If you have missed the Checkpoint/Milestone due date by more than three days, you must still submit your work completely. Course promotion policies require you to submit all your coursework to avoid failing the course.
+- Demo Presentations must be delivered on the date you have committed. If you fail to deliver your presentation on the scheduled date, you receive 0 marks. In case of emergency, or issues that you believe qualify for special accommodations, discuss the matter with the professor. Be reminded, doctor notes, or accident photos are not accepted to postpone or reschedule your Demo Presentation.
+- Final Evaluation submitted after due date receives no marks; Special Course Promotion Policy will be in effect, meaning you will fail the course if you submit the Final Evaluation later than due date.
+- In the event you require additional time to work on the assessment, you must contact the professor at least 24 hours before the due date to discuss submission options otherwise the late submission policy will apply. This exception is not applicable to Demo Presentation and Final Evaluation.
 
 ### Useful Assessment Policies
 
