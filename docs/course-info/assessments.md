@@ -7,8 +7,8 @@ description: Course Assessments CSP451
 
 ## Useful Resources
 
-| [MySeneca (Blackboard)](https://my.senecacollege.ca/) | [Course Outline](https://apps.senecapolytechnic.ca/ssos/findOutline.do?termCode=08424&subjectCode=CSP451&schoolCode=ITAS) | [Student Services](https://www.senecapolytechnic.ca/about/policies/academics-and-student-services.html) | [Seneca's Copyright Policy](https://www.senecapolytechnic.ca/about/policies/copyright-policy.html) |
-| :--- | :--- | :--- | :--- |
+| [MySeneca (Blackboard)](https://my.senecacollege.ca/) | [Course Outline](https://apps.senecapolytechnic.ca/ssos/findOutline.do?termCode=08424&subjectCode=CSP451&schoolCode=ITAS) | [Student Services](https://www.senecapolytechnic.ca/about/policies/academics-and-student-services.html) |
+| :--- | :--- | :--- |
 
 ## GitHub Links
 
@@ -82,16 +82,16 @@ Learning journey is structured around below Assessment Criteria, each designed t
 
 ## Assessment Policies
 
-![assessment-policies](/img/about/policies_image.jpg)
+![assessment-policies](../../static/imag/about/policies_image.jpg)
 
 ### Special Course Promotion Policies
 
 In order to successfully pass this course, you need to comply with below:
 
 1. Achieve a weighted average of 50% or better on the overall course
-2. Achieve a weighted average of 50% or better for each of the Checkpoints and Milestones
+2. Achieve a weighted average of 50% or better for each Assessment
 3. Achieve a weighted average of 50% or better for the final evaluation
-4. Must satisfactorily complete **ALL** Checkpoints, Milestones, and Final Evaluation
+4. Must satisfactorily complete **ALL** assigned coursework and assessments
 
 ### Late Submission Policies
 
@@ -99,7 +99,7 @@ In order to successfully pass this course, you need to comply with below:
 
 - Any coursework not completed will be given a grade 0 and Special Course Promotion Policy will be in effect​.
 - Coursework submitted after the end of the semester will not be graded and a grade of 0 is awarded.
-- Late submissions receive a penalty of 10% per day for a maximum of 3 days. After the 3rd day, a grade of 0 is awarded.
+- Late submissions receive a penalty of 30% per day for a maximum of 3 days. After the 3rd day, a grade of 0 is awarded.
     - Example: if an assignment is due March 20 but it was submitted on March 21. Assuming you had earned an original mark of 10/15. Since the assignment was submitted 1 day late, you ultimate mark would be 8.5/15 (10% penalty).
     - Example: if an assignment is due March 20 but it was submitted on March 24. Assuming you had earned an original mark of 10/15. Since the assignment was submitted over 3 days late,  your ultimate mark would be 0 (more than 3 days late).
 - Checkpoints/Milestones that are submitted after due dates, will receive a penalty of 30% per every day of late submission for a maximum of 3 days. No marks will be given to Milestones or Checkpoints submitted 3 days or later than the due date​.
