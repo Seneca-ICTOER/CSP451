@@ -82,7 +82,7 @@ Learning journey is structured around below Assessment Criteria, each designed t
 
 ## Assessment Policies
 
-![assessment-policies](../../static/imag/about/policies_image.jpg)
+![assessment-policies](../../static/img/about/policies_image.jpg)
 
 ### Special Course Promotion Policies
 
