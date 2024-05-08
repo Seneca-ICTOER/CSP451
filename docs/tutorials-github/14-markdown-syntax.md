@@ -19,9 +19,6 @@ To create a heading, add one to six <kbd>#</kbd> symbols before your heading tex
 
 ![Screenshot of rendered GitHub Markdown showing sample h1, h2, and h3 headers, which descend in type size and visual weight to indicate descending hierarchy level.](../../static/img/tutorials/github/headings-rendered.png)
 
-When you use two or more headings, GitHub automatically generates a table of contents that you can access by clicking [octicon-list-unordered-icon](https://commons.wikimedia.org/wiki/File:Octicons-list-unordered.svg) within the file header. Each heading title is listed in the table of contents and you can click a title to navigate to the selected section.
-
-![Screenshot of the README file in the GitHub Docs open source repository with the drop-down menu for the table of contents exposed. The table of contents icon is outlined in dark orange.](../../static/img/tutorials/github/headings-toc.png)
 
 ## Styling text
 
@@ -71,6 +68,8 @@ git add
 git commit
 ```
 </pre>
+
+This Markdown code will look like below image, it has a text and a code block. Notice the "Copy to Clipboard" icon shows when mouse hovers over code block. Of course, if you properly quoted the code.
 
 ![Screenshot of rendered GitHub Markdown showing a code block. The words "git status," "git add," and "git commit" appear in a fixed-width typeface, highlighted in light gray.](../../static/img/tutorials/github/code-block-rendered.png)
 
