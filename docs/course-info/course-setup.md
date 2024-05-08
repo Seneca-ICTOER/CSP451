@@ -27,5 +27,6 @@ If you have not created a GitHub account using your Seneca email, you can wait u
 
 In this course, it's essential to adhere to the username and profile naming convention. This is because assignments may be marked using an automated marking tool that relies on your username and password from the "GitHub Account Username List" in the Blackboard portal. Ensuring the correct username is used is crucial to avoid any loss of marks.
 
-"Your username follows the format `<student_number>-myseneca`, utilizing a hyphen `-` instead of an underscore `_`, and it's case-sensitive. Additionally, please ensure your profile name reflects your full name. As this is an academic course, it's important to maintain a professional profile, so refrain from choosing overly innovative or flashy profile names or photos.
+Your username follows the format `<student_number>-myseneca`, utilizing a hyphen `-` instead of an underscore `_`, and it's case-sensitive. You can also find your GitHub username in the Blackboard Portal, in **Class Information** module in **GitHub Account Username List** Page.
 
+Additionally, please ensure your profile name reflects your full name. As this is an academic course, it's important to maintain a professional profile, so refrain from choosing overly innovative or flashy profile names or photos.

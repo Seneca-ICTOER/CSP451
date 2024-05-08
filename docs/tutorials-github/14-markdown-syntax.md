@@ -69,7 +69,7 @@ git commit
 ```
 </pre>
 
-This Markdown code will look like below image, it has a text and a code block. Notice the "Copy to Clipboard" icon shows when mouse hovers over code block. Of course, if you properly quoted the code.
+This Markdown code will look like below image, it has a text and a code block. Notice the "**Copy to Clipboard**" icon shows when mouse hovers over code block. Of course, if you properly quoted the code.
 
 ![Screenshot of rendered GitHub Markdown showing a code block. The words "git status," "git add," and "git commit" appear in a fixed-width typeface, highlighted in light gray.](../../static/img/tutorials/github/code-block-rendered.png)
 
