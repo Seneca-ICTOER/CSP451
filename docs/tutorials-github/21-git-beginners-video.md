@@ -45,7 +45,7 @@ TO help you find quality learning videos on YouTube, when I find something usefu
 
 [![Git & GitHub Tutorial for Beginners #8 - Branches](https://img.youtube.com/vi/QV0kVNvkMxc/0.jpg)](https://www.youtube.com/watch?v=QV0kVNvkMxc)
 
-### 9 - Merging Branches (& conflicts)
+### 9 - Merging Branches & conflicts
 
 [![Git & GitHub Tutorial for Beginners #9 - Merging Branches (& conflicts)](https://img.youtube.com/vi/XX-Kct0PfFc/0.jpg)](https://www.youtube.com/watch?v=XX-Kct0PfFc)
 
@@ -57,6 +57,6 @@ TO help you find quality learning videos on YouTube, when I find something usefu
 
 [![Git & GitHub Tutorial for Beginners #11 - Collaborating on GitHub](https://img.youtube.com/vi/MnUd31TvBoU/0.jpg)](https://www.youtube.com/watch?v=MnUd31TvBoU)
 
-### 12 - Forking (& Contributing)
+### 12 - Forking & Contributing
 
 [![Git & GitHub Tutorial for Beginners #12 - Forking (& Contributing)](https://img.youtube.com/vi/HbSjyU2vf6Y/0.jpg)](https://www.youtube.com/watch?v=HbSjyU2vf6Y)
