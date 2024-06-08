@@ -18,7 +18,7 @@ description: Weekly Schedule CSP451
 ## Week 1 - Introduction to Course
 
 | Topics | Reading/Reference |
-| :---  | :---  |
+| - | - |
 | Introduction to Course | [Introduction to CSP451](./landing-page.md) |
 | Course Policies | [Course Policies](./course-info/course-policies.md) |
 | Course Assessments |[Assessment Policies](./course-info/assessments.md) |
