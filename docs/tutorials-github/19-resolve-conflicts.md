@@ -31,7 +31,7 @@ A failure DURING a merge indicates a conflict between the current local branch a
 error: Entry '<fileName>' would be overwritten by merge. Cannot merge. (Changes in staging area)
 ```
 
-## How to resolve merge conflicts?
+## How to resolve merge conflicts using VSCode Editor?
 
 Git always produces some descriptive output letting us know that a **CONFLICT** has occurred. Assume two contributors have worked on the same file `test.txt` and a conflict has occurred. You can gain further insight by running the `git` status command
 
@@ -70,7 +70,7 @@ Here you have used the cat command to put out the contents of the `test.txt` fil
 
 Think of these new lines as _conflict dividers_. The `=======` line is the **center** of the conflict. All the content between the `center` and the `<<<<<<< HEAD` line is content that exists in the current branch `main` which the `HEAD ref` is pointing to. Alternatively all content between the `center` and `>>>>>>> new_branch_to_merge_later` is content that is present in our merging branch.
 
-### How to resolve merge conflicts using the command line?
+## How to resolve merge conflicts using the command line?
 
 The most direct way to resolve a merge conflict is to `edit` the conflicted file. Open the `test.txt` file in your favorite editor. For our example lets simply remove all the conflict dividers. The modified `test.txt` content should then look like:
 
@@ -88,7 +88,7 @@ git commit -m "merged and resolved the conflict in `test.txt`"
 
 Git will see that the conflict has been resolved and creates a new merge commit to finalize the merge.
 
-### Git commands that can help resolve merge conflicts
+## Git commands that can help resolve merge conflicts
 
 The `git status` command is in frequent use when a working with Git and during a merge it will help identify conflicted files.
 

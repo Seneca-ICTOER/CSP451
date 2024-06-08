@@ -17,9 +17,7 @@ Markdown is a lightweight markup language with plain-text formatting syntax desi
 
 Learning Markdown can enhance your productivity, improve your communication skills, and makes you more effective in various professional and creative endeavors.
 
-## Markdown Cheat Sheet
-
-### Basic Syntax
+## Markdown Basic Syntax
 
 | Element | Markdown Syntax |
 | ---- | ---------- |
@@ -34,7 +32,7 @@ Learning Markdown can enhance your productivity, improve your communication skil
 | [Link](https://www.markdownguide.org/basic-syntax/#links) | `[title](https://www.example.com)` |
 | [Image](https://www.markdownguide.org/basic-syntax/#images-1) | `![alt text](image.jpg)` |
 
-### Extended Syntax
+## Markdown Extended Syntax
 
 | Element | Markdown Syntax |
 | ---- | ---------- |

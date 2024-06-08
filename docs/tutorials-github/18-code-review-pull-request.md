@@ -17,11 +17,11 @@ When a pull request is opened, it serves as a discussion thread where developers
 
 The way you use pull requests depends on the type of development model you use in your project. You can use the **fork and pull model** or the **shared repository model**. Below you can find a brief description of each model:
 
-### Fork and pull model
+### 1. Fork and pull model
 
 In the fork and pull model, anyone can fork an existing repository and push changes to their personal fork. You do not need permission to the source repository to push to a user-owned fork. The changes can be pulled into the source repository by the project maintainer. When you open a pull request proposing changes from your user-owned fork to a branch in the source (upstream) repository, you can allow anyone with push access to the upstream repository to make changes to your pull request. This model is popular with open source projects as it reduces the amount of friction for new contributors and allows people to work independently without upfront coordination.
 
-### Shared repository model
+### 2. Shared repository model
 
 In the shared repository model, collaborators are granted push access to a single shared repository and topic branches are created when changes need to be made. Pull requests are useful in this model as they initiate code review and general discussion about a set of changes before the changes are merged into the main development branch. This model is more prevalent with small teams and organizations collaborating on private projects.
 

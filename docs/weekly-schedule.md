@@ -15,7 +15,7 @@ description: Weekly Schedule CSP451
 | [CSP451 GitHub](https://github.com/CSP451) | [GitHub Discussions](https://github.com/orgs/CSP451/discussions) | [Assignment Instructions](https://github.com/CSP451/CSP451-ComputerSystemsProject) | [CSP451 Scripts](https://github.com/CSP451/CSP451-Scripts) |
 | :--- | :--- | :--- | :--- |
 
-## Week 1 - Introduction to Course
+## Introduction to Course
 
 | Topics | Reading/Reference |
 | - | - |
@@ -24,54 +24,65 @@ description: Weekly Schedule CSP451
 | Course Assessments |[Assessment Policies](./course-info/assessments.md) |
 | Course Setup | [Course Setup](./course-info/course-setup.md) |
 | Effective use of GitHub Discussion | [Course Collaboration](./course-info/collaborations.md) |
-| Introduction to Version Control| [Tutorial - Introduction to Version Control](./tutorials-github/10-version-control.md) |
-| Introduction to Markdown | [Tutorial - Introduction to Markdown](./tutorials-github/13-markdown-intro.md) |
-| Markdown Syntax | [Tutorial - Markdown Syntax](./tutorials-github/14-markdown-syntax.md) |
 
+## Week 1 - Introduction to GitHub
+
+| Topics | Reading/Reference |
+| - | - |
+| Introduction to Version Control| [Tutorial: Introduction to Version Control](./tutorials-github/10-version-control.md) |
+| Getting started with GitHub | [Tutorial: Getting started with GitHub](./tutorials-github/11-getting-satrted.md) |
+| Introduction to Markdown | [Tutorial: Introduction to Markdown](./tutorials-github/13-markdown-intro.md) |
+| Quickstart Repositories | [Tutorial: Quickstart Repositories](./tutorials-github/12-quickstart-repositories.md) |
+| Markdown Syntax | [Tutorial: Markdown Syntax](./tutorials-github/14-markdown-syntax.md) |
 
 **Tasks and Assignments:**
 
 1. Complete and submit your **Integrity badge**
-2. Complete GitHub Onboarding. See [Course Setup](./course-info/course-setup.md) for tools you need to install. Follow the steps in [Getting started with GitHub](./tutorials-github/11-getting-satrted.md)
-3. Complete Creating and Configuring your Private GitHub Repository. Follow the steps in [Create a repository](./tutorials-github/12-quickstart-repositories.md)
-4. Complete and submit your **Checkpoint1**
+2. Follow the steps in [GitHub Username and Profile Name](./course-info/course-setup#github-username-and-profile-name) for correct username syntax.
+3. Follow the steps in [Getting started with GitHub](./tutorials-github/11-getting-satrted.md) to complete GitHub Setup.
+4. Follow the steps in [Quickstart Repositories](./tutorials-github/12-quickstart-repositories.md) to complete Creating and Configuring your Private GitHub Repository.
+5. Complete and submit your **Checkpoint1**
 
-## Week 2 - Introduction to GitHub
+## Week 2 - Introduction to Branches
 
 | Topics | Reading/Reference |
-| :--- | :--- |
-| Git Branching & Local Repositories | [Tutorial - Git Branching](./tutorials-github/17-git-branching.md) |
+| - | - |
+|Cloning Repositories| [Tutorial: Cloning Repositories](./tutorials-github/15-cloning-repositories.md) |
+| Basic Git Commands | [Tutorial: Basic Git Commands](./tutorials-github/16-basic-commnads.md) |
+| Collaboration using Branches | [Tutorial: Collaboration using Branches](./tutorials-github/17-git-branching.md) |
 
 **Tasks and Assignments:**
 
-1. Complete Course Software Setup for Part One - Getting Started with GitHub
+1. Follow the instructions in [Setup Your Local Environment](./course-info/course-setup#setup-your-local-environment) and install all the software you need to setup your local environment.
 2. Complete and submit your **Checkpoint2**
-3. Select a topic and sign up for Demo Presentation, if you have not done yet
+3. Select your Demo Presentation topic and communicate with the course professor.
 
 ## Week 3 - GitHub Collaboration Flow
 
 | Topics | Reading/Reference |
-| :--- | :--- |
-| Collaborative flows & Pull Requests | [Tutorial - Pull Request](./tutorials-github/18-code-review-pull-request.md) |
+| - | - |
+| Code Review Pull Request | [Tutorial: Code Review Pull Request](./tutorials-github/18-code-review-pull-request.md) |
+| Conflict Resolution Strategies | [Tutorial: Conflict Resolution Strategies](./tutorials-github/19-resolve-conflicts.md) |
 
 **Tasks and Assignments:**
 
-1. Install GitHub Desktop and configure it. **Do not** re-clone your repository
+1. Follow the instructions in [Setup Your Local Environment](./course-info/course-setup#setup-your-local-environment) and install GitHub Desktop and configure it. **Do not** re-clone your repository
 2. Complete and submit your **Checkpoint3**
-3. Demo Presentation, follow Demo Presentation schedule on Blackboard Portal
+3. Follow Demo Presentation schedule on Blackboard Portal.
 4. Start Working on your **Milestone1**
 
 ## Week 4 - GitHub Actions Workflows
 
 | Topics | Reading/Reference |
 | :--- | :--- |
-| CI/CD with GitHub Actions Workflows | [Tutorial - GitHub Actions](./tutorials-github/20-github-actions.md) |
+| GitHub Actions | [Tutorial: GitHub Actions](./tutorials-github/20-github-actions.md) |
+| GitHub Video Tutorials | [GitHub Video Tutorials](./tutorials-github/21-git-beginners-video.md) |
 
 **Tasks and Assignments:**
 
 1. Complete and submit your **Checkpoint4**
 2. Complete onboarding Azure ODL environment & Configure CLI
-3. Complete Course Software Setup for Part Two
+3. Complete Course Software Setup fosr Part Two
 4. Demo Presentation, follow Demo Presentation schedule on Blackboard Portal
 
 ## Week 5 - Introduction to Azure Project
