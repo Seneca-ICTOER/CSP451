@@ -89,8 +89,8 @@ description: Weekly Schedule CSP451
 
 | Topics | Reading/Reference |
 | - | - |
-| Azure Project Overview | [Azure Project Overview](./tutorials-azure/) |
-| Azure Resource Creation from CLI | [Tutorial: Azure Resource Creation from CLI](./tutorials-azure/) |
+| Azure Project Overview | [Azure Project Overview](./tutorials-azure/20-azure-resources.md) |
+| Azure Resource Creation from CLI | [Tutorial: Azure Resource Creation from CLI](./tutorials-azure/20-azure-resources.md) |
 
 **Content:**
 
@@ -115,7 +115,7 @@ description: Weekly Schedule CSP451
 
 | Topics | Reading/Reference |
 | - | - |
-| Azure Resource Creation Using ARM | [Tutorial: Azure Resource Creation Using ARM](./tutorials-azure/) |
+| Azure Resource Creation Using ARM | [Tutorial: Azure Resource Creation Using ARM](./tutorials-azure/20-azure-resources.md) |
 
 **Tasks and Assignments:**
 
@@ -127,7 +127,7 @@ description: Weekly Schedule CSP451
 
 | Topics | Reading/Reference |
 | - | - |
-| Azure Project Overview | [Azure Project Overview](./tutorials-azure/) |
+| Azure Project Overview | [Azure Project Overview](./tutorials-azure/20-azure-resources.md) |
 
 **Tasks and Assignments:**
 
@@ -141,7 +141,7 @@ description: Weekly Schedule CSP451
 
 | Topics | Reading/Reference |
 | - | - |
-| Azure Project Overview | [Azure Project Overview](./tutorials-azure/) |
+| Azure Project Overview | [Azure Project Overview](./tutorials-azure/20-azure-resources.md) |
 
 **Tasks and Assignments:**
 
