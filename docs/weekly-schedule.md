@@ -74,7 +74,7 @@ description: Weekly Schedule CSP451
 ## Week 4 - GitHub Actions Workflows
 
 | Topics | Reading/Reference |
-| :--- | :--- |
+| - | - |
 | GitHub Actions | [Tutorial: GitHub Actions](./tutorials-github/20-github-actions.md) |
 | GitHub Video Tutorials | [GitHub Video Tutorials](./tutorials-github/21-git-beginners-video.md) |
 
@@ -86,6 +86,11 @@ description: Weekly Schedule CSP451
 4. Demo Presentation, follow Demo Presentation schedule on Blackboard Portal
 
 ## Week 5 - Introduction to Azure Project
+
+| Topics | Reading/Reference |
+| - | - |
+| Azure Project Overview | [Azure Project Overview](./tutorials-azure/) |
+| Azure Resource Creation from CLI | [Tutorial: Azure Resource Creation from CLI](./tutorials-azure/) |
 
 **Content:**
 
@@ -106,7 +111,11 @@ description: Weekly Schedule CSP451
 6. Demo Presentation, follow Demo Presentation schedule on Blackboard Portal
 7. Complete and submit your **Milestone1**
 
-## Week 6 - Azure Resource Creation from CLI
+## Week 6 - Azure Resource Creation Using ARM
+
+| Topics | Reading/Reference |
+| - | - |
+| Azure Resource Creation Using ARM | [Tutorial: Azure Resource Creation Using ARM](./tutorials-azure/) |
 
 **Tasks and Assignments:**
 
@@ -116,6 +125,10 @@ description: Weekly Schedule CSP451
 
 ## Week 7 - Linux Router Firewall and iptables
 
+| Topics | Reading/Reference |
+| - | - |
+| Azure Project Overview | [Azure Project Overview](./tutorials-azure/) |
+
 **Tasks and Assignments:**
 
 1. Complete and submit your **Checkpoint7**
@@ -123,3 +136,15 @@ description: Weekly Schedule CSP451
 3. Demo Presentation, follow Demo Presentation schedule on Blackboard Portal
 
 ## Study Week
+
+## Week 8 - Linux Router Firewall and iptables
+
+| Topics | Reading/Reference |
+| - | - |
+| Azure Project Overview | [Azure Project Overview](./tutorials-azure/) |
+
+**Tasks and Assignments:**
+
+1. Complete and submit your **Checkpoint7**
+2. Continue working on your **Milestone2**. This is a challenging assessment, start early.
+3. Demo Presentation, follow Demo Presentation schedule on Blackboard Portal
